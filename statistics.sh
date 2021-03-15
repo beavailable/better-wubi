@@ -1,13 +1,53 @@
 #!/bin/bash
-# $1: header
-print_map() {
-    echo "$1"
+declare -A freq
+
+count_chars() {
+    local chars left_total right_total total letter count ratio
+    chars=$(sed -nE '/^.* .$/p' $1 | sort -st ' ' -k 2,2 | uniq -f 1)
+    left_total=0
+    right_total=0
+    for letter in {a..y}; do
+        count=$(echo "$chars" | sed -nE "/^.*$letter.* .$/p" | wc -l)
+        if [[ 'qwertasdfgxcvb' == *$letter* ]]; then
+            ((left_total += count))
+        else
+            ((right_total += count))
+        fi
+        freq[$letter]=$(awk "BEGIN {printf(\"%.1f\",$count/1000)}")
+    done
+    echo '单字（以千为单位）：'
+    print_freq
+    total=$((left_total + right_total))
+    ratio=$(awk "BEGIN {printf(\"%d%%:%d%%\",$left_total/$total*100,$right_total/$total*100)}")
+    echo "左边总计：$left_total，右边总计：$right_total，比例为 $ratio"
+}
+count_words() {
+    local words left_total right_total total letter count ratio
+    words=$(sed -nE '/^.* .{2,}$/p' $1)
+    left_total=0
+    right_total=0
+    for letter in {a..y}; do
+        count=$(echo "$words" | sed -nE "/^.*$letter.* .*$/p" | wc -l)
+        if [[ 'qwertasdfgxcvb' == *$letter* ]]; then
+            ((left_total += count))
+        else
+            ((right_total += count))
+        fi
+        freq[$letter]=$(awk "BEGIN {printf(\"%.1f\",$count/10000)}")
+    done
+    echo '词组（以万为单位）：'
+    print_freq
+    total=$((left_total + right_total))
+    ratio=$(awk "BEGIN {printf(\"%d%%:%d%%\",$left_total/$total*100,$right_total/$total*100)}")
+    echo "左边总计：$left_total，右边总计：$right_total，比例为 $ratio"
+}
+print_freq() {
     echo '---------------------------------------------------------------------------------'
-    echo "| Q-${map['q']} | W-${map['w']} | E-${map['e']} | R-${map['r']} | T-${map['t']} | Y-${map['y']} | U-${map['u']} | I-${map['i']} | O-${map['o']} | P-${map['p']} |"
+    echo "| Q-${freq['q']} | W-${freq['w']} | E-${freq['e']} | R-${freq['r']} | T-${freq['t']} | Y-${freq['y']} | U-${freq['u']} | I-${freq['i']} | O-${freq['o']} | P-${freq['p']} |"
     echo '---------------------------------------------------------------------------------'
-    echo " | A-${map['a']} | S-${map['s']} | D-${map['d']} | F-${map['f']} | G-${map['g']} | H-${map['h']} | J-${map['j']} | K-${map['k']} | L-${map['l']} |"
+    echo " | A-${freq['a']} | S-${freq['s']} | D-${freq['d']} | F-${freq['f']} | G-${freq['g']} | H-${freq['h']} | J-${freq['j']} | K-${freq['k']} | L-${freq['l']} |"
     echo ' -------------------------------------------------------------------------'
-    echo "   | Z     | X-${map['x']} | C-${map['c']} | V-${map['v']} | B-${map['b']} | N-${map['n']} | M-${map['m']} |"
+    echo "   | Z     | X-${freq['x']} | C-${freq['c']} | V-${freq['v']} | B-${freq['b']} | N-${freq['n']} | M-${freq['m']} |"
     echo '   ---------------------------------------------------------'
 }
 
@@ -16,18 +56,6 @@ if [ $# = 0 ]; then
     exit 1
 fi
 
-declare -A map
-
-hanzi=$(sed -nE '/^.* .$/p' $1 | sort -st ' ' -k 2,2 | uniq -f 1)
-for letter in {a..y}; do
-    count=$(echo "$hanzi" | sed -nE "/^.*$letter.* .$/p" | wc -l)
-    map[$letter]=$(awk "BEGIN {ret=sprintf(\"%.1f\",$count/1000); print ret}")
-done
-print_map '单字（以千为单位）：'
-
-words=$(sed -nE '/^.* .{2,}$/p' $1)
-for letter in {a..y}; do
-    count=$(echo "$words" | sed -nE "/^.*$letter.* .*$/p" | wc -l)
-    map[$letter]=$(awk "BEGIN {ret=sprintf(\"%.1f\",$count/10000); print ret}")
-done
-print_map '词组（以万为单位）：'
+count_chars "$@"
+echo
+count_words "$@"
