@@ -1,2 +1,3 @@
 #!/bin/bash
-cat better-wubi.dict | sort -st ' ' -k 1,1 >better-wubi-sorted.dict
+content=$(cat better-wubi.dict)
+echo "$content" | sort -st ' ' -k 1,1 >better-wubi.dict
