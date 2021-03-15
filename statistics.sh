@@ -18,7 +18,7 @@ count_chars() {
     echo '单字（以千为单位）：'
     print_freq
     total=$((left_total + right_total))
-    ratio=$(awk "BEGIN {printf(\"%d%%:%d%%\",$left_total/$total*100,$right_total/$total*100)}")
+    ratio=$(awk "BEGIN {printf(\"%.f%%:%.f%%\",$left_total/$total*100,$right_total/$total*100)}")
     echo "左边总计：$left_total，右边总计：$right_total，比例为 $ratio"
 }
 count_words() {
@@ -38,7 +38,7 @@ count_words() {
     echo '词组（以万为单位）：'
     print_freq
     total=$((left_total + right_total))
-    ratio=$(awk "BEGIN {printf(\"%d%%:%d%%\",$left_total/$total*100,$right_total/$total*100)}")
+    ratio=$(awk "BEGIN {printf(\"%.f%%:%.f%%\",$left_total/$total*100,$right_total/$total*100)}")
     echo "左边总计：$left_total，右边总计：$right_total，比例为 $ratio"
 }
 print_freq() {
