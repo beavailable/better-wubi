@@ -3,7 +3,7 @@ declare -A freq
 
 count_chars() {
     local chars left_total right_total total letter count ratio
-    chars=$(sed -nE '/^.* .$/p' better-wubi.dict | sort -st ' ' -k 2,2 | uniq -f 1)
+    chars=$(sed -nE '/^.* .$/p' $1 | sort -st ' ' -k 2,2 | uniq -f 1)
     left_total=0
     right_total=0
     for letter in {a..y}; do
@@ -23,7 +23,7 @@ count_chars() {
 }
 count_words() {
     local words left_total right_total total letter count ratio
-    words=$(sed -nE '/^.* .{2,}$/p' better-wubi.dict)
+    words=$(sed -nE '/^.* .{2,}$/p' $1)
     left_total=0
     right_total=0
     for letter in {a..y}; do
@@ -51,6 +51,11 @@ print_freq() {
     echo '   ---------------------------------------------------------'
 }
 
-count_chars
+if [ $# = 0 ]; then
+    echo 'missing a parameter'
+    exit 1
+fi
+
+count_chars "$@"
 echo
-count_words
+count_words "$@"
