@@ -28,5 +28,5 @@ conf=/usr/share/fcitx5/inputmethod/better-wubi.conf
 
 libime_tabledict <(gen_formatted_dict) $dict
 
-pattern="s/^Name\[zh_CN]=五笔字型\$/Name[zh_CN]=新世纪五笔/;s?^File=.+\$?File=$dict?"
+pattern="s/^Name\[zh_CN]=五笔字型\$/Name[zh_CN]=better-wubi/;s?^File=.+\$?File=$dict?"
 sed -E "$pattern" $conf_wbx >$conf
