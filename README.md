@@ -1,8 +1,6 @@
 # better-wubi
 这是一个 86 版五笔输入法的改进版码表。
 
-原新世纪版已弃坑，现存放于`new-century`分支。
-
 # 来源
 原始码表来源于 win10 1809 ltsc 系统词库`ChsWubi.lex`。
 
