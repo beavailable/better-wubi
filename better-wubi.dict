@@ -67,6 +67,7 @@ aahv 芽眼
 aahw 工具
 aahw 工龄
 aahx 葡萄紫
+aai 戒
 aaib 莘莘学子
 aaie 卧薪尝胆
 aaif 工潮
@@ -84,7 +85,6 @@ aajh 蒸蒸日上
 aajj 工日
 aajt 工蜂
 aajy 工蚁
-aak 戒
 aakk 工艺品
 aalf 葡萄园
 aalg 芙蓉国
@@ -176,7 +176,7 @@ aaww 工人
 aaww 世世代代
 aaww 草菅人命
 aaxf 蒙蒙细雨
-aaxg 警戒线
+aaxf 警戒线
 aaxj 医药费
 aaxl 工细
 aaxx 花花绿绿
@@ -494,14 +494,12 @@ admu 欺罔
 admw 其内
 admy 蒇
 admy 项
-adn 茂
 adna 藏民
 adnf 基层
 adng 苦情
 adnn 项羽
 adnn 藏书
 adny 藏
-adny 茂
 adny 苦恼
 adny 苦心
 adny 惹恼
@@ -629,13 +627,14 @@ adww 欺
 adww 惹人
 adwx 期货
 adwy 基础代谢
-adx 茏
+adx 茂
 adxa 苦练
 adxb 茏
 adxc 藏经
-adxg 基线
+adxf 基线
 adxh 荐引
 adxt 期终
+adxy 茂
 adyf 苦读
 adyg 藏语
 adyj 基础课
@@ -1460,7 +1459,7 @@ aiwu 欧洲债券
 aiww 落价
 aiwx 荒漠化
 aixc 东经
-aixg 东线
+aixf 东线
 aixq 薄纸
 aixt 萍乡
 aixu 薄弱
@@ -1677,7 +1676,7 @@ ajww 草人
 ajwx 募化
 ajwy 蓝领
 ajwy 草食
-ajxg 划线
+ajxf 划线
 ajxk 草绳
 ajxq 草纸
 ajxv 草绿
@@ -1746,10 +1745,10 @@ akfy 鞫
 akfy 期中考试
 akg 或
 akgb 鄞
-akgd 或
 akgf 勤于
 akgf 堇
 akgg 勤王
+akgi 或
 akgi 或不
 akgk 鞋带
 akgl 勤
@@ -2787,7 +2786,7 @@ arwk 医护人员
 arwr 七折八扣
 arwu 七拼八凑
 arww 匠人
-arxg 散兵线
+arxf 散兵线
 arxv 苏打绿
 as 苛
 asab 艺术节
@@ -3185,7 +3184,7 @@ auwo 蔺
 auww 东北人
 auww 荷兰人
 auxe 花拳绣腿
-auxg 基准线
+auxf 基准线
 auxj 医疗费
 auxk 工资级别
 auxn 藏首纳尾
@@ -3269,7 +3268,7 @@ avwg 切合
 avwk 勤杂人员
 avwu 萸
 avwv 切分
-avxg 切线
+avxf 切线
 avxx 切丝
 avy 芄
 avyn 切记
@@ -4287,7 +4286,7 @@ beut 阴道
 beuw 阴冷
 beuy 阴凉
 bewf 阻值
-bexg 阴线
+bexf 阴线
 beya 阴谋
 beyy 阴文
 bf 际
@@ -4660,7 +4659,7 @@ bjww 聪明人
 bjww 聪明伶俐
 bjwy 陀螺仪
 bjx 隰
-bjxg 阳线
+bjxf 阳线
 bjxj 取暖费
 bjxo 隰
 bjyt 阿昌族
@@ -4756,7 +4755,7 @@ bluc 阵痛
 bluy 出国门
 blwf 附加值
 blwu 阻力位
-blxg 阵线
+blxf 阵线
 blyn 阵亡
 bm 出
 bmaa 出工
@@ -4915,7 +4914,7 @@ bmwu 出位
 bmww 出众
 bmww 出价
 bmwx 出货
-bmxg 出线
+bmxf 出线
 bmxm 出纳
 bmxo 出继
 bmxq 聘约
@@ -5163,7 +5162,7 @@ bpwg 也完全
 bpwv 聚宝盆
 bpww 出家人
 bpx 陀
-bpxg 院线
+bpxf 院线
 bpxn 陀
 bpyk 耽误
 bpyy 院方
@@ -5520,7 +5519,7 @@ btww 陌生人
 btwx 耶和华
 btwy 出生登记
 btxe 降级
-btxg 子午线
+btxf 子午线
 btxq 卫生纸
 btxx 卫生组织
 btxy 子系统
@@ -5937,7 +5936,7 @@ bywb 也许他
 bywf 联谊会
 bywy 防伪
 bywy 联席会议
-byxg 防线
+byxf 防线
 byxu 防弹
 byxx 聚讼纷纭
 byyj 防腐剂
@@ -6014,7 +6013,6 @@ casm 预警机
 caso 戏楼
 casw 颈椎
 casw 劲松
-cat 戏
 cata 劲升
 catd 劲敌
 catg 驱策
@@ -6032,7 +6030,7 @@ cawi 圣劳伦斯河
 cawt 戏侮
 cawv 劲健
 caww 戏份
-cay 巯
+cay 戏
 cayg 戏评
 cayh 戏谑
 cayk 巯
@@ -6312,7 +6310,7 @@ ccws 双休
 ccwt 骏
 ccwu 双倍
 ccww 骚人
-ccxg 双线
+ccxf 双线
 ccxw 又给
 ccy 双
 ccy 驭
@@ -7003,7 +7001,7 @@ cmtp 通风管
 cmuj 观音
 cmww 观众
 cmwy 观念
-cmxg 双曲线
+cmxf 双曲线
 cmya 能见度
 cmyn 观望
 cmys 观摩
@@ -7242,7 +7240,7 @@ cqwg 驳倒
 cqwq 欢迎你
 cqww 欢乐谷
 cqwy 欢
-cqxg 对角线
+cqxf 对角线
 cqxq 马尔维纳斯群岛
 cqxx 巴解组织
 cqy 鸡
@@ -8617,7 +8615,7 @@ deww 胡人
 deww 大腹便便
 dewx 有货
 dexf 郁结
-dexg 有线
+dexf 有线
 dexk 有强
 dexq 有约
 dext 有张
@@ -8870,7 +8868,7 @@ dfww 大雨倾盆
 dfwx 奢华
 dfwx 压货
 dfwy 大赦令
-dfxg 压线
+dfxf 压线
 dfxk 压强
 dfxn 大雪纷飞
 dfxp 压缩
@@ -9287,7 +9285,7 @@ dgx 碡
 dgxc 石经
 dgxe 石级
 dgxf 原形毕露
-dgxg 三线
+dgxf 三线
 dgxk 三强
 dgxn 厂纪
 dgxt 三张
@@ -9431,9 +9429,9 @@ dhij 大步流星
 dhim 在没
 dhip 在学
 dhiq 在逃
-dhit 戚
 dhit 存活
 dhiu 丰润
+dhiy 戚
 dhiy 破浪
 dhja 破晓
 dhjf 在野
@@ -9593,7 +9591,7 @@ dhwy 夏令
 dhxa 艳红
 dhxd 面目皆非
 dhxf 存续
-dhxg 在线
+dhxf 在线
 dhxj 破费
 dhxm 戛纳
 dhxp 破绽
@@ -10160,7 +10158,7 @@ dlww 大男人
 dlxa 历练
 dlxc 历经
 dlxf 大团结
-dlxg 磁力线
+dlxf 磁力线
 dlym 大连市
 dm 面
 dma 碘
@@ -10384,7 +10382,7 @@ dmww 面人
 dmwx 碳化
 dmwy 而今
 dmwy 面食
-dmxg 布线
+dmxf 布线
 dmxi 面纱
 dmxn 石炭纪
 dmxy 面纹
@@ -10528,13 +10526,11 @@ dnmq 成见
 dnmq 成风
 dnmr 龙飞凤舞
 dnmt 成败
-dnn 成
 dnna 万民
 dnng 盛情
 dnnh 爽心悦目
 dnnl 盛
 dnnn 成书
-dnnt 成
 dnnt 成性
 dnnt 原发性
 dnnt 悲剧性
@@ -10642,11 +10638,12 @@ dnww 有情人
 dnww 有心人
 dnww 万众
 dnwx 成佛
+dnx 成
 dnxd 万顷
 dnxf 万贯
 dnxg 成绩
 dnxq 成约
-dny 戊
+dnxy 成
 dnyb 成熟
 dnye 成衣
 dnyg 成语
@@ -10656,7 +10653,6 @@ dnyl 成为
 dnyl 尤为
 dnym 有情调
 dnyn 万户
-dnyt 戊
 dnyu 成说
 dnyv 盛唐
 dnyw 成夜
@@ -10807,7 +10803,7 @@ dpww 太空人
 dpwy 牵念
 dpx 砣
 dpxc 三字经
-dpxg 牵线
+dpxf 牵线
 dpxh 牵引
 dpxk 牵强
 dpxn 砣
@@ -11427,7 +11423,7 @@ dtrg 在我看来
 dtrn 万箭攒心
 dtrq 古生物
 dtrt 帮手
-dtrt 硪
+dtry 硪
 dtsd 帮顶
 dtsf 寿材
 dtsi 寿桃
@@ -11956,7 +11952,7 @@ dwww 三个人
 dwww 有个人
 dwwx 大众化
 dwxe 非传统安全威胁
-dwxg 三八线
+dwxf 三八线
 dwxj 奉旨
 dwxr 三八红旗手
 dwxt 在他乡
@@ -12099,10 +12095,11 @@ dxxl 有组织犯罪
 dxxn 砒
 dxxw 碳纤维
 dxxx 压缩比
-dxy 袭
+dxy 戊
 dxye 袭
 dxyf 大张旗鼓
 dxyf 在线论坛
+dxyi 戊
 dxyk 在线试听
 dxyr 有线广播
 dxys 在线调查
@@ -12218,7 +12215,6 @@ dynf 太尉
 dyni 碎屑
 dynj 太慢
 dynn 万言书
-dynt 戍
 dynu 态
 dyny 奇谈怪论
 dyod 太麻烦
@@ -12308,6 +12304,7 @@ dyxk 太强
 dyxl 太细
 dyxu 太弱
 dyxx 存亡绝续
+dyxy 戍
 dyya 态度
 dyyd 在这方面
 dyyg 矿主
@@ -12706,7 +12703,7 @@ efhl 胸无点墨
 efhm 虢
 efid 脚尖
 efif 脚法
-efig 肤浅
+efif 肤浅
 efit 肤泛
 efiy 脚注
 efj 肼
@@ -13012,7 +13009,7 @@ eitn 悬梁自尽
 eiu 尕
 eivi 月光如水
 eivv 胆小如鼠
-eixg 膛线
+eixf 膛线
 ej 胆
 ejbb 胆子
 ejdd 胆大
@@ -14112,12 +14109,12 @@ faj 卉
 fajs 无花果
 fajv 堰
 fak 哉
-fakd 哉
 fakg 域
+faki 哉
 fakm 裁员
 fakm 塔吊
 fal 载
-falk 载
+fali 载
 falk 起落架
 falq 塔罗
 falt 示功图
@@ -14204,9 +14201,9 @@ faxu 霰弹
 faxw 戴维
 faxx 堪比
 fay 裁
+faye 裁
 fayg 霸主
 fayg 救世主
-fayi 裁
 fayp 雪花膏
 fayy 载文
 fb 地
@@ -14342,7 +14339,7 @@ fbwu 地位
 fbww 地价
 fbww 才子佳人
 fbxe 超阶级
-fbxg 地线
+fbxf 地线
 fbxx 地缘
 fbye 地衣
 fbyg 地主
@@ -14609,7 +14606,7 @@ fcwt 动作
 fcwt 运作
 fcww 动人
 fcww 运价
-fcxg 支线
+fcxf 支线
 fcxg 云母
 fcxj 运费
 fcxn 二叠纪
@@ -14716,8 +14713,8 @@ fdnb 震慑
 fdng 震情
 fdnm 老三届
 fdnn 志愿书
-fdnt 城
 fdnt 志在必得
+fdny 城
 fdny 震惊
 fdoi 博大精深
 fdoq 十万火急
@@ -14783,7 +14780,7 @@ fdx 垅
 fdxc 十三经
 fdxe 震级
 fdxe 教研组
-fdxg 二三线
+fdxf 二三线
 fdxn 垅
 fdxt 城乡
 fdyb 城郭
@@ -14828,7 +14825,7 @@ feuq 动脉瘤
 feuy 南腔北调
 fewt 博采众长
 feww 十月份
-fexg 专用线
+fexf 专用线
 fexw 动脉粥样硬化
 fey 圾
 feyy 圾
@@ -15453,9 +15450,9 @@ fgxa 干练
 fgxa 干红
 fgxe 二级
 fgxf 干结
-fgxg 二线
-fgxg 地平线
-fgxg 干线
+fgxf 二线
+fgxf 地平线
+fgxf 干线
 fgxh 博引
 fgxj 士绅
 fgxk 十强
@@ -15864,7 +15861,7 @@ fhxc 真经
 fhxe 超级
 fhxe 越级
 fhxe 趋缓
-fhxg 直线
+fhxf 直线
 fhxg 真纯
 fhxk 走强
 fhxq 赴约
@@ -16496,7 +16493,7 @@ fkww 喜人
 fkww 过路人
 fkwx 进口货
 fkwy 动员令
-fkxg 起跑线
+fkxf 起跑线
 fkxj 过路费
 fkxv 袁绍
 fkyb 零距离
@@ -16586,7 +16583,7 @@ flwt 协作
 flww 协从
 flwy 协
 flxe 动车组
-flxg 运输线
+flxf 运输线
 flxj 运输费
 flxq 协约
 fly 塄
@@ -16971,7 +16968,7 @@ fnww 卖价
 fnwy 块
 fnx 坭
 fnxc 都已经
-fnxg 专线
+fnxf 专线
 fnxg 声母
 fnxk 声强
 fnxl 地心引力
@@ -17542,8 +17539,8 @@ fqww 无从
 fqwx 无华
 fqwy 坎
 fqxf 无疆
-fqxg 无线
-fqxg 封锁线
+fqxf 无线
+fqxf 封锁线
 fqxk 顽强
 fqxt 无疑
 fqxx 无比
@@ -17704,7 +17701,7 @@ frwx 二手货
 frwy 无所作为
 frxc 直接经验
 frxe 二年级
-frxg 趋势线
+frxf 趋势线
 frxu 干扰弹
 fry 坼
 fryj 增白剂
@@ -18514,7 +18511,7 @@ fvvw 塔那那利佛
 fvvy 老姑娘
 fvww 雪人
 fvww 老好人
-fvxg 雪线
+fvxf 雪线
 fvxw 进退维谷
 fvxy 雪纺
 fvyg 封建主
@@ -18642,7 +18639,7 @@ fwrt 二传手
 fwsa 规模
 fwsc 夫权
 fwsf 零票
-fwsg 堆栈
+fwsf 堆栈
 fwsi 才华横溢
 fwsm 无人机
 fwst 规格
@@ -18708,6 +18705,7 @@ fwyh 零售店
 fwyn 埝
 fwyt 堆放
 fwyw 进化论
+fx 戋
 fxad 戴维斯
 fxcl 老母鸡变鸭
 fxdl 超级大国
@@ -18752,10 +18750,12 @@ fxvk 无线寻呼
 fxvs 无线鼠标
 fxvy 城乡建设
 fxwg 无纸化处理
+fxy 盏
 fxya 超强度
 fxyf 二级市场
 fxyf 超级市场
 fxyh 裁缝店
+fxyi 戋
 fxym 地级市
 fxys 超级计算机
 fxyt 超级计算
@@ -19023,9 +19023,9 @@ gagv 正式开始
 gagy 开班
 gah 武
 gahb 琊
-gahd 武
 gahg 鹉
 gahh 形式上
+gahi 武
 gahi 开步
 gahk 开战
 gahn 开颅
@@ -19222,7 +19222,7 @@ gawx 形式化
 gawy 珙
 gaxc 一切皆有可能
 gaxe 政工组
-gaxg 开线
+gaxf 开线
 gaxj 开花结果
 gaxt 开张
 gaxy 开编
@@ -19318,7 +19318,7 @@ gbwd 现阶段
 gbwf 与子偕老
 gbwo 屯集
 gbwt 五子登科
-gbxg 天际线
+gbxf 天际线
 gbyk 不耽误
 gc 到
 gcad 到期
@@ -19447,7 +19447,7 @@ gcww 到人
 gcwx 到货
 gcwy 至今
 gcwy 致信
-gcxg 斑马线
+gcxf 斑马线
 gcyd 至诚
 gcye 致哀
 gcyj 到齐
@@ -19748,7 +19748,7 @@ gdwy 蚕食
 gdwy 吞食
 gdwy 事在人为
 gdx 珑
-gdxg 天线
+gdxf 天线
 gdxl 表面张力
 gdxn 珑
 gdxw 不成比例
@@ -20222,7 +20222,7 @@ gfwx 正规化
 gfwx 一元化
 gfwy 于今
 gfxe 迂缓
-gfxg 平均线
+gfxf 平均线
 gfxk 天无绝人之路
 gfyc 再教育
 gfye 球衣
@@ -20339,6 +20339,7 @@ ggft 天理教
 ggfu 环境
 ggfu 一霎
 ggfw 一堆
+ggfx 一盏
 ggfy 一平二调
 ggg 王
 ggga 环形
@@ -20367,7 +20368,6 @@ gggi 不死不活
 gggj 一天到晚
 gggj 五更
 gggk 一带
-gggl 一盏
 gggm 一再
 gggn 琉璃瓦
 gggo 一来
@@ -20379,7 +20379,6 @@ gggu 一平
 gggu 王平
 gggw 刑事责任
 gggx 五毒
-gggy 戋
 gggy 一斑
 ggh 五
 gghe 一瞬
@@ -20727,8 +20726,8 @@ ggxc 一经
 ggxc 五经
 ggxe 一级
 ggxf 一贯
-ggxg 一线
-ggxg 环线
+ggxf 一线
+ggxf 环线
 ggxk 王强
 ggxo 一缕
 ggxp 瑟缩
@@ -21063,7 +21062,7 @@ ghwy 下令
 ghwy 政令
 ghxc 正经
 ghxe 下级
-ghxg 下线
+ghxf 下线
 ghxg 政绩
 ghxj 下旨
 ghxm 政纲
@@ -22038,7 +22037,6 @@ gldm 画面
 gldm 开国大典
 gldm 画布
 gldw 一国三公
-glf 盏
 glfb 不思进取
 glfc 不回去
 glfc 带回去
@@ -23029,7 +23027,7 @@ gqec 死胎
 gqee 残月
 gqeg 殂
 gqey 殃及
-gqf 殖
+gqf 残
 gqfb 死地
 gqfc 死去
 gqfc 列支
@@ -23045,7 +23043,7 @@ gqfu 殪
 gqfv 残雪
 gqfw 平铺直叙
 gqfw 麸
-gqg 残
+gqfy 残
 gqga 死刑
 gqga 裂开
 gqgc 熬到
@@ -23060,7 +23058,6 @@ gqgw 不负责任
 gqgw 一钱不值
 gqgx 歹毒
 gqgx 一针一线
-gqgy 残
 gqha 残虐
 gqhc 麸皮
 gqhj 残旧
@@ -23738,8 +23735,8 @@ gtrn 不知所以
 gtrq 不行的
 gtrq 再生物
 gtrr 不知所措
-gtrt 珴
 gtrx 不知所终
+gtry 珴
 gtry 不行的话
 gtsa 一盘棋
 gtsi 夹竹桃
@@ -23791,7 +23788,7 @@ gtww 五行八作
 gtwx 再生父母
 gtwx 一般化
 gtxa 天鹅绒
-gtxg 平行线
+gtxf 平行线
 gtxg 玻利维亚
 gtxq 玉版纸
 gty 玫
@@ -24473,10 +24470,10 @@ gybp 下议院
 gyc 琉
 gycb 斑蝥
 gyck 天文台
+gyck 琉
 gycn 斑马
 gycn 一言难尽
 gycq 斑驳
-gycq 琉
 gycu 一语双关
 gycy 一遍又一遍
 gydg 正义感
@@ -24667,7 +24664,7 @@ gyww 一应俱全
 gywx 玉佛
 gyxe 班级
 gyxe 班组
-gyxg 死亡线
+gyxf 死亡线
 gyxj 班费
 gyxl 更详细
 gyxy 斑纹
@@ -24790,7 +24787,7 @@ hawn 虚假
 hawq 虚像
 hawx 虚化
 hawy 虚伪
-haxg 虚线
+haxf 虚线
 haxn 虚幻
 haxt 眼花缭乱
 haxu 虚弱
@@ -25282,7 +25279,7 @@ hhwx 上货
 hhwy 止住
 hhx 眦
 hhxe 上级
-hhxg 上线
+hhxf 上线
 hhxm 上纲
 hhxn 眦
 hhxq 卡纸
@@ -25620,9 +25617,9 @@ hkwv 卡哇伊
 hkwx 点化
 hkwy 占领
 hkxc 点缀
+hkxf 战线
+hkxf 占线
 hkxg 战绩
-hkxg 战线
-hkxg 占线
 hkxx 占比
 hkyg 点评
 hkyi 点就
@@ -25647,7 +25644,7 @@ hlq 卤
 hlqa 鹾
 hlqi 卤
 hlqt 上边儿
-hlqt 鹹
+hlqy 鹹
 hlru 卡罗拉
 hlru 战略物资
 hlry 战略后方
@@ -25815,7 +25812,7 @@ hqvh 睁
 hqwn 皮包公司
 hqwq 瞻仰
 hqwy 瞻念
-hqxg 紫外线
+hqxf 紫外线
 hqyn 瞻望
 hr 睥
 hrad 卡扎菲
@@ -25994,7 +25991,7 @@ hvhg 眼睛
 hvhh 眼目
 hvhw 眼睑
 hvid 眼尖
-hvig 眼浅
+hvif 眼浅
 hvih 眼泪
 hvih 眼波
 hvip 目录学
@@ -26034,7 +26031,7 @@ hvug 眼病
 hvuk 眼部
 hvwa 眼袋
 hvxa 眼红
-hvxg 眼线
+hvxf 眼线
 hvyb 眼熟
 hvym 眼高
 hvyq 眼底
@@ -26865,7 +26862,7 @@ iehk 浮点
 ieie 滔滔
 ieie 汲汲
 ieif 浮尘
-ieig 浮浅
+ieif 浮浅
 ieii 溪水
 ieii 浮水
 ieii 汲水
@@ -26933,13 +26930,17 @@ ifa 灞
 ifaa 法式
 ifad 潜藏
 ifae 灞
+ifai 浅薄
+ifaj 浅蓝
 ifal 污蔑
+ifam 浅黄
 ifan 尘世
 ifap 尘埃落定
 ifaq 法警
 ifat 法医
 ifat 清规戒律
 ifbb 法子
+ifbg 浅陋
 ifbk 渎职
 ifbl 法阵
 ifbn 汗孔
@@ -26955,9 +26956,11 @@ ifd 濡
 ifdf 污辱
 ifdh 潜在
 ifdi 深井泵
+ifdi 浅耕
 ifdj 满载而归
 ifdj 濡
 ifdm 洁面
+ifdo 浅灰
 ifdu 深南大道
 ifef 汗脚
 ifeg 尘肺
@@ -26969,6 +26972,7 @@ ifff 尘土
 ifff 尘封
 ifff 清真寺
 iffg 洼
+iffk 浅露
 iffm 沙坪坝
 iffn 法场
 iffo 法塔赫
@@ -27002,10 +27006,13 @@ ifhr 漫无目的
 ifhv 法眼
 ifhw 滇
 ifhw 洁具
+ifhx 浅紫
 ifib 滇池
 ific 法治
 ific 潮涌
+ific 浅滩
 ifif 汗汗
+ifif 浅浅
 ifig 污渍
 ifig 汗渍
 ifih 小老婆
@@ -27014,11 +27021,14 @@ ifii 汗水
 ifii 污水
 ifii 潮水
 ifii 汁水
+ifii 浅水
 ifij 潮湿
 ifij 污浊
 ifim 潮汕
 ifin 污泥
+ifio 浅淡
 ifip 法学
+ifip 浅尝
 ifiq 潜逃
 ifiq 潮汐
 ifir 澎湃
@@ -27029,6 +27039,7 @@ ifit 湖南省
 ifit 渤海
 ifit 源远流长
 ifit 瀚海
+ifit 浅海
 ifiu 汗滴
 ifiv 污染
 ifiw 满坑满谷
@@ -27043,6 +27054,8 @@ ifje 潮
 ifjg 法师
 ifjl 法螺
 ifjn 瀚
+ifjo 浅显
+ifjq 浅易
 ifju 当地时间
 ifk 洁
 ifkb 汗啊
@@ -27068,6 +27081,7 @@ ifmj 法则
 ifmj 潜规则
 ifmq 法网
 ifmq 兴趣盎然
+ifmq 浅见
 ifn 污
 ifnd 渎
 ifnd 潮剧
@@ -27091,6 +27105,7 @@ ifpu 汗衫
 ifpu 海魂衫
 ifpv 法案
 ifq 沅
+ifqc 浅色
 ifqd 溘然
 ifqe 潮解
 ifqg 水煮鱼
@@ -27106,16 +27121,20 @@ ifrf 潜质
 ifrk 污损
 ifrm 法制
 ifrn 潮气
+ifrp 浅近
 ifrq 兴趣的
 ifrq 法的
 ifrq 小动物
 ifrr 洁白
+ifrr 浅白
 ifru 法拉
 ifsa 小规模
 ifsb 河南梆子
 ifsc 法权
 ifsf 活教材
+ifsp 浅棕
 ifsr 滑雪板
+ifsr 浅析
 ifst 活动桥
 ifsu 省直机关
 ifsw 法槌
@@ -27130,6 +27149,7 @@ ifth 汗臭
 iftj 渚
 iftm 污秽
 iftm 法币
+iftt 浅笑
 iftv 法律
 iftx 法系
 ifty 潜入
@@ -27166,13 +27186,17 @@ ifww 当地人
 ifww 法人
 ifww 尘俗
 ifwy 法令
+ifx 浅
 ifxa 潮红
-ifxg 法线
+ifxa 浅红
+ifxf 法线
 ifxj 法旨
 ifxn 法纪
 ifxo 深圳综合指数
+ifxv 浅绿
 ifxx 尘缘
 ifxy 法统
+ifxy 浅
 ifya 法度
 ifyg 法语
 ifym 深圳市
@@ -27181,6 +27205,7 @@ ifym 济南市
 ifyn 法盲
 ifyn 活动房
 ifyo 污迹
+ifyo 浅谈
 ifyr 滑动摩擦
 ifyt 法庭
 ifyv 法郎
@@ -27189,10 +27214,7 @@ ig 汪
 igab 清蒸
 igad 清苦
 igah 清雅
-igai 浅薄
-igaj 浅蓝
 igal 党政工团
-igam 浅黄
 igaq 海珠区
 igar 泥瓦匠
 igat 涤瑕荡秽
@@ -27200,7 +27222,6 @@ igav 梁静茹
 igaw 清茶
 igb 沌
 igbb 汗珠子
-igbg 浅陋
 igbm 涌现出
 igbm 逃不出
 igbn 少不了
@@ -27210,12 +27231,10 @@ igbw 清除
 igck 小五台
 igd 添
 igdf 泣不成声
-igdi 浅耕
 igdl 滔天大罪
 igdm 海平面
 igdm 水平面
 igdn 添
-igdo 浅灰
 igdp 溃不成军
 igdq 清爽
 igdt 满不在乎
@@ -27234,7 +27253,6 @@ igff 兴致勃勃
 igfg 没事干
 igfh 清真
 igfj 清朝
-igfk 浅露
 igfl 省政协
 igfn 清场
 igfp 逃不过
@@ -27262,31 +27280,24 @@ ighk 清点
 ighk 小不点
 ighn 沔
 ighq 小不点儿
-ighx 浅紫
 igia 清江
 igib 汪涵
-igic 浅滩
 igid 水到渠成
 igie 清溪
 igif 清洁
 igig 汪汪
 igig 清清
-igig 浅浅
 igii 清水
-igii 浅水
 igii 消毒水
 igij 清浊
 igim 清油
 igin 清汤
 igio 清淡
-igio 浅淡
-igip 浅尝
 igiq 水至清则无鱼
 igis 清河
 igis 清酒
 igis 清漆
 igit 清洗
-igit 浅海
 igit 常来常往
 igiu 汪洋
 igiu 清润
@@ -27300,9 +27311,7 @@ igjd 清晨
 igje 清明
 igjg 洹
 igjh 清早
-igjo 浅显
 igjp 溃于蚁穴
-igjq 浅易
 igjs 清晰
 igjt 海王星
 igjt 满天星
@@ -27331,7 +27340,6 @@ igmh 沛
 igmj 漕
 igmm 清册
 igmq 清风
-igmq 浅见
 igmt 清账
 igmy 渍
 igmy 深不见底
@@ -27354,7 +27362,6 @@ igpw 清空
 igpy 清福
 igq 洌
 igqc 清一色
-igqc 浅色
 igqd 沛然
 igqi 滞销
 igqj 洌
@@ -27372,11 +27379,9 @@ igrg 滞后
 igrh 小青年
 igri 清泉
 igrn 清扬
-igrp 浅近
 igrq 没事的
 igrq 清的
 igrr 清白
-igrr 浅白
 igrv 清热
 igrv 清扫
 igs 沫
@@ -27386,8 +27391,6 @@ igsg 添丁
 igsi 深不可测
 igsj 清查
 igsm 小型机
-igsp 浅棕
-igsr 浅析
 igss 清楚
 igsu 党政机关
 igsw 漫天要价
@@ -27402,7 +27405,6 @@ igtj 清香
 igtj 少不得
 igto 清秋
 igtr 小天鹅
-igtt 浅笑
 igu 浃
 igud 清减
 igug 清冽
@@ -27440,22 +27442,18 @@ igww 没事人
 igwx 清华
 igwx 小型化
 igwy 水平仪
-igxa 浅红
 igxe 滞缓
+igxf 水平线
 igxg 清纯
-igxg 水平线
 igxg 小亚细亚
 igxn 漫不经心
 igxr 清缴
-igxv 浅绿
 igxx 清幽
-igy 浅
 igyg 溢于言表
 igyi 清正廉洁
 igyj 消毒剂
 igyl 清库
 igym 清高
-igyo 浅谈
 igyo 清谈
 igyp 清亮
 igys 小型计算机
@@ -28238,7 +28236,7 @@ iixa 满江红
 iixa 满堂红
 iixb 消弭
 iixe 党小组
-iixg 流水线
+iixf 流水线
 iixg 水母
 iixi 泡沫经济
 iixj 消费
@@ -28673,6 +28671,7 @@ imfr 油垢
 imfs 深山老林
 imfv 滑雪
 imfy 油坊
+imfy 溅
 img 油
 imga 敞开
 imga 尚武
@@ -28695,7 +28694,6 @@ imgo 没来
 imgp 清风两袖
 imgq 没死
 imgw 海峡两岸关系协会
-imgy 溅
 imh 汕
 imhh 没上
 imhi 滨崎步
@@ -28860,8 +28858,8 @@ imwt 沿途
 imww 没人
 imww 油价
 imxa 满山红
-imxg 沿线
-imxg 海岸线
+imxf 沿线
+imxf 海岸线
 imxj 油费
 imxq 油纸
 imxt 光网络
@@ -29212,7 +29210,7 @@ ipid 沉湎
 ipid 滨湖
 ipie 沉浮
 ipif 学潮
-ipig 深浅
+ipif 深浅
 ipig 浑沌
 ipii 深水
 ipii 浑水
@@ -29753,8 +29751,8 @@ iqww 渔人
 iqww 沟谷
 iqwx 光华
 iqxf 光绪
-iqxg 光线
-iqxg 漆包线
+iqxf 光线
+iqxf 漆包线
 iqxj 光缆
 iqxt 光纤
 iqy 汐
@@ -29902,7 +29900,7 @@ irww 举报人
 irwx 激化
 irwx 汽化
 irwy 小白领
-irxg 渐近线
+irxf 渐近线
 iry 激
 iryi 光反应
 iryj 漂白剂
@@ -30408,9 +30406,9 @@ itrq 活物
 itrq 沉积物
 itrr 海蜇
 itrt 洗手
-itrt 涐
 itrv 劣势
 itrx 泛指
+itry 涐
 its 涤
 itsa 活棋
 itsc 消息树
@@ -31395,7 +31393,7 @@ iywy 液
 iywy 流食
 iyx 泫
 iyxc 流经
-iyxg 流线
+iyxf 流线
 iyxj 浪费
 iyxt 游乡
 iyxu 流弹
@@ -31768,7 +31766,7 @@ jcwy 坚信
 jcwy 紧邻
 jcx 紧
 jcxe 紧绷
-jcxg 竖线
+jcxf 竖线
 jcxi 紧
 jcxk 坚强
 jcxp 紧缩
@@ -31812,7 +31810,7 @@ jdlt 电磁辐射
 jdmf 是非曲直
 jdmq 晨风
 jdn 晟
-jdnt 晟
+jdny 晟
 jdoq 电磁炮
 jdoy 电磁炉
 jdqa 晨昏
@@ -31835,7 +31833,7 @@ jdwt 螓
 jdwu 昃
 jdwx 最大化
 jdxa 晨练
-jdxg 电磁线
+jdxf 电磁线
 je 明
 jead 明基
 jeb 蜉
@@ -31941,7 +31939,7 @@ jevt 明君
 jewa 明代
 jeww 明人
 jewy 明令
-jexg 明线
+jexf 明线
 jexl 明细
 jexq 盟约
 jeyg 盟主
@@ -32134,7 +32132,7 @@ jfww 蛙人
 jfwy 时令
 jfwy 野食
 jfwy 蚨
-jfxg 日均线
+jfxf 日均线
 jfy 时
 jfyc 时序
 jfyg 时评
@@ -32742,7 +32740,7 @@ jjwx 日货
 jjwx 日化
 jjwy 日食
 jjxf 蝴蝶结
-jjxg 日线
+jjxf 日线
 jjxu 照明弹
 jjxx 影影绰绰
 jjyg 日语
@@ -32834,8 +32832,8 @@ jluk 电力部
 jlvi 曼妙
 jlww 曼谷
 jlx 螺
+jlxf 电力线
 jlxg 螺母
-jlxg 电力线
 jlxi 螺
 jlxx 螺丝
 jlxy 螺纹
@@ -33025,7 +33023,7 @@ jnwy 电信
 jnwy 曜
 jnwy 电令
 jnx 昵
-jnxg 电线
+jnxf 电线
 jnxj 电缆
 jnxj 电费
 jnxn 昵
@@ -33599,9 +33597,9 @@ jtrp 星探
 jtrq 是我的
 jtrq 最长的
 jtrq 最短的
-jtrt 蛾
 jtru 曼德拉
 jtrw 暗箱操作
+jtry 蛾
 jtry 监护
 jtsf 监票
 jtsh 星相
@@ -33773,7 +33771,7 @@ juwt 暗伤
 juwx 蜕化
 juwy 暗含
 juxa 暗红
-juxg 暗线
+juxf 暗线
 juxp 蜷缩
 juxu 暗弱
 juye 蝉衣
@@ -34126,7 +34124,7 @@ jywy 电话会议
 jyx 蟀
 jyxe 最高级
 jyxf 蟀
-jyxg 螺旋线
+jyxf 螺旋线
 jyxj 最高统帅
 jyxo 电话粥
 jyy 蚊
@@ -34272,7 +34270,6 @@ kbmq 叩见
 kbn 吔
 kbnf 别出心裁
 kbnn 吼
-kbnt 戢
 kbol 叶子烟
 kboo 中耳炎
 kbqy 口出狂言
@@ -34290,6 +34287,7 @@ kbut 叩首
 kbuy 叩门
 kbwq 啊你
 kbxu 中子弹
+kbxy 戢
 kbyj 吸附剂
 kbym 贵阳市
 kbyt 叩谢
@@ -34385,9 +34383,9 @@ kdgy 喊
 kdh 嘎
 kdha 嘎
 kdhq 吃大餐
-kdht 嘁
 kdht 嗄
 kdhv 顺眼
+kdhy 嘁
 kdic 顺治
 kdig 别有洞天
 kdii 顺水
@@ -34853,7 +34851,7 @@ kgwu 吨位
 kgww 吓人
 kgwy 号令
 kgx 咦
-kgxg 号线
+kgxf 号线
 kgxi 嗉
 kgxk 逞强
 kgxn 史不绝书
@@ -35025,7 +35023,7 @@ khfu 跨境
 khfv 踏雪
 khfv 中雪
 khfw 趺
-khg 践
+khfy 践
 khga 中型
 khga 跑开
 khga 唬弄
@@ -35062,7 +35060,6 @@ khgu 踏平
 khgw 口眼歪斜
 khgx 中毒
 khgx 遗毒
-khgy 践
 khgy 跟班
 khgy 中班
 khh 趾
@@ -35176,7 +35173,7 @@ khme 遗骨
 khme 遗骸
 khme 贵胄
 khme 忠骨
-khmg 贵贱
+khmf 贵贱
 khmg 跚
 khmh 跌幅
 khmj 踹
@@ -35407,8 +35404,8 @@ khxe 嘴
 khxe 中级
 khxe 跳级
 khxf 跸
-khxg 路线
-khxg 中线
+khxf 路线
+khxf 中线
 khxj 路费
 khxk 跳绳
 khxn 呲
@@ -35860,7 +35857,7 @@ kkwy 跃跃欲试
 kkwy 口信
 kkxa 口红
 kkxe 品级
-kkxg 串线
+kkxf 串线
 kkxt 嚣张
 kkxv 品绿
 kkya 口试
@@ -36165,7 +36162,7 @@ kmws 中央集权
 kmwu 呙
 kmww 中央全会
 kmwy 呐
-kmxg 吊线
+kmxf 吊线
 kmy 呗
 kmya 中央文革
 kmym 中山市
@@ -37279,12 +37276,12 @@ kyyp 听说读写
 kyyt 别说话
 l 国
 laa 轼
-laag 轼
 laai 黑茫茫
 laak 羁勒
 laam 四项基本原则
 laao 加工工业
 laap 黑蒙蒙
+laay 轼
 labb 黑匣子
 labs 斩草除根
 ladg 加工厂
@@ -37382,7 +37379,7 @@ lbwx 国际化
 lbwx 国际公约
 lbwy 国际会议
 lbxb 国际纵队
-lbxg 边防线
+lbxf 边防线
 lbxi 国际经济
 lbxj 国防费
 lbxv 国防绿
@@ -37924,9 +37921,9 @@ lfxa 围绕
 lfxa 黑红
 lfxa 团练
 lfxf 团结
-lfxg 黑线
-lfxg 边境线
-lfxg 国境线
+lfxf 黑线
+lfxf 边境线
+lfxf 国境线
 lfxh 转引
 lfxi 黑纱
 lfxj 团费
@@ -38771,7 +38768,7 @@ llvv 男女
 llvv 男男女女
 llwg 轩辕剑
 llww 男人
-llxg 边界线
+llxf 边界线
 llyf 田庄
 llyf 田园诗
 llyk 轻车熟路
@@ -38804,7 +38801,7 @@ lmu 辋
 lmud 软骨头
 lmug 软骨病
 lmun 辋
-lmxg 轴线
+lmxf 轴线
 lmyf 国内市场
 lmyx 圆周率
 lmyy 甲骨文
@@ -39055,8 +39052,8 @@ lpxe 国家级
 lpxf 连续
 lpxf 边疆
 lpxf 连贯
-lpxg 连线
-lpxg 边线
+lpxf 连线
+lpxf 边线
 lpxm 图穷匕见
 lpxn 国家统计局
 lpxr 连绵
@@ -39166,7 +39163,7 @@ lqwx 软化
 lqwy 软
 lqxa 鸭绒
 lqxc 罗经
-lqxg 软线
+lqxf 软线
 lqxk 罗织
 lqxl 黑色幽默
 lqxt 蜀绣
@@ -39663,7 +39660,7 @@ lwwx 办货
 lwwy 办公会议
 lwx 轮
 lwxf 办结
-lwxg 界线
+lwxf 界线
 lwxn 轮
 lwxv 囵
 lwxw 输给
@@ -39873,7 +39870,7 @@ maw 典
 mawn 曲阜
 mawu 典
 maww 贼人
-maxg 曲线
+maxf 曲线
 maym 曲调
 mayp 贼亮
 mayu 曲谱
@@ -40027,7 +40024,7 @@ mdwh 几百个
 mdwv 炭盆
 mdwx 炭化
 mdxe 骨灰级
-mdxg 岸线
+mdxf 岸线
 mdyn 崖刻
 mdys 帆布床
 mdyt 崖州
@@ -40134,6 +40131,7 @@ mffi 风起云涌
 mffj 周刊
 mffj 周朝
 mffn 赌场
+mffn 贱卖
 mffy 峙
 mffy 贩夫走卒
 mfgb 刚直不阿
@@ -40173,16 +40171,20 @@ mflf 财团
 mflf 周转
 mflh 周四
 mflk 赎回
+mfll 贱男
 mfln 财力
 mflp 周边
 mflw 财界
 mfma 几起几落
 mfmf 冉冉
+mfmf 贱贱
 mfmq 周岁
 mfmt 巅峰
 mfmt 风雨同舟
 mfmw 周内
+mfmw 贱内
 mfn 赎
+mfna 贱民
 mfnd 赎
 mfnf 周迅
 mfnn 赌局
@@ -40258,9 +40260,12 @@ mfwr 风云人物
 mfws 山雨欲来风满楼
 mfwu 同志们
 mfwu 几十倍
+mfww 贱价
 mfwx 财货
+mfx 贱
 mfxc 财经
-mfxg 周线
+mfxf 周线
+mfxy 贱
 mfyf 周庄
 mfyg 财主
 mfyn 雕刻
@@ -40298,7 +40303,6 @@ mgff 邮政地址
 mgfh 赔不起
 mgfk 同喜
 mgfn 同志
-mgfn 贱卖
 mgfn 同声
 mgfp 财政赤字
 mggb 刚正不阿
@@ -40337,13 +40341,9 @@ mgkd 同
 mgkh 同路
 mgkk 峡口
 mglg 邮政车
-mgll 贱男
-mgmg 贱贱
 mgmi 同班同学
 mgmq 同岁
-mgmw 贱内
 mgn 屿
-mgna 贱民
 mgnd 同居
 mgng 同情
 mgng 屿
@@ -40413,7 +40413,6 @@ mgwq 同父
 mgwu 同伴
 mgww 峡谷
 mgww 同人
-mgww 贱价
 mgwx 同化
 mgwy 同侪
 mgxd 邮政编码
@@ -40421,7 +40420,6 @@ mgxe 同级
 mgxg 同母
 mgxt 同乡
 mgxx 同比
-mgy 贱
 mgya 同谋
 mgyf 赋诗
 mgyk 曲不离口
@@ -40674,7 +40672,7 @@ mjvg 风景如画
 mjwa 同时代
 mjwf 同盟会
 mjxa 山里红
-mjxg 风景线
+mjxf 风景线
 mjxw 赐给
 mjyi 则应
 mjyl 则为
@@ -41262,7 +41260,7 @@ mqww 风俗
 mqwx 风华
 mqwx 风化
 mqxe 风级
-mqxg 网线
+mqxf 网线
 mqxj 网费
 mqxk 刚强
 mqxn 风纪
@@ -41451,9 +41449,9 @@ mtrk 贬损
 mtrn 几所
 mtrp 几近
 mtrq 贬抑
-mtrt 峨
-mtrt 峩
 mtrv 几招
+mtry 峨
+mtry 峩
 mtry 贬斥
 mtsd 峰顶
 mtsf 风向标
@@ -41791,7 +41789,7 @@ mwwv 内侵
 mwww 内人
 mwwy 肉食
 mwxa 肉红
-mwxg 内线
+mwxf 内线
 mwxo 几何级数
 mwxu 肉弹
 mwxx 肉丝
@@ -41871,7 +41869,7 @@ mxtk 网络管理员
 mxto 网络微波炉
 mxts 网络版权
 mxtw 网络备份
-mxug 曲线美
+mxuf 曲线美
 mxui 网络资源
 mxuj 网络交易
 mxuo 网络产业
@@ -42595,7 +42593,7 @@ nfwu 惨无人道
 nfww 发起人
 nfwx 丑化
 nfxe 层级
-nfxg 导线
+nfxf 导线
 nfxh 导引
 nfxu 导弹
 nfxu 懦弱
@@ -43676,7 +43674,7 @@ nouq 屡次
 nout 心烦意乱
 nov 屡
 novd 屡
-noxg 导火线
+noxf 导火线
 np 忱
 npbb 心窝子
 npcc 发牢骚
@@ -44211,7 +44209,7 @@ ntx 悔
 ntxa 发红
 ntxc 必经
 ntxe 改组
-ntxg 改线
+ntxf 改线
 ntxk 性强
 ntxq 履约
 ntxt 发张
@@ -45173,7 +45171,7 @@ oeey 粗脂肪
 oefh 粗盐
 oeg 粗
 oegg 粗
-oeig 粗浅
+oeif 粗浅
 oeii 粗沙
 oeit 粗活
 oeit 粗劣
@@ -45653,7 +45651,7 @@ onwa 断代
 onwx 断货
 onwy 炔
 onxa 灯心绒
-onxg 断线
+onxf 断线
 onxq 断绝
 onxy 断弦
 ony 烬
@@ -45781,7 +45779,7 @@ oowt 火伤
 oowv 火盆
 oowx 火化
 ooxa 火红
-ooxg 火线
+ooxf 火线
 ooxg 炉火纯青
 ooxk 火绳
 ooxq 糯米纸
@@ -45992,7 +45990,7 @@ ortp 煤气管
 oruh 煤气站
 orux 数据总线
 orwl 数据传输
-orxg 数据线
+orxf 数据线
 orxs 数据结构
 orxt 精打细算
 oryl 数据库
@@ -46006,9 +46004,9 @@ osck 灯台
 osdk 粗枝大叶
 oses 灯彩
 osfa 灯塔
+osfx 灯盏
 osg 粞
 osgh 灯下
-osgl 灯盏
 osh 灯
 oshw 灯具
 osim 灯油
@@ -46261,7 +46259,7 @@ owwy 粉领
 owx 烨
 owxa 粉红
 owxf 烨
-owxg 粉线
+owxf 粉线
 owxx 粉丝
 owy 焓
 owyj 粘合剂
@@ -46381,7 +46379,7 @@ oywx 糖化
 oywy 粮食
 oyx 炫
 oyxa 粗放经营
-oyxg 米线
+oyxf 米线
 oyxo 米粥
 oyxq 糖纸
 oyxu 糖弹
@@ -47951,7 +47949,7 @@ ppwv 之仇
 ppww 被害人
 ppww 完完全全
 ppxc 视神经
-ppxg 宇宙线
+ppxf 宇宙线
 ppxj 安家费
 ppxq 之约
 ppxt 之乡
@@ -48221,7 +48219,7 @@ ptrn 客气
 ptrq 额的
 ptrq 寄生物
 ptsf 客票
-ptsg 客栈
+ptsf 客栈
 ptsm 客机
 ptss 安德森
 pttd 客籍
@@ -49078,8 +49076,8 @@ pwwx 社会化
 pwwy 宏命令
 pwx 穹
 pwxb 穹
-pwxg 穿线
-pwxg 安全线
+pwxf 穿线
+pwxf 安全线
 pwxi 实体经济
 pwxi 窗纱
 pwxj 空费
@@ -49151,7 +49149,7 @@ pxuq 它将
 pxwf 穷乡僻壤
 pxwu 它们
 pxxe 神经细胞
-pxxg 补给线
+pxxf 补给线
 pxxv 祖母绿
 pxxx 神经纤维
 pxyi 它就
@@ -49443,7 +49441,7 @@ pywx 礼佛
 pywy 礼仪
 pyxc 神经
 pyxe 神级
-pyxg 视线
+pyxf 视线
 pyxg 祖母
 pyxm 实施细则
 pyxx 礼毕
@@ -49544,7 +49542,6 @@ qanc 错怪
 qand 独幕剧
 qang 钜
 qank 错愕
-qany 钺
 qany 铽
 qaop 昏迷
 qap 铹
@@ -49590,6 +49587,7 @@ qawu 错位
 qawx 錵
 qaxf 锋芒毕露
 qaxp 错综
+qaxy 钺
 qay 氐
 qayb 邸
 qayg 鸱
@@ -49833,8 +49831,8 @@ qdne 铁石心肠
 qdng 名古屋
 qdnh 危惧
 qdnn 危局
-qdnt 铖
 qdnt 危改
+qdny 铖
 qdo 然
 qdol 急三火四
 qdou 然
@@ -50046,6 +50044,7 @@ qeyu 解说
 qeyy 希腊文
 qf 针
 qfap 名过其实
+qfaw 金盏花
 qfax 针药
 qfay 销声匿迹
 qfbb 镇子
@@ -50121,7 +50120,7 @@ qfve 包二奶
 qfww 外地人
 qfwx 多元化
 qfwy 镇住
-qfxg 针线
+qfxf 针线
 qfxk 针织
 qfxq 镇纸
 qfyj 针剂
@@ -50141,7 +50140,6 @@ qgaq 金玉其外
 qgas 鲽
 qgaw 鲜花
 qgaw 印花
-qgaw 金盏花
 qgay 鲜蘑
 qgb 印
 qgba 铺陈
@@ -50632,7 +50630,7 @@ qhwm 外侧
 qhwt 外伤
 qhwt 犯上作乱
 qhww 外人
-qhxg 外线
+qhxf 外线
 qhxh 外引
 qhxj 触目皆是
 qhxt 外乡
@@ -51047,7 +51045,7 @@ qkwv 名分
 qkww 名人
 qkww 免俗
 qkww 名伶
-qkxg 铁路线
+qkxf 铁路线
 qkxj 免费
 qkxk 勉强
 qkya 免试
@@ -51223,7 +51221,7 @@ qmww 铜价
 qmwx 钢化
 qmwy 钠
 qmxc 金刚经
-qmxg 铜线
+qmxf 铜线
 qmxj 钢缆
 qmxk 钢绳
 qmxq 负约
@@ -51289,6 +51287,7 @@ qnfg 金属元素
 qnfn 包场
 qnfu 饱以老拳
 qnfy 刨坑
+qnfy 饯
 qng 乌
 qngb 邬
 qngd 乌
@@ -51302,7 +51301,6 @@ qngq 忽必烈
 qngq 饿殍
 qngs 锯末
 qngu 包夹
-qngy 饯
 qnh 镅
 qnhc 包皮
 qnhg 镅
@@ -51444,8 +51442,8 @@ qntk 饷
 qntl 饬
 qntp 包管
 qnts 锯条
-qntt 饿
 qntt 铋
+qnty 饿
 qnu 饼
 qnua 饼
 qnud 馒头
@@ -51492,7 +51490,7 @@ qnx 铌
 qnxa 鸟尽弓藏
 qnxc 饱经
 qnxe 狗尾续貂
-qnxg 馈线
+qnxf 馈线
 qnxi 乌纱
 qnxk 锦心绣口
 qnxn 铌
@@ -52338,7 +52336,7 @@ qtls 犯困
 qtlu 猪圈
 qtm 猾
 qtme 猾
-qtmg 犯贱
+qtmf 犯贱
 qtmk 银行账号
 qtml 猪崽
 qtmq 狂风
@@ -52437,8 +52435,8 @@ qtrr 独白
 qtrr 狠抓
 qtrs 猛打
 qtrt 猎手
-qtrt 锇
 qtrv 狂热
+qtry 锇
 qtry 狐
 qts 猹
 qtsd 金箍棒
@@ -52546,7 +52544,7 @@ qtwy 猪食
 qtx 狒
 qtxa 猩红
 qtxf 狴
-qtxg 锋线
+qtxf 锋线
 qtxi 猕
 qtxj 狒
 qtxq 铜版纸
@@ -52701,7 +52699,7 @@ quwt 外交途径
 quwx 独立化
 qux 锑
 quxe 针头线脑
-quxg 铁道线
+quxf 铁道线
 quxq 包装纸
 quxt 锑
 quyi 儿童文学
@@ -52868,7 +52866,7 @@ qvws 多媒体
 qvwu 键位
 qvww 多媒体通信
 qvxa 银红
-qvxg 银线
+qvxf 银线
 qvxk 争强
 qvxu 银弹
 qvxx 银丝
@@ -53063,9 +53061,9 @@ qybn 留了
 qybt 镦
 qyc 铳
 qyce 希望能
+qyck 锍
 qycn 遛马
 qycq 铳
-qycq 锍
 qycw 留难
 qycy 留驻
 qyd 訇
@@ -53259,7 +53257,6 @@ ra 找
 raa 拭
 raaa 拈花惹草
 raad 找茬
-raag 拭
 raai 白茫茫
 raai 撒落
 raaj 描摹
@@ -53267,6 +53264,7 @@ raak 手工艺品
 raan 手工艺
 raap 白蒙蒙
 raaw 白花花
+raay 拭
 rab 皂
 rabc 捞取
 rabm 找出
@@ -53601,7 +53599,7 @@ rbwv 报仇
 rbww 报价
 rbwy 报信
 rbwy 摄食
-rbxg 后防线
+rbxf 后防线
 rbxq 报纸
 rbxu 招降纳叛
 rbyg 报请
@@ -53669,13 +53667,13 @@ rcfm 反击
 rcfn 返场
 rcfs 后台老板
 rcft 反对者
+rcfx 把盏
 rcga 摊开
 rcgb 白马王子
 rcge 返青
 rcgf 把玩
 rcgh 反正
 rcgk 挨整
-rcgl 把盏
 rcgp 返还
 rchc 瓜皮
 rchh 反目
@@ -55149,7 +55147,7 @@ rhwy 犋
 rhxa 披红
 rhxe 年级
 rhxe 年龄组
-rhxg 掉线
+rhxf 掉线
 rhxj 年费
 rhxl 年幼
 rhxn 年纪
@@ -55757,7 +55755,7 @@ rlww 年轻人
 rlwx 年轻化
 rlx 摞
 rlxd 捆绑
-rlxg 摆线
+rlxf 摆线
 rlxi 摞
 rlxo 攞
 rlxq 描图纸
@@ -57211,9 +57209,9 @@ rrwy 白领
 rrwy 皈依
 rrwy 扫描仪
 rrxe 摄制组
-rrxg 拆线
-rrxg 折线
-rrxg 抛物线
+rrxf 拆线
+rrxf 折线
+rrxf 抛物线
 rrxj 白费
 rrxq 白纸
 rrxq 折纸
@@ -57636,7 +57634,7 @@ rtlw 拆迁办
 rtlx 拖累
 rtma 插曲
 rtma 摇篮曲
-rtmg 卑贱
+rtmf 卑贱
 rtmh 手帕
 rtmh 手巾
 rtmm 手册
@@ -57713,10 +57711,10 @@ rtrt 插手
 rtrt 插播
 rtrt 扦插
 rtrt 斤斤
-rtrt 皒
 rtru 拖拉
 rtrv 手势
 rtrx 手指
+rtry 皒
 rtry 所向披靡
 rtry 插科打诨
 rtsa 手模
@@ -57929,7 +57927,7 @@ ruhk 接点
 ruhn 手疾眼快
 ruia 拦洪
 ruif 皎洁
-ruig 搁浅
+ruif 搁浅
 ruik 搓澡
 ruim 打酱油
 ruit 搓洗
@@ -58121,8 +58119,8 @@ ruwy 物美价廉
 ruxa 拉练
 ruxc 拼缀
 ruxf 接续
-ruxg 接线
-ruxg 拉线
+ruxf 接线
+ruxf 拉线
 ruxh 接引
 ruxm 接纳
 ruxt 接缝
@@ -58368,7 +58366,7 @@ rvwo 招集
 rvww 招人
 rvwx 热化
 rvxa 殷红
-rvxg 热线
+rvxf 热线
 rvxh 招引
 rvxm 招纳
 rvxn 执纪
@@ -58798,7 +58796,7 @@ rxsw 提线木偶
 rxsy 接线柱
 rxte 批租
 rxtf 指靠
-rxtg 接线生
+rxtf 接线生
 rxtj 批复
 rxtj 气贯长虹
 rxtm 指向
@@ -59083,13 +59081,13 @@ s 要
 sa 械
 saa 械
 saaa 模式
-saah 械
 saah 横卧
 saai 模范
 saan 棋艺
 saap 木芙蓉
 saaq 棋苑
 saav 横切
+saay 械
 saay 西葫芦
 sab 栉
 saba 横陈
@@ -59236,7 +59234,7 @@ sawx 格式化
 sawx 模式化
 sawy 模仿
 saxf 横贯
-saxg 横线
+saxf 横线
 saxh 本草纲目
 saxn 枢纽
 saxn 本世纪
@@ -59449,7 +59447,7 @@ sdhd 楔
 sdhh 顶上
 sdhh 椅上
 sdhk 顶点
-sdht 槭
+sdhy 槭
 sdid 顶尖
 sdii 枯水
 sdil 枯涸
@@ -59673,7 +59671,7 @@ sfhc 植皮
 sfhg 植
 sfhh 村上
 sfhk 标点
-sfht 樾
+sfhy 樾
 sfi 标
 sfia 票汇
 sfid 票源
@@ -59767,6 +59765,7 @@ sfsl 可喜可贺
 sfsr 植株
 sfss 桂林
 sfss 楠木
+sfst 栈桥
 sfsu 标榜
 sfsw 标枪
 sfsy 棱柱
@@ -59795,6 +59794,7 @@ sfud 枝头
 sfud 村头
 sfuh 枝丫
 sfuk 樯
+sfut 栈道
 sfuw 标准
 sfuw 杳无音信
 sfuy 西直门
@@ -59814,8 +59814,9 @@ sfww 本地人
 sfww 标价
 sfwx 本土化
 sfwx 本地化
+sfx 栈
 sfxa 飘红
-sfxg 标线
+sfxf 标线
 sfxq 杜绝
 sfxt 林志颖
 sfxv 飘绿
@@ -59905,6 +59906,7 @@ sgfn 林青霞
 sgfp 焚琴煮鹤
 sgfq 本无
 sgfw 丁零
+sgfx 杯盏
 sgfy 梅开二度
 sgfy 酎
 sgg 枉
@@ -59917,7 +59919,6 @@ sggh 醇正
 sggi 要死不活
 sggk 本事
 sggk 酷吏
-sggl 杯盏
 sggm 酸枣
 sggo 本来
 sggo 醒来
@@ -60104,7 +60105,6 @@ sgsr 机不可失
 sgss 酸楚
 sgss 朽木
 sgst 桎梏
-sgst 栈桥
 sgst 酸梅
 sgsu 本校
 sgsv 梗概
@@ -60153,7 +60153,6 @@ sguk 醅
 sgum 西端
 sguq 西郊
 sgus 本尊
-sgut 栈道
 sgut 酸疼
 sgux 西北
 sguy 西门
@@ -60187,7 +60186,7 @@ sgwy 禁不住
 sgx 酯
 sgxc 西经
 sgxe 本组
-sgxg 西线
+sgxf 西线
 sgxg 酵母
 sgxg 西王母
 sgxj 酯
@@ -60196,7 +60195,6 @@ sgxn 本纪
 sgxt 本乡
 sgxw 配给
 sgxx 配比
-sgy 栈
 sgya 酸度
 sgyb 醇
 sgye 酿
@@ -61323,7 +61321,7 @@ srws 植物体
 srwt 模拟人生
 srww 植物人
 srxf 板结
-srxg 棉线
+srxf 棉线
 srxi 棉纱
 srxk 棉织
 srxl 可持续发展战略
@@ -62578,7 +62576,7 @@ taww 策划人
 taww 筮
 tawx 升华
 taxe 升级
-taxg 长线
+taxf 长线
 taxi 乔其纱
 taxl 长幼
 taxm 长缨
@@ -62873,7 +62871,7 @@ tdic 矫治
 tdid 舌尖
 tdie 刮削
 tdif 知法
-tdig 短浅
+tdif 短浅
 tdih 矮小
 tdih 短小
 tdih 生龙活虎
@@ -63110,7 +63108,7 @@ tdx 笼
 tdxb 笼
 tdxe 筹组
 tdxf 籍贯
-tdxg 短线
+tdxf 短线
 tdxh 箭在弦上
 tdxh 矧
 tdxi 生态经济
@@ -63382,8 +63380,8 @@ tewx 盘货
 tex 舭
 texa 盘绕
 texf 盘结
+texf 航线
 texg 航母
-texg 航线
 texj 租费
 texq 租约
 texv 透绿
@@ -63911,11 +63909,12 @@ tfwx 行货
 tfwx 造化
 tfwy 身无分文
 tfwy 先令
+tfx 笺
 tfxc 行经
 tfxe 等级
 tfxf 待续
-tfxg 毛线
-tfxg 垂直线
+tfxf 毛线
+tfxf 垂直线
 tfxi 奥运经济
 tfxq 造纸
 tfxt 告终
@@ -63925,6 +63924,7 @@ tfxw 先给
 tfxx 秋雨绵绵
 tfxy 选编
 tfxy 毛纺
+tfxy 笺
 tfya 告诫
 tfyb 迁离
 tfyc 丢弃
@@ -64322,7 +64322,6 @@ tgtx 循环系统
 tgty 征稿
 tgty 行政复议
 tgty 自不待言
-tgu 笺
 tgub 重塑
 tgud 管不着
 tgud 重头
@@ -64397,8 +64396,8 @@ tgwy 征信
 tgwy 生殖健康
 tgxc 管理经验
 tgxe 重组
-tgxg 第一线
-tgxg 生死线
+tgxf 第一线
+tgxf 生死线
 tgxg 生母
 tgxh 征引
 tgxi 循环经济
@@ -64906,7 +64905,7 @@ tiwt 稍作
 tiwv 血泪仇
 tiww 香港人
 tiwx 科学化
-tixg 等温线
+tixf 等温线
 tixj 生活费
 tiya 生活方式
 tiyb 乔治敦
@@ -65170,7 +65169,7 @@ tjww 得人
 tjwy 复信
 tjxa 千日红
 tjxe 重量级
-tjxg 复线
+tjxf 复线
 tjxt 很紧张
 tjxw 得给
 tjxx 得比
@@ -65668,7 +65667,7 @@ tmlp 身边
 tmlq 微软
 tmlw 自由软件
 tmmf 微雕
-tmmg 微贱
+tmmf 微贱
 tmmm 秃山
 tmmp 奥迪
 tmmq 微风
@@ -65781,7 +65780,7 @@ tmww 身份
 tmww 身价
 tmwx 自由化
 tmxf 和风细雨
-tmxg 射线
+tmxf 射线
 tmxj 入网费
 tmxl 微细
 tmxp 微缩
@@ -66146,7 +66145,7 @@ tpwq 管你
 tpwu 利害攸关
 tpww 自家人
 tpwy 航空信
-tpxg 管线
+tpxf 管线
 tpxi 管窥蠡测
 tpxq 复写纸
 tpxt 航空母舰
@@ -66482,7 +66481,6 @@ trmm 长白山
 trmq 我刚
 trmq 我见
 trmt 我的邮箱
-trn 我
 trnb 我敢
 trnf 臭氧层
 trng 鹅
@@ -66492,7 +66490,6 @@ trnm 各抒己见
 trnn 委托书
 trnq 我的快乐
 trnr 我怕
-trnt 我
 trnt 选择性
 trnt 透气性
 trnu 我买
@@ -66599,9 +66596,11 @@ trws 生物体
 trwu 我们
 trww 委托人
 trwy 秩
+trx 我
 trxa 鹅绒
 trxw 我给
 trxx 我比
+trxy 我
 try 徼
 tryb 我离
 tryc 秩序
@@ -66990,7 +66989,7 @@ ttwx 生身父母
 ttwy 靠得住
 ttxa 长毛绒
 ttxe 筹备组
-ttxg 延长线
+ttxf 延长线
 ttxm 笑纳
 ttxq 竹纸
 ttxy 竹编
@@ -67253,7 +67252,7 @@ tux 乘
 tuxa 简练
 tuxc 生意经
 tuxe 入门级
-tuxg 生产线
+tuxf 生产线
 tuxj 剩
 tuxn 科幻
 tuxp 简缩
@@ -67624,7 +67623,7 @@ twww 每个人
 twww 剩余价值
 twxe 徐缓
 twxf 黏结
-twxg 生命线
+twxf 生命线
 twxq 签约
 twxs 条分缕析
 twxt 答疑
@@ -68031,7 +68030,7 @@ tywx 程序化
 tywx 知识化
 tywy 入住
 tyxa 繁文缛节
-tyxg 等高线
+tyxf 等高线
 tyxi 知识经济
 tyxj 稿费
 tyxq 稿纸
@@ -68166,7 +68165,7 @@ uawt 冻伤
 uawu 童鞋们
 uaww 奠基人
 uaxf 冻结
-uaxg 并线
+uaxf 并线
 uaxn 新世纪
 uaxu 疲劳综合症
 uaxw 并给
@@ -68358,7 +68357,7 @@ ucww 普通人
 ucww 瘫坐
 ucwx 冯仑
 ucxc 痛经
-ucxg 交通线
+ucxf 交通线
 ucxj 交通费
 ucy 瘙
 ucyj 瘙
@@ -68975,7 +68974,7 @@ uewt 前任
 uewv 前仇
 ueww 前人
 uexc 前缀
-uexg 前线
+uexf 前线
 uexq 剪纸
 uexx 前缘
 uey 瘃
@@ -69204,7 +69203,7 @@ ufww 凌人
 ufwx 装货
 ufxa 总教练
 ufxc 闭经
-ufxg 新干线
+ufxf 新干线
 ufy 装
 ufye 装
 ufyg 准考证
@@ -69949,8 +69948,8 @@ ujwx 韶华
 ujwy 意念
 ujwy 音信
 ujxf 意绪
+ujxf 单线
 ujxg 单纯
-ujxg 单线
 ujxg 韵母
 ujxj 意旨
 ujxk 音强
@@ -70211,8 +70210,8 @@ ukwx 商品化
 ukwy 道听途说
 ukxe 部级
 ukxf 总结
-ukxg 总线
-ukxg 总路线
+ukxf 总线
+ukxf 总路线
 ukxi 商品经济
 ukxj 养路费
 ukxk 冲绳
@@ -70481,7 +70480,7 @@ umww 商人
 umww 端坐
 umww 敝人
 umxf 端绪
-umxg 端线
+umxf 端线
 umxq 商约
 umyf 商讨
 umyf 端庄
@@ -71368,7 +71367,7 @@ usww 遵从
 uswx 新华
 uswy 亲信
 usxf 新疆
-usxg 装配线
+usxf 装配线
 usxn 遵纪
 usxq 新约
 usxt 新颖
@@ -71637,7 +71636,7 @@ utwy 部长会议
 utwy 亲笔信
 utxc 道经
 utxe 首级
-utxg 单行线
+utxf 单行线
 utxt 首张
 utxy 道统
 utya 首席
@@ -72115,7 +72114,7 @@ uwwv 郑伊健
 uwww 立体人
 uwwy 冷食
 uwwy 准信
-uwxg 准线
+uwxf 准线
 uwxk 准绳
 uwxp 冷缩
 uwyc 冷
@@ -75416,7 +75415,7 @@ wdww 做人
 wdww 估价
 wdwx 优化
 wdwx 拿破仑
-wdxg 伏线
+wdxf 伏线
 wdxk 做强
 wdxx 合成纤维
 wdy 伏
@@ -76357,7 +76356,7 @@ wgwy 保不住
 wgwy 公开信
 wgwy 拿住
 wgwy 合理化建议
-wgxg 全线
+wgxf 全线
 wgxj 代理费
 wgxq 合约
 wgxt 翕张
@@ -76999,9 +76998,9 @@ wlwu 停车位
 wlww 全国人民代表大会
 wlwx 贫困化
 wlwy 偎依
-wlxg 分界线
-wlxg 贫困线
-wlxg 传输线
+wlxf 分界线
+wlxf 贫困线
+wlxf 传输线
 wlxj 停车费
 wlxl 偏转线圈
 wlxn 侏罗纪
@@ -77106,7 +77105,7 @@ wmwp 谷贱伤农
 wmwt 借风使船
 wmww 仙人
 wmwx 催化
-wmxg 侧线
+wmxf 侧线
 wmyb 催熟
 wmyf 催讨
 wmym 佛山市
@@ -77434,7 +77433,7 @@ wowx 焦化
 wowx 售货
 wowy 伙食
 woxf 集结
-woxg 分数线
+woxf 分数线
 woxm 集纳
 woxq 集约
 woy 伙
@@ -77530,7 +77529,7 @@ wpws 仿宋体
 wpww 全家人
 wpwx 便宜货
 wpx 佗
-wpxg 分割线
+wpxf 分割线
 wpxi 全神贯注
 wpxj 住宿费
 wpxm 儒家经典
@@ -77667,7 +77666,7 @@ wqlf 伊甸园
 wqli 伏尔加河
 wqlk 伏尔加
 wqlk 低回
-wqmg 低贱
+wqmf 低贱
 wqmh 八角帽
 wqmm 低凹
 wqmq 你刚
@@ -78399,10 +78398,10 @@ wtrq 信息反馈
 wtrq 作物
 wtrr 伤逝
 wtrs 信息技术
-wtrt 俄
 wtrv 伤势
 wtrv 余热
 wtrv 作势
+wtry 俄
 wtsc 优先权
 wtsc 人身权
 wtsg 作梗
@@ -78504,7 +78503,7 @@ wtx 侮
 wtxc 途经
 wtxd 俄顷
 wtxe 优先级
-wtxg 斜线
+wtxf 斜线
 wtxk 八强
 wtxt 侨乡
 wtxu 侮
@@ -78797,7 +78796,7 @@ wvls 贫困
 wvlt 侵略
 wvlw 分界
 wvm 贫
-wvmg 贫贱
+wvmf 贫贱
 wvmh 分贝
 wvmj 岔
 wvmm 分册
@@ -80254,9 +80253,9 @@ xaww 红人
 xawx 红货
 xaxa 毕恭毕敬
 xaxe 绕组
-xaxg 红线
-xaxg 绒线
-xaxg 绕线
+xaxf 红线
+xaxf 绒线
+xaxf 绕线
 xaxt 绒绣
 xaxx 缂丝
 xaya 张艺谋
@@ -80348,7 +80347,7 @@ xcwf 绝对值
 xcwo 经售
 xcwx 绝对化
 xcxf 经纬
-xcxg 经线
+xcxf 经线
 xcxi 经纱
 xcxj 经费
 xcxn 经纪
@@ -80507,7 +80506,7 @@ xey 级
 xeyf 组诗
 xeyn 组词
 xeyy 级
-xf 结
+xf 线
 xfbb 绫子
 xfbi 约翰逊
 xfbj 张朝阳
@@ -80531,8 +80530,11 @@ xffd 级地震
 xfff 疆土
 xffn 疆场
 xffn 结块
+xffp 线索
 xffr 结垢
 xfg 疆
+xfga 线形
+xfga 线型
 xfgg 疆
 xfgh 结下
 xfgk 结束
@@ -80547,13 +80549,18 @@ xfig 结清
 xfiy 贯注
 xfje 结盟
 xfjg 张老师
+xfjh 线虫
 xfjj 结晶
 xfjs 结果
 xfk 结
 xfkg 结
+xfkh 线路
 xfkk 贯串
 xfkm 缬
+xfkn 线呢
 xflf 结转
+xflm 线轴
+xflu 线圈
 xflw 疆界
 xfm 贯
 xfmm 终南山
@@ -80568,6 +80575,7 @@ xfnh 纬
 xfnn 结局
 xfnt 结尾
 xfnt 结发
+xfnt 线性
 xfnx 乡规民约
 xfog 结业
 xfpb 红十字
@@ -80582,14 +80590,17 @@ xfq 鸨
 xfqb 结怨
 xfqg 鸨
 xfqt 绕远儿
+xfra 线描
 xfrd 结拜
 xfrn 结扎
 xfrp 编者按
 xfrq 结的
 xfrs 引进技术
 xfrt 乡土气息
+xfsf 线材
 xfsm 强击机
 xfsq 结构
+xfsr 线板
 xfsy 结核
 xft 绪
 xfta 贯彻
@@ -80598,10 +80609,13 @@ xfte 续航
 xftf 红地毯
 xfth 结算
 xftj 绪
+xfts 线条
 xftw 续签
 xfty 续篇
 xfuc 结疤
+xfud 线头
 xfuf 緈
+xfuf 线装
 xfui 结冰
 xful 结痂
 xfuq 结交
@@ -80612,6 +80626,7 @@ xfw 绫
 xfwa 续借
 xfwb 弹吉他
 xfwd 绝无仅有
+xfwd 线段
 xfwg 结合
 xfwk 续保
 xfwn 续假
@@ -80621,8 +80636,9 @@ xfwt 绫
 xfwt 结余
 xfwu 结伴
 xfwv 结仇
+xfx 线
 xfxd 张雨绮
-xfxg 纬线
+xfxf 纬线
 xfxi 纬纱
 xfxj 绘声绘影
 xfxk 结绳
@@ -80631,6 +80647,7 @@ xfxx 结缘
 xfxy 续弦
 xfy 纣
 xfya 纬度
+xfye 线衣
 xfyf 续读
 xfyg 结语
 xfyi 乡土文学
@@ -80642,7 +80659,6 @@ xfyw 结论
 xfyw 绪论
 xfyx 绿地率
 xfyy 绪言
-xg 线
 xgai 张亚东
 xgaj 纯蓝
 xgb 纯
@@ -80664,10 +80680,7 @@ xgf 纡
 xgfh 纯真
 xgfh 经不起
 xgfh 纡
-xgfp 线索
 xgfw 约瑟夫
-xgga 线形
-xgga 线型
 xggg 纯一
 xggh 纯正
 xggr 红玫瑰
@@ -80681,28 +80694,22 @@ xgii 纯水
 xgip 统一党
 xgj 绠
 xgjg 绝不是
-xgjh 线虫
 xgjk 纯平显示器
 xgjq 绠
 xgjr 终于明白
-xgkh 线路
 xgkk 纯品
-xgkn 线呢
 xgkt 统一口径
 xgl 缰
 xglf 纯黑
 xglg 缰
-xglm 线轴
 xgln 约束力
 xgls 统一思想
-xglu 线圈
 xgm 绩
 xgmm 母婴
 xgmp 比亚迪
 xgmy 绩
 xgng 纯情
 xgnt 纯属
-xgnt 线性
 xgnt 母性
 xgnt 统一性
 xgo 彝
@@ -80721,7 +80728,6 @@ xgqt 母猪
 xgqu 红斑狼疮
 xgqu 绚丽多姿
 xgqy 维吾尔族
-xgra 线描
 xgrg 母后
 xgrh 母牛
 xgrq 母的
@@ -80729,24 +80735,19 @@ xgrq 纯的
 xgrr 纯白
 xgry 强烈抗议
 xgsc 绝不可能
-xgsf 线材
 xgsg 母本
 xgsh 纯朴
 xgsm 弱不禁风
-xgsr 线板
 xgsu 母校
 xgte 母舰
 xgtf 纯毛
 xgtj 纯利
 xgtk 纯种
-xgts 线条
 xgtu 终于知道
 xgtw 结束符
 xgtx 母系
 xgu 母
-xgud 线头
 xgud 母羊
-xguf 线装
 xgug 纯美
 xgui 母
 xguj 纯音
@@ -80757,7 +80758,6 @@ xgus 母亲
 xgvf 张惠妹
 xgvn 母妃
 xgvv 母女
-xgwd 线段
 xgwf 经互会
 xgws 母体
 xgws 统一体
@@ -80766,17 +80766,15 @@ xgwx 纯化
 xgwy 经不住
 xgx 彘
 xgxf 经天纬地
-xgxg 母线
+xgxf 母线
 xgxj 缙绅
 xgxk 缰绳
 xgxt 张靓颖
 xgxw 给不给
 xgxx 彘
 xgxx 幼吾幼以及人之幼
-xgy 线
 xgya 纯度
 xgyb 纯熟
-xgye 线衣
 xgyg 母语
 xgyg 结束语
 xgyn 母鹿
@@ -80839,7 +80837,7 @@ xhvm 细皮嫩肉
 xhwj 引介
 xhww 引人
 xhwy 引领
-xhxg 引线
+xhxf 引线
 xhxq 绰约
 xhyg 引证
 xhyr 纸上谈兵
@@ -80935,7 +80933,7 @@ xiws 经济体
 xiww 经济全球化
 xiww 经济人
 xiwx 经常化
-xixg 纱线
+xixf 纱线
 xixs 经济结构
 xiyv 经济衰退
 xiyv 张学良
@@ -81206,7 +81204,7 @@ xlwv 细分
 xlwx 细化
 xlwy 绘图仪
 xlx 辔
-xlxg 细线
+xlxf 细线
 xlxi 缧
 xlxk 辔
 xlxl 细细
@@ -81619,7 +81617,7 @@ xqww 绝伦
 xqwy 绝食
 xqxc 绝经
 xqxf 绝续
-xqxg 红外线
+xqxf 红外线
 xqxi 绉纱
 xqxt 纸张
 xqxw 织锦缎
@@ -81685,7 +81683,7 @@ xrwf 缴付
 xrws 编年体
 xrww 经手人
 xrxe 缩手缩脚
-xrxg 弧线
+xrxf 弧线
 xrxj 缴费
 xrxm 缴纳
 xrxq 绵纸
@@ -81906,7 +81904,7 @@ xtxa 绛红
 xtxb 张弛
 xtxc 络绎
 xtxf 终结
-xtxg 缝线
+xtxf 缝线
 xtxj 乡绅
 xtxk 纤绳
 xtxl 纤细
@@ -82241,7 +82239,7 @@ xwwy 纵
 xwx 纶
 xwxf 纷纭
 xwxf 纵贯
-xwxg 缝合线
+xwxf 缝合线
 xwxn 纶
 xwxw 纷纷
 xwya 维度
@@ -82430,7 +82428,7 @@ xxww 幽谷
 xxwy 比邻
 xxx 纟
 xxxa 丝绒
-xxxg 丝线
+xxxf 丝线
 xxxj 比比皆是
 xxxk 丝织
 xxxm 丝绸
@@ -82580,8 +82578,6 @@ yaa 试
 yaaa 试工
 yaab 遮荫
 yaad 施工期
-yaag 试
-yaah 诫
 yaah 谋臣
 yaaj 谋划
 yaak 良药苦口
@@ -82589,6 +82585,8 @@ yaal 诬蔑
 yaam 刘若英
 yaau 遮蔽
 yaau 望其项背
+yaay 试
+yaay 诫
 yabb 席子
 yabb 话匣子
 yabc 谋取
@@ -82899,7 +82897,7 @@ ybww 熟人
 ybwx 熟化
 ybwy 熟食
 ybxa 熟练
-ybxg 离线
+ybxf 离线
 ybxn 让子弹飞
 ybxt 离乡
 ybxy 离弦
@@ -83073,7 +83071,7 @@ ydn 诚
 ydnd 应有尽有
 ydnh 放在心上
 ydnn 请愿书
-ydnt 诚
+ydny 诚
 ydny 诚心
 ydo 诙
 ydow 齑粉
@@ -83118,7 +83116,7 @@ ydwt 这有什么
 ydwy 诚信
 ydwy 文成公主
 ydx 庞
-ydxg 高压线
+ydxf 高压线
 ydxv 庞
 ydyd 施耐庵
 ydyh 高碑店
@@ -83748,7 +83746,7 @@ ygww 主从
 ygwy 主食
 ygwy 证伪
 ygxe 评级
-ygxg 主线
+ygxf 主线
 ygxj 主旨
 ygxm 请缨
 ygxt 主张
@@ -85301,7 +85299,7 @@ yorq 变换
 yorr 变白
 yos 栾
 yosa 蛮横
-yosg 恋栈
+yosf 恋栈
 yosh 变相
 yosk 恋歌
 yosu 栾
@@ -85697,7 +85695,7 @@ yqwf 谗佞
 yqwo 课外作业
 yqwq 义父
 yqww 底价
-yqxg 底线
+yqxf 底线
 yqxg 义母
 yqxl 底细
 yqyc 诡谲
@@ -85972,7 +85970,7 @@ ysww 磨人
 yswx 订货
 ysxa 磨练
 ysxe 调查组
-ysxg 麻线
+ysxf 麻线
 ysxi 麻纱
 ysxj 调查结果
 ysxk 麻绳
@@ -86330,7 +86328,7 @@ ytwx 刘德华
 ytx 诲
 ytxa 旋绕
 ytxe 方程组
-ytxg 放射线
+ytxf 放射线
 ytxh 诱引
 ytxj 话费
 ytxj 旅费
