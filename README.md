@@ -3,6 +3,8 @@
 
 本项目旨在打造一个更好的、面向大众的通用码表，并且会持续更新，逐步完善词库。
 
+2021-03-23: **正式回归 86 版，新世纪版不再维护**
+
 2021-03-18: 继续维护
 
 2021-03-16: 放弃维护
@@ -98,6 +100,8 @@
 # 使用
 ## fcitx5
 ```shell
+git clone https://github.com/beavailable/better-wubi.git
+cd better-wubi
 sudo ./install-for-fcitx5.sh
 ```
 之后重启 fcitx5 并添加“新世纪五笔”输入法即可。
