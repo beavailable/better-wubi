@@ -51,11 +51,6 @@ print_freq() {
     echo '   ---------------------------------------------------------'
 }
 
-if [ $# = 0 ]; then
-    echo 'missing a parameter'
-    exit 1
-fi
-
-count_chars "$@"
+count_chars better-wubi.dict
 echo
-count_words "$@"
+count_words better-wubi.dict
