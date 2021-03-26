@@ -7225,7 +7225,6 @@ avmh 欺君罔上
 avmh 切贴
 avmm 萧山
 avmw 切肉
-avn 切
 avnh 萧疏
 avnn 切忌
 avnn 切己
@@ -7256,6 +7255,7 @@ avru 切接
 avrv 切挚
 avss 萧森
 avsv 切要
+avt 切
 avth 切片
 avti 萧衍
 avtk 莙
@@ -12539,7 +12539,6 @@ bylg 附庸国
 bylp 防边
 byma 附庸风雅
 bymq 防风
-byn 防
 bynk 防避
 bynw 孩
 bynw 陔
@@ -12575,6 +12574,7 @@ bysg 附刻本
 bysj 降魔棍
 bysk 子夜歌
 byst 降魔杵
+byt 防
 byta 防长
 bytl 防务
 bytl 防备
@@ -16112,8 +16112,8 @@ dav 砌
 dava 砸毁
 davb 大雅君子
 davb 百花娘子
-davn 砌
 davn 碟鼠
+davt 砌
 davv 春节妈妈
 davv 韭菜姑娘
 davw 胡七杂八
@@ -28999,7 +28999,6 @@ eym 肮
 eyme 脑髓
 eymn 肮
 eymq 脐风
-eyn 肪
 eyna 脑民
 eyni 脉
 eynn 胆颤心惊
@@ -29040,6 +29039,7 @@ eysr 脚底板
 eyss 脱底棺材
 eyst 及格
 eyst 脑桥
+eyt 肪
 eytd 脏乱
 eyte 脑筋
 eytf 腋毛
@@ -34948,8 +34948,8 @@ flyg 雷主
 flyg 雷语
 flym 协调
 flym 直辖市
-flyn 塄
 flyn 雷词
+flyt 塄
 flyt 雷州
 flyu 地圆说
 flyy 协议
@@ -39615,7 +39615,6 @@ fymt 勃朗峰
 fymu 增广见闻
 fymu 城市雕塑
 fymx 城市网络
-fyn 坊
 fyna 𡎚
 fync 无言以对
 fynd 地方剧
@@ -39710,6 +39709,7 @@ fysv 无迹可寻
 fysy 无话可说
 fysy 无计可施
 fysy 直言极谏
+fyt 坊
 fyt 圹
 fytd 才高行厚
 fytf 吉诃德
@@ -55191,8 +55191,8 @@ iavc 泄怒
 iave 港姐
 iavi 灌录
 iavj 潇
-iavn 沏
 iavn 江妃
+iavt 沏
 iavt 港九
 iaw 洪
 iawb 满仓
@@ -65780,8 +65780,8 @@ iwvb 淑人君子
 iwvc 渝始
 iwvf 兴建
 iwvl 湓
-iwvn 汾
 iwvn 雀鼠
+iwvt 汾
 iwvt 洢
 iwvv 堂分姑娘
 iww 浴
@@ -78104,7 +78104,6 @@ kvky 唧嗾
 kvky 呶嚷
 kvln 号召力
 kvlp 哪边
-kvn 叨
 kvnr 哪怕
 kvod 哪类
 kvpt 叨客
@@ -78120,6 +78119,7 @@ kvrl 吃奶气力
 kvsc 呆如木鸡
 kvsj 贵妃榻
 kvsu 哪样
+kvt 叨
 kvtd 哪知
 kvte 哪般
 kvth 哪算
@@ -78405,7 +78405,7 @@ kwuy 哗闹
 kwv 吩
 kwvb 只好
 kwvd 叶公好龙
-kwvn 吩
+kwvt 吩
 kwvt 咿
 kww 唑
 kwwa 哈代
@@ -90871,9 +90871,9 @@ nlww 愣人
 nlwy 愣住
 nly 愣
 nlyd 悃诚
-nlyn 愣
 nlyp 翼亮
 nlyp 忧国忘家
+nlyt 愣
 nlyt 飞车族
 nlyu 心力衰竭
 nm 届
@@ -93214,7 +93214,6 @@ nvly 快刀斩乱麻
 nvly 快刀斩麻
 nvme 尻骨
 nvmu 慨赠
-nvn 忉
 nvni 惟妙惟肖
 nvnj 忉怛
 nvnv 恨恨
@@ -93229,6 +93228,7 @@ nvrf 收刀捡卦
 nvsd 心如木石
 nvsh 慨想
 nvsm 收录机
+nvt 忉
 nvte 恨透
 nvtj 恨得
 nvuj 恨意
@@ -96810,7 +96810,7 @@ owuu 迷途羔羊
 owuv 粉妆
 owv 粉
 owvg 粉嫩
-owvn 粉
+owvt 粉
 owvt 粉娥
 owwa 粉黛
 owwg 粉盒
@@ -101589,11 +101589,11 @@ puvk 裙
 puvk 裕如
 puvk 被絮
 puvk 襜如
-puvn 初
 puvp 褪
 puvq 初婚
 puvq 补婚
 puvq 裸婚
+puvt 初
 puvv 裸女
 puvw 实况录像
 puvx 褓姆
@@ -105897,7 +105897,6 @@ qgyj 解毒剂
 qgyk 名正言顺
 qgym 鱼市
 qgym 铺设
-qgyn 鲂
 qgyn 印记
 qgyn 外来词
 qgyn 铺户
@@ -105909,6 +105908,7 @@ qgyq 铺底
 qgys 铺床
 qgys 针刺麻醉
 qgys 印床
+qgyt 鲂
 qgyt 铺放
 qgyu 印谱
 qgyw 鱼鹰
@@ -111650,7 +111650,6 @@ qymq 留购
 qymt 久几
 qymw 岛内
 qymw 锦衣肉食
-qyn 钫
 qyna 金銮殿
 qyna 岛民
 qync 鹱
@@ -111748,7 +111747,7 @@ qysw 鸟枪
 qysw 铳枪
 qysy 卵核
 qysy 狭义相对论
-qyt 卵
+qyt 钫
 qyta 久长
 qytb 孵
 qytd 镞
@@ -124318,13 +124317,13 @@ rwuy 推门
 rwv 扮
 rwvf 推寻
 rwvf 抢建
-rwvn 扮
 rwvn 挫刀
 rwvn 打八刀
 rwvo 失灵
 rwvq 抢婚
 rwvq 失婚
 rwvr 掰
+rwvt 扮
 rwvt 失群
 rwvu 抢嫌
 rwvx 拼保姆
@@ -128981,7 +128980,7 @@ slxy 桃园结义
 sly 楞
 slyb 可贺敦
 slyk 李思训
-slyn 楞
+slyt 楞
 slyw 配置文件
 sm 机
 smaa 机工
@@ -132187,7 +132186,6 @@ symk 槁
 symn 杭
 symt 李郭同舟
 symt 槁败
-syn 枋
 synd 杭剧
 syng 述怀
 synh 核收
@@ -132253,6 +132251,7 @@ sysw 榔榆
 sysw 榔槌
 sysy 榔杭
 sysy 桹桹
+syt 枋
 sytb 椸
 sytd 西施舌
 sytd 木刻符契
@@ -132722,9 +132721,9 @@ tauy 长门
 tauy 垂花门
 tavd 箕姑
 tavj 筑巢
-tavn 彻
 tavn 长刀
 tavp 箕帚
+tavt 彻
 tavt 生花妙笔
 tavv 长女
 tavy 生花妙语
@@ -134526,7 +134525,6 @@ teyh 盘店
 teyh 租让
 teyl 盘库
 teym 航
-teyn 舫
 teyn 租房
 teyn 船户
 teyn 租户
@@ -134540,6 +134538,7 @@ teyq 透底
 teyq 船底
 teyq 盘底
 teys 磐磨
+teyt 舫
 teyt 透话
 teyt 盘旋
 teyt 自助旅行
@@ -143793,7 +143792,6 @@ tymm 入山
 tymq 入网
 tymt 入账
 tymw 入内
-tyn 彷
 tyna 篇
 tynd 簇居
 tyng 入怀
@@ -143879,7 +143877,7 @@ tyss 入梦
 tyss 笔记本式计算机
 tyst 入梅
 tyst 入格
-tyt 簇
+tyt 彷
 tyta 笔底生花
 tytc 篱笆
 tytd 簇
@@ -156860,7 +156858,6 @@ vylg 君主国
 vylg 妙语连珠
 vylw 鸠摩罗什
 vyly 妫
-vyn 妨
 vynn 妒忌
 vynn 建议书
 vynp 女为悦己者容
@@ -156895,6 +156892,7 @@ vysc 好言相劝
 vysm 录放机
 vysu 妙言要道
 vysy 忍术
+vyt 妨
 vytf 好高务远
 vytr 群魔乱舞
 vytu 忍冬
@@ -166510,9 +166508,9 @@ wwv 份
 wwvb 仁人君子
 wwvc 众怒
 wwvd 何仙姑
-wwvn 份
 wwvn 俗媚
 wwvs 丛杂
+wwvt 份
 wwvt 人群
 wwvt 人妖
 wwvt 人君
@@ -167526,7 +167524,6 @@ wymw 食肉
 wymw 公主岭
 wymy 贪赃
 wymy 人为财死，鸟为食亡
-wyn 仿
 wyna 偏
 wyna 偏殿
 wyna 住民
@@ -167797,6 +167794,7 @@ wyst 仿格
 wysu 今样
 wysu 依样
 wysv 偏要
+wyt 仿
 wyta 侂
 wyta 邻长
 wytb 人弃我取
@@ -172032,8 +172030,8 @@ xwv 纷
 xwvb 给她
 xwve 强化奶
 xwvf 维那
-xwvn 纷
 xwvs 纷杂
+xwvt 纷
 xww 纵
 xwwb 给他
 xwwf 给付
@@ -172533,7 +172531,6 @@ xymk 缟
 xymq 统购
 xymq 弶网
 xymw 编内
-xyn 纺
 xyna 编
 xyna 编民
 xynd 编剧
@@ -172591,6 +172588,7 @@ xysu 编校
 xysw 统检
 xysy 弦柱
 xysy 编述
+xyt 纺
 xyt 纩
 xytd 统筹
 xyte 统舱
@@ -177755,6 +177753,7 @@ ynyc 废弃
 ynyc 词序
 ynyc 记诵
 ynyd 肇庆
+ynye 房
 ynye 扆
 ynye 谈情说爱
 ynyf 讯诘
@@ -177816,7 +177815,6 @@ ynyu 妄说
 ynyu 词谱
 ynyu 谬说
 ynyu 词说
-ynyv 房
 ynyv 永康
 ynyw 扆座
 ynyw 谬论
@@ -182085,7 +182083,6 @@ yymt 文峰
 yymt 方几
 yymt 议论风生
 yymt 谈论风生
-yyn 访
 yyn 讠
 yyna 谝
 yynd 庐剧
@@ -182237,6 +182234,7 @@ yyst 文格
 yysv 方根
 yysy 广义相对论
 yysy 方术
+yyt 访
 yyta 议长
 yytd 言辞
 yytd 文辞
