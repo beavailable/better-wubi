@@ -1516,7 +1516,6 @@ aeaw 菜花
 aeaw 七月革命
 aeaw 散花
 aeay 菜荒
-aeb 艿
 aebb 菜子
 aebb 藤子
 aebb 花肠子
@@ -1645,6 +1644,7 @@ aeqt 黄腹角雉
 aeqt 散逛
 aeqt 花脚猫
 aeqy 菜鸟
+aer 艿
 aerc 菜瓜
 aerc 散摊
 aerg 散兵
@@ -6523,10 +6523,10 @@ atdx 攻袭
 atdx 范长龙
 atdy 共生矿
 ate 莠
-ateb 莠
 ateh 医用
 atem 蓝筹股
 atep 尧舜
+ater 莠
 atf 芊
 atfb 翳地
 atfd 攻城
@@ -13669,6 +13669,8 @@ cehh 通上
 cehh 能上
 cehj 甬
 cehl 勇
+cehn 恿
+cehp 通
 cehu 熊腰虎背
 ceia 通江
 ceid 能源
@@ -13722,7 +13724,6 @@ cemm 通山
 cemq 通赡
 cemq 通风
 cemu 通赔
-cen 恿
 cenb 勇敢
 cend 甬剧
 ceng 通情
@@ -13732,16 +13733,13 @@ cenh 通疏
 cenj 勇悍
 cenn 通书
 cent 通性
-cenu 恿
 cenu 通习
 ceny 通心
-cep 通
 cepb 通用字
 cepe 通家
 cepf 通塞
 cepg 通宝
 cepi 通宵
-cepk 通
 cepn 通官
 cepw 通宿
 cepw 通窍
@@ -29163,7 +29161,6 @@ faep 无功受禄
 faet 霰
 faet 戴胜
 faew 二花脸
-faf 霸
 fafa 云蒸霞蔚
 fafa 堪堪
 fafa 霞蔚云蒸
@@ -29176,7 +29173,6 @@ fafc 截去
 fafd 塔城
 fafd 去甚去泰
 fafd 戴震
-fafe 霸
 faff 地藏寺
 fafg 坩
 fafi 裁示
@@ -29249,6 +29245,7 @@ fajt 贲临
 fajt 戴星
 fajv 堰
 fak 哉
+fake 霸
 fakg 域
 fakg 墐
 fakh 韩世忠
@@ -54532,8 +54529,8 @@ hxpw 柴帘
 hxpw 柴窑
 hxq 觜
 hxqc 紫色
-hxqe 觜
 hxqg 𫚖
+hxqh 觜
 hxqh 此外
 hxqm 紫铜
 hxqq 紫金
@@ -73653,10 +73650,10 @@ khca 蹭戏
 khca 蹿劲
 khcc 跑垒
 khcd 跪参
-khce 踊
 khce 忠勇
 khce 中通
 khce 唬通
+khch 踊
 khck 跆
 khck 跳台
 khcm 中观
@@ -74936,7 +74933,6 @@ khxa 跑红
 khxc 路经
 khxc 中经
 khxc 跪经
-khxe 嘴
 khxe 中级
 khxe 跳级
 khxe 躐级
@@ -74946,6 +74942,7 @@ khxf 中线
 khxf 踩线
 khxf 跳线
 khxf 中结
+khxh 嘴
 khxh 路引
 khxj 路费
 khxj 中旨
@@ -98993,7 +98990,6 @@ pgyx 定率
 pgyy 宣言
 pgyy 宇文
 pgyy 军事设施
-ph 寂
 phax 安眠药
 phax 定点药
 phcy 视频通话
@@ -104747,7 +104743,6 @@ qegf 角球
 qegh 解下
 qegh 解政
 qegh 觞政
-qegi 觫
 qegk 解囊
 qegk 解事
 qegl 锄
@@ -104757,12 +104752,23 @@ qegq 解裂
 qegu 久悬不决
 qegx 解毒
 qegx 解素
+qeh 触
 qehf 觟
+qehf 斛
+qehf 觯
 qehh 触目
+qehh 解
+qehi 觫
 qehj 角
+qehj 触
+qehj 蟹
 qehk 觭
 qehk 觿
-qei 觥
+qehp 邂
+qehq 觥
+qehr 觞
+qehw 觖
+qehy 觚
 qeib 解池
 qeic 锄治
 qeif 解法
@@ -104773,7 +104779,6 @@ qeij 解渴
 qeim 鱼肝油
 qeim 钟乳洞
 qeip 触觉
-qeiq 觥
 qeis 解酒
 qeiu 角洋
 qeiv 解溲
@@ -104786,7 +104791,6 @@ qejg 解题
 qejn 触电
 qejq 角蟾
 qejs 角果
-qejy 触
 qeke 解吸
 qekf 解嘲
 qekg 解呈
@@ -104806,7 +104810,6 @@ qemh 角巾
 qemh 解巾
 qemh 解帖
 qemq 触网
-qen 觖
 qenc 角怪
 qend 解忧
 qend 狂朋怪友
@@ -104818,7 +104821,6 @@ qenk 触壁
 qent 触发
 qenu 触屏
 qenv 解恨
-qenw 觖
 qeny 角尺
 qeod 解烦
 qeoo 角膜炎
@@ -104873,7 +104875,6 @@ qeqv 角争
 qeqw 角锥
 qeqw 解铃
 qeqy 钐镰
-qer 觚
 qera 触摸
 qerd 解扰
 qerf 角质
@@ -104898,7 +104899,6 @@ qert 解手
 qerv 解热
 qerv 角招
 qerx 解批
-qery 觚
 qery 铺采摛文
 qesa 角柜
 qesa 锄杠
@@ -104929,13 +104929,11 @@ qetk 解和
 qeto 解释
 qeto 解愁
 qetp 解乏
-qetr 觞
 qetr 解箨
 qett 锄禾
 qetv 斛律
 qetw 解答
 qetw 角黍
-qeu 斛
 qeua 解冻
 qeuc 触痛
 qeud 锄头
@@ -104944,8 +104942,6 @@ qeud 角头
 qeud 解差
 qeud 解着
 qeud 触着
-qeuf 斛
-qeuf 觯
 qeuf 角斗
 qeuk 解剖
 qeun 解决
@@ -104956,17 +104952,13 @@ qeut 解道
 qeuu 角立
 qeuy 解辩
 qeuy 角门
-qev 解
 qeva 触媒
 qevc 触怒
 qevc 蟹奴
 qevf 锄奸
 qevf 角妓
-qevh 解
-qevj 蟹
 qevk 觖如
 qevn 钐刀
-qevp 邂
 qewg 鱼肠剑
 qewm 解佩
 qews 解体
@@ -118187,7 +118179,6 @@ rndw 折臂三公
 rndy 气态
 rndy 拟态
 rne 氖
-rneb 氖
 rnec 氮肥
 rnee 拆忙月
 rnef 气臌
@@ -118204,6 +118195,7 @@ rnen 挂心肠
 rnep 扭腔
 rnep 所受
 rneq 气胸
+rner 氖
 rnes 扭腰
 rnet 手忙脚乱
 rnet 披心腹
@@ -145762,6 +145754,7 @@ uegu 遂平
 uegv 前妻
 uegy 羊脂玉
 uehk 立脚点
+uehk 痈
 uehq 前瞻
 uehx 前此
 uehx 前些
@@ -145792,7 +145785,6 @@ uejt 前晌
 uejv 剪
 uejy 前景
 uejy 剪影
-uek 痈
 uekh 前路
 uekh 前蹄
 ueki 前哨
@@ -162565,11 +162557,11 @@ wodi 伙耕
 wodn 集成
 wodt 焦砟
 wodu 鹪鹩
-woeb 隽
 woee 焦月
 woem 集股
 woeq 焦脆
 woeq 隽脆
+woer 隽
 woes 售彩
 woes 集彩
 wofc 集运
