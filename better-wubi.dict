@@ -1438,7 +1438,6 @@ adwy 菲仪
 adwy 菲食
 adx 茂
 adxa 苦练
-adxb 茏
 adxc 藏经
 adxc 苦经
 adxc 欺绐
@@ -1449,6 +1448,7 @@ adxh 荐引
 adxm 花石纲
 adxq 期约
 adxt 期终
+adxu 茏
 adxx 藕丝
 adxy 茂
 adya 基诺
@@ -9300,9 +9300,9 @@ bdwy 承储
 bdx 陇
 bdxj 承旨
 bdxm 承纳
-bdxn 陇
 bdxo 承继
 bdxx 随缘
+bdxy 陇
 bdya 承诺
 bdyh 承让
 bdyi 承应
@@ -17022,6 +17022,7 @@ ddna 大展
 ddna 大成殿
 ddnb 大屈
 ddne 厉
+ddne 厖
 ddnf 大尉
 ddnf 硕导
 ddnf 大慰
@@ -17049,7 +17050,6 @@ ddnu 厌憎
 ddnv 厌恨
 ddnw 大戮
 ddnw 百万买宅，千万买邻
-ddny 厖
 ddny 大忙
 ddny 大惊
 ddny 大尽
@@ -21944,11 +21944,11 @@ dndy 万丈
 dne 万
 dneb 成服
 dneb 盛服
+dnee 尨
 dneg 感情用事
 dneg 成县
 dneo 碱性肥料
 dner 大发脾气
-dney 尨
 dnfa 有恃无恐
 dnfa 盛载
 dnfa 万载
@@ -22014,6 +22014,7 @@ dnhi 迈步
 dnhn 成眠
 dnhq 耍心眼儿
 dnhv 耍心眼
+dni 尤
 dnia 万汇
 dnib 有尿小子
 dnic 历尽沧桑
@@ -22255,7 +22256,6 @@ dnuu 成立
 dnuv 盛妆
 dnuw 感愧交集
 dnuy 盛凉
-dnv 尤
 dnv 尢
 dnvc 盛怒
 dnvl 成姻
@@ -25284,6 +25284,7 @@ dxfr 大张声势
 dxfs 砒霜
 dxfw 故纸堆
 dxfy 砻坊
+dxgd 䶮
 dxge 成绩表
 dxgg 龙王
 dxgi 三纲五常
@@ -25296,6 +25297,7 @@ dxhk 袭占
 dxhr 唇红齿白
 dxhv 龙眼
 dxhw 龙齿
+dxi 龙
 dxia 龙江
 dxia 龙港
 dxib 龙池
@@ -25411,7 +25413,6 @@ dxut 龙首
 dxut 龙颜
 dxuw 龙准
 dxuy 龙门
-dxv 龙
 dxvf 丈母娘看女婿，越看越有趣
 dxvi 破纪录
 dxvi 非比寻常
@@ -25439,17 +25440,16 @@ dxxx 牵红丝
 dxxy 龙纹
 dxy 戊
 dxya 碳强度
-dxyd 䶮
 dxye 袭
 dxyf 大张旗鼓
 dxyf 压强计
+dxyf 詟
 dxyi 戊
 dxyp 龙亭
 dxyr 有线广播
 dxys 龙床
 dxyt 龙旗
 dxyt 龙州
-dxyy 詟
 dxyy 龙文
 dy 太
 dyaa 矿工
@@ -26253,7 +26253,7 @@ edwu 朋友们
 edwx 肝硬化
 edx 胧
 edxc 须经
-edxn 胧
+edxy 胧
 edy 肽
 edyo 肝硬变
 edyt 爱邦族
@@ -41440,11 +41440,11 @@ gdxc 还寿经
 gdxf 天线
 gdxk 蚕织
 gdxl 表面张力
-gdxn 珑
 gdxq 蚕纸
 gdxw 不成比例
 gdxx 蚕丝
 gdxx 天缘
+gdxy 珑
 gdya 球面度
 gdyb 不大离
 gdyc 青春永驻
@@ -55965,11 +55965,11 @@ idwx 小百货
 idx 泷
 idxi 满面红光
 idxl 尖细
-idxn 泷
 idxq 活页纸
 idxq 湖绉
 idxv 湖绿
 idxx 湖丝
+idxy 泷
 idya 水硬度
 idyj 兴奋剂
 idyn 尖刻
@@ -72552,8 +72552,8 @@ kdwy 喊住
 kdwy 唯成分论
 kdx 咙
 kdxc 唪经
-kdxn 咙
 kdxu 吐故纳新
+kdxy 咙
 kdy 吠
 kdyb 顺熟
 kdyc 顺序
@@ -88801,11 +88801,11 @@ ndnj 惰慢
 ndnk 忧悒
 ndnl 怕三怕四
 ndnm 悱恻
-ndnn 忧
 ndnr 忧惶
 ndnr 忧愧
 ndnt 惰性
 ndnv 憾恨
+ndny 忧
 ndny 忧心
 ndny 居心
 ndo 恢
@@ -97648,13 +97648,13 @@ pdwy 寄信
 pdwy 寄住
 pdwy 寄食
 pdx 宠
-pdxb 宠
 pdxd 宥弼
 pdxf 割线
 pdxg 寡母
 pdxg 寄母
 pdxj 宏旨
 pdxj 寄费
+pdxu 宠
 pdxu 密码强迫症
 pdxw 寄给
 pdya 割席
@@ -113467,7 +113467,6 @@ rdnk 拓辟
 rdnl 振翼
 rdnm 后三届
 rdnm 振刷
-rdnn 扰
 rdnn 近在咫尺
 rdnn 排局
 rdno 拉硬屎
@@ -113476,6 +113475,7 @@ rdnt 白面书生
 rdnt 拓改
 rdnt 拜忏
 rdnt 排尾
+rdny 扰
 rdny 捧心
 rdod 扰烦
 rdof 拜灶
@@ -113791,7 +113791,6 @@ rdxg 拜母
 rdxi 拉帮结派
 rdxi 看破红尘
 rdxm 拜纳
-rdxn 拢
 rdxn 拉硬弓
 rdxt 拓张
 rdxt 拢络
@@ -113800,6 +113799,7 @@ rdxw 拉帮结伙
 rdxx 拔丝
 rdxx 皋比
 rdxx 排比
+rdxy 拢
 rdxy 抗压强度
 rdxy 拢统
 rdyc 排序
@@ -115451,6 +115451,7 @@ rhdb 看顾
 rhdc 牛友
 rhdd 特大
 rhde 特有
+rhde 牻
 rhdf 攫夺
 rhdf 掳夺
 rhdf 年辰
@@ -115478,7 +115479,6 @@ rhdt 拭目而待
 rhdt 年寿
 rhdt 特故
 rhdw 反目成仇
-rhdy 牻
 rhea 看腻
 rheb 特服
 rheb 牛乳
@@ -126256,8 +126256,8 @@ sdxe 顶级
 sdxf 顶线
 sdxj 顶费
 sdxk 李克强
-sdxn 栊
 sdxx 柘丝
+sdxy 栊
 sdy 杕
 sdya 酸碱度
 sdye 棉大衣
@@ -133936,7 +133936,6 @@ tdwy 智禽
 tdwy 矫伪
 tdx 笼
 tdxa 短绒
-tdxb 笼
 tdxb 短绌
 tdxe 筹组
 tdxf 短线
@@ -133959,6 +133958,7 @@ tdxq 片艳纸
 tdxq 辞绝
 tdxt 笼络
 tdxt 稽疑
+tdxu 笼
 tdxu 乱弹
 tdxy 笼统
 tdya 适度
@@ -145100,6 +145100,7 @@ udng 判司
 udnh 减收
 udni 道在屎溺
 udni 头屑
+udni 疣
 udnj 减慢
 udnl 羞惭
 udnm 新三届
@@ -145116,7 +145117,6 @@ udnt 卷尾
 udnt 头虱
 udnt 养性
 udnt 羊性
-udnv 疣
 udnv 羞恨
 udny 关心
 udny 卷尺
@@ -158266,7 +158266,6 @@ wdnd 人大心大
 wdnf 仗恃
 wdnf 倚恃
 wdnl 伏翼
-wdnn 优
 wdnn 做局
 wdnn 伏尸
 wdnn 全面发展
@@ -158274,6 +158273,7 @@ wdnt 僚属
 wdnt 全面性
 wdnt 优属
 wdnw 伏惟
+wdny 优
 wdny 倚翠
 wdod 俦类
 wdoo 仗火
@@ -173766,8 +173766,8 @@ ydwy 诚信
 ydwy 文成公主
 ydx 庞
 ydxf 高压线
+ydxi 庞
 ydxq 放大纸
-ydxv 庞
 ydxy 庞统
 ydyd 施耐庵
 ydyg 庵主
