@@ -59,7 +59,7 @@ git clone https://github.com/beavailable/better-wubi.git
 cd better-wubi
 sudo ./install-for-fcitx5.sh
 ```
-之后重启 fcitx5 并添加“better-wubi”输入法即可。
+之后添加`better-wubi`输入法即可。
 
 # 版权
 版权归王码公司所有，禁止商用。
