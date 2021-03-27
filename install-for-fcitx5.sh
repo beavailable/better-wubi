@@ -30,3 +30,7 @@ libime_tabledict <(gen_formatted_dict) $dict
 
 pattern="s/^Name\[zh_CN]=五笔字型\$/Name[zh_CN]=better-wubi/;s?^File=.+\$?File=$dict?"
 sed -E "$pattern" $conf_wbx >$conf
+
+sudo -Eu $SUDO_USER bash <<EOF
+fcitx5-remote -e && fcitx5-remote -c
+EOF
