@@ -82,6 +82,8 @@
 本项目会持续改进，如果还有明显不合理或错误的地方，欢迎提出改进建议。
 
 # 使用
+本项目只是一个码表，理论上可用于任何支持自定义码表的输入法。
+
 ## win10
 首先[下载码表](https://raw.githubusercontent.com/beavailable/better-wubi/main/better-wubi.dict)，然后使用[wubiLex](https://github.com/aardio/wubi-lex)将码表安装到系统里。
 
