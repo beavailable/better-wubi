@@ -99,7 +99,8 @@ sudo ./install-for-fcitx5.sh
 之后添加`better-wubi`输入法即可。
 
 ## Android
-TODO
+### for baidu
+运行`convert-for-baidu.py`脚本把码表转换为适合百度输入法的格式，你会得到一个名为`better-wubi-for-baidu.def`的文件，将此文件导入自定义输入方案即可。
 
 # 版权
 版权归王码公司所有，禁止商用。
