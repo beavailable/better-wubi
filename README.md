@@ -84,13 +84,13 @@
 # 使用
 本项目只是一个码表，理论上可用于任何支持自定义码表的输入法。
 
-## Win10
+## For Win10
 首先[下载码表](https://raw.githubusercontent.com/beavailable/better-wubi/main/better-wubi.dict)，然后使用[wubiLex](https://github.com/aardio/wubi-lex)将码表安装到系统里。
 
 注意：由于`wubiLex`只接受特定扩展名的码表文件，你可能需要将码表重命名为`better-wubi.txt`才能添加。
 
-## Linux
-### for fcitx5
+## For Linux
+### fcitx5
 ```shell
 git clone https://github.com/beavailable/better-wubi.git
 cd better-wubi
@@ -98,8 +98,8 @@ sudo ./install-for-fcitx5.sh
 ```
 之后添加`better-wubi`输入法即可。
 
-## Android
-### for baidu
+## For Android
+### 百度输入法
 运行`convert-for-baidu.py`脚本把码表转换为适合百度输入法的格式，你会得到一个名为`better-wubi-for-baidu.def`的文件，将此文件导入自定义输入方案即可。
 
 # 版权
