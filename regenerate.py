@@ -3,10 +3,7 @@ result, words = [], []
 cc = {}
 
 with open('better-wubi.dict') as f:
-    while True:
-        line = f.readline()
-        if not line:
-            break
+    for line in f:
         idx = line.index(' ')
         code, value = line[:idx], line[idx + 1:-1]
         if len(value) == 1:
