@@ -26497,6 +26497,7 @@ egbl 助阵
 egbm 犯不出
 egbm 猜出
 egbn 肫
+egbn 猜了
 egbn 受不了
 egbo 猛不防
 egbo 猜防
@@ -26747,6 +26748,7 @@ egrm 悬揣
 egrm 猜揣
 egrn 悬拟
 egrn 狂气
+egrq 猜的
 egrt 助手
 egrv 狂热
 egrw 助推
@@ -27743,6 +27745,7 @@ epgc 受到
 epge 腕表
 epgf 爱玩
 epgg 逐一
+epgg 胜之不武
 epgh 腚
 epgj 受理
 epgj 受惠
@@ -54088,6 +54091,7 @@ iabi 水工隧洞
 iabj 江阳
 iabj 灌阳
 iabm 汇出
+iabn 满了
 iabo 江防
 iabt 江孜
 iaca 泄劲
@@ -54485,6 +54489,7 @@ iarn 港气
 iarn 沤气
 iarn 满拟
 iarp 满拧
+iarq 满的
 iarq 渠魁
 iarq 浪荡鬼
 iarq 掌鞭的
@@ -63921,6 +63926,7 @@ itxv 泛绿
 itxw 涤纶
 itxx 劣比
 itya 省试
+itya 流行度
 ityc 源程序
 ityc 小程序
 itye 洗衣
@@ -65960,6 +65966,7 @@ jad 蜞
 jada 蟒
 jadd 暴厉
 jadf 旷世奇才
+jadg 星期三
 jadg 暴威
 jadi 师范大学
 jadm 暴面
@@ -65981,6 +65988,7 @@ jafc 暴动
 jaff 暴堵
 jaff 暴土
 jafg 蚶
+jafg 星期二
 jafh 非七真
 jafh 暴走
 jafh 暴起
@@ -65994,6 +66002,8 @@ jafy 早期教育
 jag 虹
 jagc 暴至
 jagd 星期天
+jagg 星期一
+jagg 星期五
 jagg 昙花一现
 jagh 暴政
 jagh 暴下
@@ -84717,6 +84727,7 @@ mfdb 周顾
 mfdc 赌友
 mfde 冉有
 mfdf 雕砖
+mfdg 周三
 mfdg 赌石
 mfdm 见过面
 mfdm 周布
@@ -84745,8 +84756,9 @@ mfff 崶
 mfff 赌款
 mfff 赎款
 mfff 雕墙
-mffg 贱坯
+mffg 周二
 mffg 赌博
+mffg 贱坯
 mffi 冉求
 mffi 赎救
 mffi 风起云涌
@@ -84771,6 +84783,8 @@ mfgd 周天
 mfge 雕青
 mfge 雕琢
 mfgf 赌球
+mfgg 周一
+mfgg 周五
 mfgg 周赧王
 mfgg 赌王
 mfgh 财政
@@ -84835,6 +84849,7 @@ mflf 周转
 mflf 财团
 mflf 周置
 mflg 山地车
+mflh 周四
 mflj 赎罪
 mflk 赎回
 mflk 周回
@@ -85017,6 +85032,7 @@ mfuu 贼走关门
 mfuu 峙立
 mfuv 贱妾
 mfuw 财阀
+mfuy 周六
 mfuy 财门
 mfvk 周召
 mfvn 山老鼠
@@ -88226,6 +88242,7 @@ nabe 惜阴
 nabi 慢工出细活
 nabm 展出
 nabn 慌了
+nabn 懵了
 nabo 民防
 nabv 展限
 nabw 慢工出细货
@@ -88468,6 +88485,7 @@ narl 情若手足
 narl 民舞
 narn 怄气
 narn 民气
+narq 懵的
 nart 展播
 narw 心慕手追
 narw 忆昔抚今
@@ -121888,6 +121906,7 @@ rubg 接耳
 rubm 抖出
 rubm 拉出
 rubn 拉了
+rubn 接了
 rubn 拉孔
 rubn 拼了
 rubo 接防
@@ -130886,6 +130905,7 @@ svwa 根代
 svwb 要他
 svwc 要公
 svwd 要做
+svwg 要拿
 svwg 要命
 svwq 要你
 svwr 要件
@@ -159103,6 +159123,7 @@ wgrn 侠气
 wgrn 便所
 wgrp 傅近
 wgrp 愈近
+wgrq 拿的
 wgrq 偏不的
 wgrq 倒换
 wgrq 合抱
@@ -179654,6 +179675,7 @@ ywwf 讹传
 ywwf 夜会
 ywwg 鹰
 ywwg 谶
+ywwg 谁拿
 ywwg 认命
 ywwg 论剑
 ywwg 言人人殊
