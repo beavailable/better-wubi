@@ -8930,6 +8930,7 @@ bckd 颞颥
 bckd 阿巴嘎
 bclg 取车
 bclk 取回
+bclt 联通图
 bcme 颞骨
 bcmf 聚赌
 bcmf 聚财
@@ -23385,6 +23386,7 @@ dtlg 邦国
 dtlj 有生力量
 dtlq 硇
 dtls 帮困
+dtlt 有向图
 dtlt 石版路
 dtlt 耕御路
 dtlt 三番四复
@@ -37669,6 +37671,7 @@ ftln 耄思
 ftlp 老边
 ftlt 老路
 ftlt 才略
+ftlt 无向图
 ftlt 地籍图
 ftlt 都图
 ftlu 救生圈
@@ -38751,6 +38754,7 @@ fwlp 起伏跌宕
 fwlr 颠倒黑白
 fwlt 老八路
 fwlt 土八路
+fwlt 二分图
 fwlu 埋伏圈
 fwlv 超伦轶群
 fwlw 十八界
@@ -62285,6 +62289,7 @@ iraw 酒后茶余
 irbf 柒拾陆
 irbg 洗耳
 irbm 派出
+irbn 洗了
 irbt 激聒
 irbw 洋插队
 irbw 沙特阿拉伯
@@ -62552,6 +62557,7 @@ irrl 举手投足
 irrm 汽缸
 irrn 激扬
 irrn 浩气
+irrq 洗的
 irrq 淘气鬼
 irrr 洗白
 irrs 激打
@@ -65294,6 +65300,7 @@ ixj 沸
 ixjg 消费量
 ixjh 沸
 ixkk 消费品
+ixkk 汇编器
 ixkk 溺器
 ixks 学贯中西
 ixks 浓缩咖啡印书机
@@ -83109,6 +83116,7 @@ ltys 路床
 ltyt 输入设备
 ltyu 图谱
 ltyu 图说
+ltyw 图论
 ltyw 略论
 ltyw 图谶
 ltyy 图文
@@ -83256,6 +83264,7 @@ lupv 蹲安
 luq 跤
 luqc 四郊多垒
 luqf 圈钱
+luqh 圈外
 luqi 轻音乐
 luqo 团头鲂
 luqq 较多
@@ -101096,6 +101105,7 @@ pplj 之罪
 pplk 神农架
 ppln 之力
 pplp 冤家路窄
+pplt 之路
 pplt 之字路
 pplx 安定团结
 pply 穿宵连夜
@@ -116158,6 +116168,7 @@ rixa 朱红
 rixk 邱学强
 rixn 拉满弓
 rixw 捎给
+rixy 反汇编
 riya 折光度
 riye 朱衣
 riyf 打油诗
@@ -160380,6 +160391,7 @@ wkfg 儒士
 wkfh 保真
 wkfh 侃直
 wkfh 人哄地皮，地哄肚皮
+wkfi 伪需求
 wkfi 欲哭无泪
 wkfp 余味无穷
 wkft 儒教
@@ -173648,11 +173660,12 @@ ygrh 证物
 ygrn 证据
 ygrn 语气
 ygrp 主控
-ygrq 毫不掩饰
-ygrq 话不投机半句多
+ygrq 请先
 ygrq 评选
 ygrq 评先
 ygrq 评赞
+ygrq 毫不掩饰
+ygrq 话不投机半句多
 ygrr 主抓
 ygrr 主拍
 ygrs 话不投机
@@ -174305,6 +174318,7 @@ yiud 就养
 yiud 就着
 yiuj 请注意
 yiuk 就问
+yiul 就曾
 yiuq 应将
 yiuq 就将
 yiut 文渊阁
