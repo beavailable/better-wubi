@@ -40,7 +40,7 @@ def stat_chongma(lst):
         if len(code) <= 2:
             continue
         if value == prev_value:
-            d.pop(prev_code)
+            d[prev_code] -= 1
         if code in d:
             d[code] += 1
         else:
@@ -49,6 +49,8 @@ def stat_chongma(lst):
         prev_value = value
     code_total, value_total, codes, values = 0, 0, 0, 0
     for code, count in d.items():
+        if count <= 0:
+            continue
         code_total += 1
         value_total += count
         if count > 1:
