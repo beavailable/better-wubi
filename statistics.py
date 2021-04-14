@@ -35,13 +35,18 @@ def stat_freq(lst):
 
 def stat_chongma(lst):
     d = {}
+    prev_code, prev_value = '', ''
     for code, value in lst:
         if len(code) <= 2:
             continue
+        if value == prev_value:
+            d.pop(prev_code)
         if code in d:
             d[code] += 1
         else:
             d[code] = 1
+        prev_code = code
+        prev_value = value
     code_total, value_total, codes, values = 0, 0, 0, 0
     for code, count in d.items():
         code_total += 1
