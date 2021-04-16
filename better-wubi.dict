@@ -3390,6 +3390,7 @@ ajfh 鹊起
 ajfh 葛越
 ajfh 萌起
 ajfi 慕求
+ajfj 苹果蠹蛾
 ajfk 暮鼓
 ajfm 苏里南
 ajfm 草垛
@@ -3416,7 +3417,6 @@ ajge 草表
 ajgg 划一
 ajgg 燕昭王
 ajgi 莫不
-ajgj 苹果蠹蛾
 ajgk 鹊豆
 ajgl 摹画
 ajgn 苍蝇不叮无缝蛋
@@ -3865,6 +3865,7 @@ akff 鞲
 akfh 靬
 akfk 革吉
 akfk 鞔鼓
+akfk 革囊
 akfm 莒南
 akfn 靶场
 akfn 惑志
@@ -3889,7 +3890,6 @@ akgh 蒋中正
 akgi 或
 akgj 葺理
 akgk 鞋带
-akgk 革囊
 akgk 勒逼
 akgl 勤
 akgm 鞭责
@@ -4910,6 +4910,7 @@ anff 巨款
 anff 艺坛
 anfg 雅飞士
 anfh 蔚起
+anfk 巨蠹
 anfm 巨献
 anfm 荩献
 anfn 巨亏
@@ -4923,7 +4924,6 @@ anga 巨型
 ange 世表
 angh 薛居正
 angk 世事
-angk 巨蠹
 angm 巨丽
 ango 蔚来
 angs 基层政权
@@ -5179,12 +5179,12 @@ aodf 芳辰
 aodw 芳春
 aofc 芳魂
 aofd 攻炮城
+aofk 花粉囊
 aofn 芳馨
 aofu 黄炎培
 aog 葵
 aogd 葵
 aoge 黄火青
-aogk 花粉囊
 aogm 东方不败
 aogq 芳烈
 aogy 东方不亮西方亮
@@ -8152,13 +8152,13 @@ axf 荮
 axfc 苏维埃
 axfd 芗城
 axff 药封
+axfk 药囊
 axfu 荮
 axg 莼
 axga 薄弱环节
 axgg 药王
 axgg 七弦琴
 axgj 药理
-axgk 药囊
 axgn 莼
 axgq 药残
 axgs 世纪末
@@ -8745,9 +8745,12 @@ bbew 阴阳脸
 bbfd 子城
 bbfi 防卫过当
 bbfj 子堤
+bbfk 孢子囊
+bbfk 子囊
 bbfr 陪了夫人又折兵
 bbft 子都
 bbft 蚩蚩者
+bbfv 孢子囊群
 bbfw 子规
 bbfw 子埝
 bbg 孖
@@ -8755,12 +8758,9 @@ bbgc 孜孜不怠
 bbgg 子环
 bbgg 孩子王
 bbgg 陶陶兀兀
-bbgk 孢子囊
-bbgk 子囊
 bbgn 耿耿于怀
 bbgt 阴阳五行
 bbgu 子平
-bbgv 孢子囊群
 bbgw 孜孜不倦
 bbh 耶
 bbha 子虚
@@ -9279,6 +9279,7 @@ befc 阴魂
 befd 阴城
 befg 阴干
 befh 阴坡
+befk 阴囊
 befm 阻击
 befn 阴声
 beg 阴
@@ -9286,7 +9287,6 @@ begc 阴到
 begd 阴天
 begf 聊胜于无
 begg 阻
-begk 阴囊
 begk 阴事
 begm 阴曹
 bego 阴恶
@@ -9406,9 +9406,11 @@ beyy 阴文
 bf 际
 bfaj 陵墓
 bfak 阿勃勒
+bfal 子囊菌
 bfam 孟嘉落帽
 bfam 陈超英
 bfav 陵苕
+bfbb 子囊孢子
 bfbl 孙起孟
 bfbn 陈规陋习
 bfbp 孤老院
@@ -9435,12 +9437,13 @@ bffc 陆云
 bffd 陵城
 bffh 陡坡
 bffh 陡直
+bffk 阮囊
+bffk 子囊城郢
 bffn 陵场
 bffq 阮元
 bffu 陡增
 bffw 陵替
 bfga 阴魂不散
-bfgk 阮囊
 bfgm 陆丽
 bfgt 阮瑀
 bfgt 陆麦
@@ -9473,6 +9476,7 @@ bfjh 阱
 bfjm 际遇
 bfjp 孤云野鹤
 bfjr 孤魂野鬼
+bfjs 子囊果
 bfkg 陵雨
 bfki 陵霄
 bfkt 陵川
@@ -9516,6 +9520,7 @@ bfrw 陆拾
 bfry 陆抗
 bfse 陆棚
 bfsf 陆标
+bfsg 孢囊柄
 bfsm 取款机
 bfsm 陆贾
 bfsm 陆机
@@ -9529,6 +9534,7 @@ bftd 陵乱
 bfte 陆稻
 bftg 阿土生
 bftu 职场自闭症
+bfui 阮囊羞涩
 bfuj 降元音
 bfut 陵道
 bfuu 陡立
@@ -9559,11 +9565,9 @@ bfyv 陈嘉庚
 bfyv 陆良
 bg 卫
 bgai 卫东
-bgal 子囊菌
 bgan 隔世
 bgaw 陋巷
 bgbb 耳子
-bgbb 子囊孢子
 bgbb 隔子
 bgbf 耳际
 bgbg 耳耳
@@ -9599,7 +9603,6 @@ bgfg 卫士
 bgfh 了不起
 bgfh 隔越
 bgfk 耳鼓
-bgfk 子囊城郢
 bgfm 陕南
 bgfn 隔声
 bgfn 聊表寸心
@@ -9644,7 +9647,6 @@ bgjk 耳蜗
 bgjo 陈丕显
 bgjq 卫冕
 bgjr 隋珠暗投
-bgjs 子囊果
 bgjt 卫星
 bgk 隔
 bgkd 耳顺
@@ -9719,7 +9721,6 @@ bgrw 耳扒
 bgry 卫护
 bgsg 耳杯
 bgsg 陕西
-bgsg 孢囊柄
 bgsm 耳机
 bgsr 隔板
 bgsv 耳根
@@ -9741,7 +9742,6 @@ bgub 耳闻
 bgud 隔着
 bguf 耳闭
 bguh 聊天站
-bgui 阮囊羞涩
 bguj 隔音
 bguj 隔间
 bguj 耳音
@@ -10378,6 +10378,7 @@ bmfh 出趟
 bmfi 祟
 bmfi 出示
 bmfj 出刊
+bmfk 出橐
 bmfm 出击
 bmfn 出卖
 bmfn 出场
@@ -10395,7 +10396,6 @@ bmgf 出于
 bmgh 出下
 bmgj 出更
 bmgk 出事
-bmgk 出橐
 bmgm 出现
 bmgn 聘
 bmgo 出来
@@ -17728,6 +17728,7 @@ dfdc 砝码
 dfdd 夸大
 dfdf 磕磕
 dfdf 压压
+dfdf 百囊奔
 dfdg 砖石
 dfdg 三十三
 dfdg 矸石
@@ -18343,7 +18344,6 @@ dgdd 威厉
 dgdf 有型有款
 dgdf 三辰
 dgdf 百事大吉
-dgdf 百囊奔
 dgdf 奉政大夫
 dgdf 胡天胡地
 dgdf 奉天大鼓
@@ -19993,6 +19993,7 @@ difg 大流士
 difh 感兴趣
 difh 硝盐
 difj 耕
+difk 砂囊
 difs 大兴土木
 difu 大江南北
 difw 压水堆
@@ -20009,7 +20010,6 @@ digi 盛水不漏
 digi 三江五湖
 digj 大清天白日
 digk 大小事
-digk 砂囊
 digl 磁浮列车
 dign 感激不尽
 dign 大小事情
@@ -25267,12 +25267,12 @@ eaeu 脸黄肌瘦
 eaeu 朦狡
 eaew 猫猴
 eaf 腻
+eafk 猎囊
 eafm 腻
 eafn 猎场
 eafw 用工夫
 eag 肛
 eagi 腻歪
-eagk 猎囊
 eagq 肛裂
 eagx 腊毒
 eahg 猫睛
@@ -25433,6 +25433,7 @@ ebft 服孝
 ebfu 服丧
 ebfu 猛增
 ebfu 犯境
+ebfv 胞子囊群
 ebfw 犯规
 ebga 服刑
 ebgh 服下
@@ -25443,7 +25444,6 @@ ebgo 犯恶
 ebgo 猛恶
 ebgq 猛烈
 ebgr 孕珠
-ebgv 胞子囊群
 ebgx 服毒
 ebha 乳虎
 ebha 猛虎
@@ -26253,6 +26253,7 @@ efbb 脖子
 efbb 肚子
 efbb 肘子
 efbb 脚子
+efbb 胞囊孢子
 efbe 肝阴
 efbg 肤陋
 efbj 肝阳
@@ -26305,13 +26306,13 @@ effb 脚地
 efff 膨土
 effh 狠赳赳
 effk 胀鼓鼓
+effk 肚囊
 efft 独裁者
 effw 脚夫
 effy 胸无城府
 effy 胖墩墩
 efg 肚
 efgh 脚下
-efgk 肚囊
 efgk 肚带
 efgk 肝鬲
 efgw 用志不分
@@ -26386,6 +26387,7 @@ efny 脚心
 efog 脚凳
 efoo 肝炎
 efoo 肝火
+efoo 胆囊炎
 efos 脚灯
 efot 月老族
 efoy 肝糖
@@ -26474,6 +26476,7 @@ efw 肤
 efwb 猪仔
 efwf 猪舍
 efwp 猪倌
+efwp 胶囊公寓
 efwq 脸无人色
 efwr 独裁体制
 efws 肢体
@@ -26513,7 +26516,6 @@ egb 肫
 egbb 胚子
 egbb 胰子
 egbb 脯子
-egbb 胞囊孢子
 egbb 膊子
 egbg 悬隔
 egbi 县丞
@@ -26595,6 +26597,7 @@ egfh 助趣
 egfk 且喜
 egfk 狂喜
 egfk 狂瞽
+egfk 胚囊
 egfn 县志
 egfp 悬壶
 egfq 月下老儿
@@ -26614,7 +26617,6 @@ eggf 乃至于
 eggg 爱理不理
 eggi 且不
 eggj 助理
-eggk 胚囊
 eggo 助恶
 eggq 悬殊
 eggq 助残
@@ -26729,7 +26731,6 @@ egny 悬心
 egny 豕心
 egon 悬断
 egoo 肺炎
-egoo 胆囊炎
 egoo 肺火
 egop 狂迷
 egoq 助燃
@@ -26856,7 +26857,6 @@ egwg 悬剑
 egwg 狂傲
 egwh 逛悠
 egwo 雎
-egwp 胶囊公寓
 egwq 助你
 egws 胚体
 egws 助理体
@@ -27142,6 +27142,7 @@ ejfa 独裁
 ejfd 狮城
 ejff 彩电墙
 ejfg 狸
+ejfk 胆囊
 ejfw 独夫
 ejg 胆
 ejga 刖刑
@@ -27150,7 +27151,6 @@ ejgd 独吞
 ejgg 胆
 ejgg 独一
 ejgh 狮
-ejgk 胆囊
 ejgx 胎里素
 ejh 刖
 ejha 胆虚
@@ -28777,6 +28777,8 @@ eufh 脱盐
 eufh 脱坡
 eufh 豹立直
 eufh 脱走
+eufk 胶囊
+eufk 狡蠹
 eufp 脱壳
 euft 受益者
 eufw 膳夫
@@ -28785,10 +28787,8 @@ euga 脱开
 euga 脱形
 eugh 脱下
 eugi 独头政治
-eugk 胶囊
 eugk 胶带
 eugk 狡赖
-eugk 狡蠹
 eugl 独立王国
 eugt 独善吾身
 eugx 腺病毒
@@ -29639,6 +29639,7 @@ fajg 裁量
 fajh 埋葬虫
 fajj 卖萌日
 fajj 截日
+fajk 囊萤映雪
 fajs 无花果
 fajt 超巨星
 fajt 贲临
@@ -31059,6 +31060,7 @@ ffff 无土栽培
 ffff 趔趔趄趄
 ffff 坑坑坎坎
 ffff 趄趄趔趔
+ffff 鼓鼓囊囊
 fffg 土坯
 fffg 二十二
 fffg 墙垣
@@ -31076,6 +31078,8 @@ fffj 填进
 fffj 直坦坦
 fffk 土鼓
 fffk 直鼓鼓
+fffk 土囊
+fffk 鼓囊囊
 fffm 土坝
 fffm 墙垛
 fffm 堵击
@@ -31119,7 +31123,6 @@ ffgg 十二五
 ffgg 二十五
 ffgg 支支吾吾
 ffgg 封一
-ffgg 鼓鼓囊囊
 ffgg 十十五五
 ffgg 二过一
 ffgj 卦理
@@ -31128,7 +31131,6 @@ ffgk 土豆
 ffgk 超声速
 ffgk 二十五史
 ffgk 土事
-ffgk 土囊
 ffgk 封事
 ffgk 无动于中
 ffgl 士夫画
@@ -31232,6 +31234,7 @@ ffkk 赤赤哈哈
 ffkk 培土器
 ffkk 堵口
 ffkk 声声口口
+ffkk 囊囊咄咄
 ffkl 填咽
 ffkm 运动员
 ffkt 二十响
@@ -31342,6 +31345,7 @@ ffpn 款密
 ffpp 老老实实
 ffpp 十载寒窗
 ffpp 朝朝寒食，夜夜元宵
+ffpp 囊囊突突
 ffpq 赫赫之名
 ffpr 土牢
 ffpt 款额
@@ -31551,6 +31555,7 @@ ffvf 封建
 ffvf 土建
 ffvf 老封建
 ffvg 封姨
+ffvi 囊橐如洗
 ffvj 土娼
 ffvn 地老鼠
 ffvn 进寸退尺
@@ -31860,7 +31865,6 @@ fggk 坏事
 fggk 干事
 fggk 二副
 fggk 二事
-fggk 鼓囊囊
 fggl 无事一身轻
 fggn 无事不登三宝殿
 fggo 二来
@@ -34348,6 +34352,7 @@ fkad 吉藏
 fkad 嘉戎
 fkad 喜期
 fkae 喜获
+fkae 囊获
 fkaf 二零七二
 fkaf 卖零工夫
 fkag 二零七一
@@ -34365,6 +34370,7 @@ fkam 云雨巫山
 fkam 二𫫇英
 fkan 嘉蔬
 fkap 彭蒙
+fkap 囊萤
 fkaq 直呼其名
 fkau 二零七六
 fkav 二零七九
@@ -34379,11 +34385,13 @@ fkbj 彭阳
 fkbl 地雷阵
 fkbm 彭聃
 fkbn 吉了
+fkbr 囊中取物
 fkbt 吉隆
 fkbu 喜联
 fkca 鼓劲
 fkce 鼓勇
 fkch 卖嘴巴皮
+fkcp 橐驼
 fkcq 喜欢
 fkd 颉
 fkda 二零三七
@@ -34416,6 +34424,7 @@ fkeb 教唆犯
 fkee 吉月
 fkef 鼓肚
 fkeg 吉县
+fkek 囊肿
 fkep 喜爱
 fket 鼓胀
 fket 鼓腹
@@ -34439,6 +34448,9 @@ fkfk 喆
 fkfk 二零二零
 fkfk 鼙鼓
 fkfk 鼓鼙
+fkfk 橐橐
+fkfk 囊橐
+fkfk 橐囊
 fkfl 二零二四
 fkfn 鼓声
 fkfo 井中求火
@@ -34456,6 +34468,7 @@ fkga 二零五七
 fkga 鼓弄
 fkgd 二零一三
 fkgd 二零五三
+fkgd 囊吞
 fkgf 二零一二
 fkgf 二零五二
 fkgg 埕
@@ -34467,6 +34480,7 @@ fkgg 土霸王
 fkgg 鼓琴
 fkgg 鼓瑟
 fkgh 鼓下
+fkgh 蠹政
 fkgj 嘉惠
 fkgk 二零一零
 fkgk 二零五零
@@ -34531,6 +34545,7 @@ fkjf 吉时
 fkjf 井中蛙
 fkjg 鼓师
 fkjg 吉旦
+fkjh 蠹虫
 fkjj 吉日
 fkjr 喜蛛
 fkjs 喜果
@@ -34600,15 +34615,23 @@ fknn 鼓书
 fknt 趣味性
 fknu 喜悦
 fknw 去中心化
+fkny 蠹心
 fkod 无噍类
 fkot 嘉鱼
+fkot 蠹鱼
 fkoy 喜糖
+fkp 囊
 fkpb 喜字
 fkpd 袁宏
+fkpd 蠹害
+fkpe 囊
+fkpe 囊家
 fkpg 嘉定
 fkpg 鼓室
+fkpj 蠹
 fkpj 喜宴
 fkpr 嘉宾
+fkps 橐
 fkpt 吉客
 fkpt 喜客
 fkpt 嘉客
@@ -34627,6 +34650,7 @@ fkqc 喜色
 fkqd 鼓铸
 fkqd 嘉肴
 fkqe 鼓角
+fkqe 蠹角
 fkqf 喜钱
 fkqi 吉兆
 fkqi 喜兆
@@ -34642,9 +34666,11 @@ fkqt 吉夕
 fkrb 喜报
 fkrc 鼓掇
 fkrf 趁哄打劫
+fkrh 囊中物
 fkrj 彭排
 fkrk 二嘲扣
 fkrl 鼓舞
+fkrm 囊揣
 fkrn 喜气
 fkrn 鼓气
 fkrn 鼓拨
@@ -34653,6 +34679,7 @@ fkrr 地震捕手
 fkrt 鼓手
 fkrt 赤口白舌
 fkrt 鼓吹手
+fkrt 囊括
 fksc 喜树
 fkse 地震棚
 fksf 城中村
@@ -34674,6 +34701,7 @@ fktd 鼓舌
 fktf 喜迁
 fktf 吉呵德
 fktf 喜德
+fktg 囊生
 fktj 吉利
 fktj 喜得
 fktm 熹微
@@ -34700,6 +34728,7 @@ fkug 二零六五
 fkug 嘉靖
 fkug 喜病
 fkuh 瞽
+fkui 囊中羞涩
 fkuj 喜意
 fkuk 喜
 fkuk 嘉
@@ -34707,10 +34736,12 @@ fkuk 嚭
 fkuk 二零六零
 fkuk 彭冲
 fkul 二零六四
+fkum 蠹弊
 fkun 憙
 fkuo 熹
 fkuo 吉普
 fkuq 嘉奖
+fkus 蠹啄剖梁柱
 fkut 吉首
 fkuu 二零六六
 fkuv 二零六九
@@ -34737,6 +34768,7 @@ fkvv 二零九九
 fkvw 二零九八
 fkvy 喜娘
 fkwa 二零八七
+fkwa 囊袋
 fkwb 吉他
 fkwd 二零八三
 fkwf 二零八二
@@ -34784,12 +34816,14 @@ fkyn 鼓词
 fkyn 喜房
 fkyn 瞽词
 fkyq 嘉义
+fkyq 囊底
 fkys 鼓床
 fkyt 嘉许
 fkyt 袁州
 fkyt 彭州
 fkyt 吉州
 fkyu 瞽说
+fkyu 囊谦
 fkyx 趋中率
 fkyy 吉言
 fkyy 瞽言
@@ -34905,6 +34939,7 @@ flul 走回头路
 flul 动力装置
 flul 南辕北辙
 flum 协商
+flun 蠹国病民
 flus 二足尊
 fluu 替罪羔羊
 fluw 求田问舍
@@ -36023,6 +36058,7 @@ fpfg 真空地带
 fpfh 勃起
 fpfh 十字坡
 fpfi 索求
+fpfk 壳囊
 fpfn 无穷无尽
 fpfn 过场
 fpfp 勃勃
@@ -36049,7 +36085,6 @@ fpgg 壸
 fpgg 索瑟
 fpgj 十寒一暴
 fpgk 南寒带
-fpgk 壳囊
 fpgk 过事
 fpgl 无官一身轻
 fpgn 懿
@@ -36298,6 +36333,7 @@ fpvb 过好
 fpvc 趋之如鹜
 fpvg 垵
 fpvi 过录
+fpvi 囊空如洗
 fpvk 勃如
 fpvp 十室九空
 fpvp 十家九空
@@ -39180,6 +39216,7 @@ fylg 赵充国
 fyll 坟田
 fylq 赤麻鸭
 fylr 壕堑
+fylt 囊底路
 fylu 都市圈
 fylu 坟圈
 fylw 教育界
@@ -39267,6 +39304,7 @@ fysy 无话可说
 fysy 直言极谏
 fyt 圹
 fytd 才高行厚
+fytd 囊底智
 fytf 吉诃德
 fytf 韩启德
 fytg 士为知己者死
@@ -39612,7 +39650,6 @@ gajh 开畅
 gajj 武昌
 gajj 球幕电影
 gajj 环幕电影
-gajk 囊萤映雪
 gajm 开映
 gajp 不欺暗室
 gajt 武星
@@ -42459,7 +42496,6 @@ ggkk 一品
 ggkk 五品
 ggkk 吞吞吐吐
 ggkk 琉璃喇叭
-ggkk 囊囊咄咄
 ggkl 五雷
 ggkl 一别
 ggkq 一吹
@@ -42621,7 +42657,6 @@ ggpn 事不宜迟
 ggpn 天下官管天下民
 ggpp 不速之客
 ggpp 平平安安
-ggpp 囊囊突突
 ggpr 瓦瓦祖拉
 ggpt 不速客
 ggpu 环衬
@@ -42924,7 +42959,6 @@ ggvc 五奴
 ggvc 一怒
 ggvc 一开始
 ggvf 王建
-ggvi 囊橐如洗
 ggvk 一如
 ggvn 一刀
 ggvn 王妃
@@ -43223,6 +43257,7 @@ ghfh 下坡
 ghfh 下走
 ghfh 正真
 ghfj 下井
+ghfk 政蠹
 ghfl 政协
 ghfn 下场
 ghfn 政声
@@ -43266,7 +43301,6 @@ ghgk 政事
 ghgk 正副
 ghgk 正事
 ghgk 下吏
-ghgk 政蠹
 ghgl 一步一踱
 ghgl 两眼一抹黑
 ghgm 画虎画皮难画骨
@@ -44950,7 +44984,6 @@ gkad 事项
 gkad 麦口期
 gkad 副项
 gkae 逗菜
-gkae 囊获
 gkag 豆荚
 gkag 敕葬
 gkah 一叶蔽目
@@ -44966,7 +44999,6 @@ gkam 逼匝
 gkam 一叶蔽目，不见泰山
 gkap 豆蔻
 gkap 豆蓉
-gkap 囊萤
 gkaq 开中药铺
 gkaq 逗殴
 gkar 曹雪芹
@@ -44995,7 +45027,6 @@ gkbm 一叶障目，不见泰山
 gkbm 带出
 gkbn 事了
 gkbq 融陶
-gkbr 囊中取物
 gkbt 逼降
 gkbu 逼隘
 gkbw 整队
@@ -45006,7 +45037,6 @@ gkcc 整叠
 gkce 融通
 gkce 副能
 gkcn 赖巴
-gkcp 橐驼
 gkcu 五口通商
 gkd 瓀
 gkda 一哄而散
@@ -45045,7 +45075,6 @@ gkeg 琄
 gkeg 豆脯
 gkeg 逼狭
 gkeh 不中用
-gkek 囊肿
 gkel 带胁
 gkep 吾爱
 gkep 逼逐
@@ -45096,7 +45125,6 @@ gkgc 带到
 gkgd 整天
 gkgd 刺史天
 gkgd 一口吞
-gkgd 囊吞
 gkge 㻬琈
 gkge 豆青
 gkgf 逗玩
@@ -45105,7 +45133,6 @@ gkgf 带球
 gkgg 珵
 gkgg 天中五瑞
 gkgh 带下
-gkgh 蠹政
 gkgj 整理
 gkgj 事理
 gkgj 副理
@@ -45125,9 +45152,6 @@ gkgk 吾吾
 gkgk 剌剌
 gkgk 速速
 gkgk 噩噩
-gkgk 橐橐
-gkgk 囊橐
-gkgk 橐囊
 gkgk 赖事
 gkgm 带刺
 gkgm 吏曹
@@ -45152,17 +45176,13 @@ gkgx 青霉素
 gkgx 束素
 gkgx 带毒
 gkgy 带班
-gkh 囊
 gkhb 逗嘴皮子
 gkhc 赖皮
 gkhc 豆皮
-gkhe 囊
 gkhh 带上
 gkhh 吏目
-gkhj 蠹
 gkhk 整点
 gkhk 逗点
-gkhs 橐
 gkhv 一霎眼
 gkhv 不顺眼
 gki 束
@@ -45212,7 +45232,6 @@ gkjf 一霎时
 gkjg 不只是
 gkjg 吞吐量
 gkjg 副题
-gkjh 蠹虫
 gkjh 豆虫
 gkjh 豉虫
 gkjj 整日
@@ -45297,7 +45316,6 @@ gknt 事发
 gknt 束发
 gknw 一鸣惊人
 gkny 赖以
-gkny 蠹心
 gkod 豆类
 gkod 事类
 gkoe 不吃鱼，口不腥
@@ -45306,17 +45324,14 @@ gkog 副业
 gkon 速断
 gkor 豆粕
 gkot 带鱼
-gkot 蠹鱼
 gkou 整料
 gkov 整数
 gkow 豆粉
 gkp 带
 gkpa 带宽
-gkpd 蠹害
 gkpd 逼害
 gkpe 事宜
 gkpe 下中农
-gkpe 囊家
 gkpe 吾家
 gkpf 不患寡而患不均
 gkpg 速写
@@ -45341,7 +45356,6 @@ gkqd 整然
 gkqe 豆角
 gkqe 融解
 gkqe 副角
-gkqe 蠹角
 gkqh 一口钉子一个眼
 gkqh 事外
 gkqi 吏
@@ -45381,13 +45395,11 @@ gkrg 融丘
 gkrh 事物
 gkrh 整年
 gkrh 带犊
-gkrh 囊中物
 gkri 带挡
 gkrj 整排
 gkrk 赖捐
 gkrk 带扣
 gkrk 敕造
-gkrm 囊揣
 gkrm 束帛
 gkrn 不吐气
 gkrn 一口气
@@ -45403,7 +45415,6 @@ gkrq 不咋的
 gkrq 事先
 gkrs 逼打
 gkrt 不中手
-gkrt 囊括
 gkrt 束手
 gkrt 副手
 gkrt 下号手
@@ -45442,7 +45453,6 @@ gktf 豆秸
 gktf 吾徒
 gktf 带行
 gktg 速生
-gktg 囊生
 gktg 副笄
 gktg 吾生
 gktg 整重
@@ -45500,7 +45510,6 @@ gkuf 束装
 gkug 带病
 gkug 豆羹
 gkug 副靖
-gkui 囊中羞涩
 gkuj 剅
 gkuj 不中意
 gkuj 带音
@@ -45511,7 +45520,6 @@ gkuk 逼问
 gkuk 开口闭口
 gkuk 豆剖
 gkum 事端
-gkum 蠹弊
 gkun 速决
 gkup 逗
 gkuq 融资
@@ -45521,7 +45529,6 @@ gkuq 豆酱
 gkuq 副次
 gkuq 副净
 gkuq 速效
-gkus 蠹啄剖梁柱
 gkus 逼新
 gkut 吏道
 gkuw 敕准
@@ -45548,7 +45555,6 @@ gkvq 赖婚
 gkvy 豆娘
 gkwa 逼供
 gkwa 吞吐含蓄
-gkwa 囊袋
 gkwc 吾公
 gkwd 整段
 gkwf 融会
@@ -45630,12 +45636,10 @@ gkyn 剌戾
 gkyn 剌谬
 gkyo 事迹
 gkyo 事变
-gkyq 囊底
 gkys 赖床
 gkys 到哪座山里唱哪个歌
 gkyt 不听话
 gkyt 带话
-gkyu 囊谦
 gkyw 豆腐
 gkyw 带座
 gkyw 整夜
@@ -45843,7 +45847,6 @@ glud 画状
 glug 平足症
 gluj 画意
 glum 画商
-glun 蠹国病民
 glut 不足道
 gluv 一男半女
 gluw 两国交兵，不斩来使
@@ -47310,7 +47313,6 @@ gpuy 天安门
 gpuy 一家门
 gpvb 还好
 gpvh 一寒如此
-gpvi 囊空如洗
 gpw 琛
 gpwa 还贷
 gpwf 还付
@@ -49197,6 +49199,7 @@ gufh 平直
 gufh 平坡
 gufj 平坦
 gufk 天差地别
+gufk 颊囊
 gufm 平南
 gufm 平坝
 gufm 夹击
@@ -49235,7 +49238,6 @@ gugk 不关事
 gugk 武装带
 gugk 平整
 gugk 夹带
-gugk 颊囊
 gugl 一着不慎，全盘皆输
 gugl 一着不慎，满盘皆输
 gugn 一着不慎
@@ -50786,7 +50788,6 @@ gyli 理论力学
 gyll 亚熟男
 gyll 玉田
 gylo 玉躞
-gylt 囊底路
 gylt 玉路
 gylu 五讲四美
 gylw 班轮
@@ -50911,7 +50912,6 @@ gyt 班
 gyta 班长
 gyta 玉簪
 gytb 不论秧子
-gytd 囊底智
 gyte 玉笈
 gyte 玉盘
 gytf 王庭筠
@@ -51352,10 +51352,10 @@ hcew 皮脸
 hcex 皮脂
 hcfh 睃趁
 hcfi 皮裘
+hcfk 皮囊
 hcgf 皮球
 hcgh 皮下
 hcgk 皮带
-hcgk 皮囊
 hcgm 皮瑞
 hcgu 皮夹
 hchc 皮皮
@@ -55426,8 +55426,8 @@ ieb 浮
 iebb 浮子
 iebb 肖子
 iebc 汲取
+iebf 小胞子囊
 iebg 浮
-iebg 小胞子囊
 iebk 削职
 iebm 浮出
 iebs 滥用职权
@@ -55487,6 +55487,7 @@ iefh 汲直
 iefh 浮起
 iefj 潴
 iefj 汲井
+iefk 浮囊
 iefn 淫声
 iefn 溪声
 iefp 沮索
@@ -55503,7 +55504,6 @@ iegf 沙狐球
 iegg 沮
 iegh 削正
 iegj 淫惠
-iegk 浮囊
 iegl 水彩画
 iegm 浮现
 iegm 浮丽
@@ -56201,6 +56201,7 @@ ifqt 小老儿
 ifqt 浅儿
 ifqt 活动铅笔
 ifqv 潮银
+ifqw 酒囊饭袋
 ifqy 海南岛
 ifra 洪都拉斯
 ifrc 潜返
@@ -56831,7 +56832,6 @@ igqq 小五金
 igqt 汪锋
 igqu 小玩儿闹
 igqw 清欠
-igqw 酒囊饭袋
 igqy 滞留
 igrc 清摊
 igrd 耀武扬威
@@ -57172,6 +57172,7 @@ ihff 小款
 ihfg 小二
 ihfk 小鼓
 ihfk 小喜
+ihfk 泪囊
 ihfn 小声
 ihfn 小卖
 ihfn 小亏
@@ -57214,7 +57215,6 @@ ihgk 波速
 ihgk 小豆
 ihgk 涉事
 ihgk 沾带
-ihgk 泪囊
 ihgm 小两
 ihgo 涉恶
 ihgq 濒死
@@ -58019,7 +58019,7 @@ iige 测光表
 iigf 水盂
 iigf 水球
 iigf 溜溜球
-iigg 流水不腐，户枢不蠹
+iigf 流水不腐，户枢不蠹
 iigg 堂堂正正
 iigg 浑浑噩噩
 iigg 光学玻璃
@@ -60298,6 +60298,7 @@ infh 江心坡
 infi 学疏才浅
 infi 当局者迷，旁观者清
 infk 漏鼓
+infk 澼囊
 infn 小剧场
 infn 小买卖
 info 当局者迷
@@ -60321,7 +60322,6 @@ ingg 汈
 ingj 渥惠
 ingk 泼剌
 ingk 漏逗
-ingk 澼囊
 ingk 泼赖
 ingm 泼刺
 ingn 泥瓦
@@ -66501,6 +66501,7 @@ jcfh 竖起
 jcfh 竖直
 jcfh 紧赶
 jcfj 竖井
+jcfk 肾囊
 jcfn 坚韧
 jcfn 肾亏
 jcfp 蛹壳
@@ -66518,7 +66519,6 @@ jcgf 肾盂
 jcgg 竖琴
 jcgj 贤惠
 jcgk 紧逼
-jcgk 肾囊
 jcgk 紧事
 jcgv 贤妻
 jcha 肾虚
@@ -68632,11 +68632,11 @@ jkdm 时雨春风
 jkeg 蜎
 jkeg 暴露狂
 jken 蝇甩
+jkfa 映雪囊萤
 jkfc 蠕动
 jkfd 电器城
 jkfk 暴露无遗
 jkg 蜈
-jkga 映雪囊萤
 jkgc 影响到
 jkgd 蜈
 jkge 晴雨表
@@ -72514,6 +72514,7 @@ kfkc 鄠邑
 kfkd 吱咕
 kfkd 啫喱
 kfke 嘭
+kfke 囔
 kfke 吱咀
 kfkf 喃喃
 kfkf 哇哇
@@ -72528,7 +72529,8 @@ kfkf 嗑嗑
 kfkf 吱哇
 kfkf 嗦嗦
 kfkf 叶叶
-kfkg 嘟囔
+kfkf 嘟囔
+kfkf 囔囔
 kfkg 哇喇
 kfkg 吐哺
 kfkg 吱唔
@@ -72691,6 +72693,7 @@ kftg 鄙生
 kfth 叶片
 kfth 哱息
 kfth 喷鼻
+kfth 囔鼻
 kftj 嗜
 kftj 啫
 kftj 喷香
@@ -72845,6 +72848,7 @@ kgfh 吴起
 kgfh 吓走
 kgfi 呈示
 kgfi 吁求
+kgfk 嗉囊
 kgfm 呈献
 kgfn 雨声
 kgfn 吕不韦
@@ -72879,7 +72883,6 @@ kggh 呈政
 kggh 郢正
 kggh 郢政
 kggh 吴下
-kggk 嗉囊
 kggm 呈现
 kggm 呈瑞
 kggn 鄙夷不屑
@@ -72939,7 +72942,6 @@ kgka 哑嘶
 kgkc 吁叹
 kgkc 哑吧
 kgkd 喝五吆三
-kgke 囔
 kgkf 吠形吠声
 kgkf 哽噎
 kgkf 啼天哭地
@@ -72958,7 +72960,6 @@ kgkg 嗷嗷
 kgkg 吁吁
 kgkg 咧咧
 kgkg 哑哑
-kgkg 囔囔
 kgkg 哽哽
 kgkg 嗷嘈
 kgkg 嘈嘈
@@ -73129,7 +73130,6 @@ kgtf 霸王条款
 kgtf 吴德
 kgth 号牌
 kgth 吃瓦片
-kgth 囔鼻
 kgti 吃不得慢酒
 kgtj 吃不得
 kgtj 吓得
@@ -75822,7 +75822,7 @@ kqkc 哆唆
 kqkf 哆嗦
 kqkf 咆哮
 kqkf 味外味
-kqkg 呜囔
+kqkf 呜囔
 kqkg 唿喇
 kqkh 吹嘘
 kqkh 吹唬
@@ -75928,7 +75928,7 @@ kqta 兄长
 kqtd 史籍
 kqtf 吹毛
 kqtf 史德
-kqtg 中饱私囊
+kqtf 中饱私囊
 kqtg 史策
 kqth 啖饭处
 kqtj 吹得
@@ -78275,6 +78275,7 @@ ldev 蹽腿
 ldf 罟
 ldfb 因地
 ldfe 四大声腔
+ldff 软古囊囊
 ldfh 跨越
 ldfj 跨进
 ldfk 跨鼓
@@ -78294,7 +78295,6 @@ ldgf 蹰
 ldgf 罪在不赦
 ldgf 囿于
 ldgg 四大天王
-ldgg 软古囊囊
 ldgh 跨下
 ldgj 恩惠
 ldgk 软硬不吃
@@ -78554,11 +78554,11 @@ leew 黑肢猴
 leey 胃脏
 lef 胃
 lefg 四脚朝天
+lefk 胃囊
 lefn 跑狗场
 lefp 软脑壳
 lefu 踩墒
 lefy 踩坑
-legk 胃囊
 legk 黑腥事
 legr 四月青年
 legt 略胜一筹
@@ -78786,6 +78786,8 @@ lffh 围起
 lffi 默示
 lffj 转进
 lffk 圆鼓鼓
+lffk 墨囊
+lffk 软囊囊
 lffm 黔南
 lffm 围击
 lffn 转卖
@@ -78822,7 +78824,6 @@ lfgk 转速
 lfgk 黑豆
 lfgk 墨吏
 lfgk 署吏
-lfgk 墨囊
 lfgk 黠吏
 lfgl 黑画
 lfgm 黑枣
@@ -79587,7 +79588,6 @@ lggh 车下
 lggk 国事
 lggk 车速
 lggk 圃事
-lggk 软囊囊
 lggl 国画
 lggl 连环画
 lggm 国瑞
@@ -82872,6 +82872,7 @@ ltfi 路德教派
 ltfi 图示
 ltfj 跃进
 ltfj 路堤
+ltfk 图囊
 ltfm 路南
 ltfn 田径场
 ltfp 跹
@@ -82898,7 +82899,6 @@ ltgh 路政
 ltgk 略带
 ltgk 四季豆
 ltgk 略事
-ltgk 图囊
 ltgl 图画
 ltgq 置身事外
 ltgx 图素
@@ -88349,6 +88349,7 @@ nafh 异趣
 nafh 展直
 nafi 展示
 nafj 民进
+nafk 民蠹
 nafn 展场
 nafn 民声
 nafn 展卖
@@ -88378,7 +88379,6 @@ nagk 民事
 nagk 懂事
 nagk 懵逼
 nagk 展事
-nagk 民蠹
 nagk 慌速
 nagk 异事
 nagm 展现
@@ -90493,6 +90493,7 @@ nifb 发源地
 nifd 飞沙走石
 nife 司法救助
 nifi 以水救水
+nifk 尿囊
 nifn 悄声
 nifn 悄没声
 nifp 尿壶
@@ -90503,7 +90504,6 @@ nifw 心潮起伏
 nify 恬淡无为
 nige 悄静
 nigg 情溢于表
-nigk 尿囊
 nigu 惊鸿一瞥
 nigx 性激素
 nigx 尿素
@@ -91357,6 +91357,8 @@ nnfj 书刊
 nnfj 羽翰
 nnfj 书翰
 nnfk 书鼓
+nnfk 书囊
+nnfk 书蠹
 nnfl 羽协
 nnfl 心情地图
 nnfn 书场
@@ -91388,8 +91390,6 @@ nngk 书吏
 nngk 快事
 nngk 羽翮
 nngk 局束
-nngk 书囊
-nngk 书蠹
 nngl 心怀不轨
 nngl 书画
 nngl 书柬
@@ -91594,7 +91594,7 @@ nnqd 已然
 nnqe 尸解
 nnqe 快触
 nnqf 书镇
-nnqg 慷慨解囊
+nnqf 慷慨解囊
 nnqg 书铺
 nnqg 快印
 nnqh 局外
@@ -93962,6 +93962,7 @@ nyfh 心趣
 nyfi 以示
 nyfi 以求
 nyfk 惊喜
+nyfk 心囊
 nyfm 以南
 nyfn 心声
 nyfn 心志
@@ -93991,7 +93992,6 @@ nygi 民主政治
 nygj 心理
 nygk 心事
 nygk 尽速
-nygk 心囊
 nygk 忙逼
 nygk 羽扇豆
 nygm 尽责
@@ -95003,6 +95003,7 @@ ofdk 放声大哭
 ofef 灶肚
 ofei 灶膛
 ofen 烤肠
+ofer 精囊腺
 off 鲑
 offb 灶地
 offc 烤翅
@@ -95063,6 +95064,7 @@ ofqn 烤饼
 ofqo 烤炙
 ofre 烘云托月
 ofrh 灶披
+ofrq 放囊的
 ofru 登坛拜将
 ofrx 烟士披里纯
 ofrx 烟士披离纯
@@ -95154,7 +95156,6 @@ ogeg 精
 ogeg 鲭
 ogeh 登用
 ogeo 数不胜数
-oger 精囊腺
 oges 精彩
 oges 精采
 ogfa 登载
@@ -95172,6 +95173,7 @@ ogfj 凿井
 ogfj 糟塌
 ogfj 登朝
 ogfj 方天戟
+ogfk 精囊
 ogfn 登场
 ogfo 烜赫
 ogfo 精赤
@@ -95189,7 +95191,6 @@ oggd 登天
 oggf 精于
 oggg 精一
 oggh 放不下
-oggk 精囊
 oggk 火剌剌
 oggm 精丽
 oggx 类毒素
@@ -95327,7 +95328,6 @@ ogrj 火不拨不旺
 ogrk 登擂
 ogrm 精制
 ogrn 精气
-ogrq 放囊的
 ogrq 精选
 ogrr 燥不搭的
 ogrr 精白
@@ -97186,6 +97186,7 @@ otfj 放进
 otfk 旗鼓
 otfk 鱼鼓
 otfk 烽鼓
+otfk 米长蠹
 otfn 放声
 otfn 鱼场
 otfo 放赦
@@ -97213,7 +97214,6 @@ otgh 旗下
 otgh 施政
 otgj 施惠
 otgk 糗事
-otgk 米长蠹
 otgk 施事
 otgk 放赖
 otgl 火笔画
@@ -98585,13 +98585,13 @@ paeu 褐藻胶
 pafb 宅基地
 pafd 宽城
 pafh 视若无睹
+pafk 宦囊
 pafm 穿靴戴帽
 pafm 穿鞋戴帽
 pafo 宽赦
 pagd 寂若死灰
 pagg 农药残毒
 pagk 宽带
-pagk 宦囊
 pagp 安营下寨
 pagu 宽平
 pah 宦
@@ -99502,6 +99502,7 @@ pfbm 赛出
 pfbn 完了
 pfbp 安老院
 pfbr 富埒陶白
+pfbv 祛蠹除奸
 pfbw 突击队
 pfca 完戏
 pfce 富士通
@@ -99767,6 +99768,7 @@ pfrm 赛制
 pfrm 守制
 pfrn 寒气
 pfrn 宗气
+pfrn 窝囊气
 pfrp 穿越控
 pfrr 定场白
 pfrt 搴手
@@ -99784,6 +99786,7 @@ pfsg 寒酸
 pfsg 寒酷
 pfsg 完本
 pfsh 寒相
+pfsh 窝囊相
 pfss 寒林
 pfss 寒禁
 pfss 寒栗
@@ -99852,6 +99855,7 @@ pfva 宗姬
 pfvb 完好
 pfvd 安堵如故
 pfvf 密支那
+pfvi 空囊如洗
 pfvk 赛如
 pfvl 完姻
 pfvo 守灵
@@ -99921,6 +99925,7 @@ pfyn 赛讯
 pfyn 守望
 pfyn 冠词
 pfyn 完房
+pfyn 窝囊废
 pfyp 寒亭
 pfyu 守廉
 pfyu 宗谱
@@ -99950,7 +99955,6 @@ pgbm 定出
 pgbn 写了
 pgbq 定陶
 pgbv 定限
-pgbv 祛蠹除奸
 pgc 室
 pgce 定能
 pgcf 室
@@ -100234,7 +100238,6 @@ pgrk 定损
 pgrm 定制
 pgrm 定投
 pgrn 宣扬
-pgrn 窝囊气
 pgrn 定所
 pgrn 宝气
 pgrq 写的
@@ -100256,7 +100259,6 @@ pgsg 定醒
 pgsg 袖珍本
 pgsh 实不相瞒
 pgsh 定相
-pgsh 窝囊相
 pgsk 定可
 pgsr 牢不可拔
 pgsr 定型棉
@@ -100331,7 +100333,6 @@ pguu 守死善道
 pguw 定准
 pgvb 写好
 pgvh 寁
-pgvi 空囊如洗
 pgvi 写录
 pgvj 视死如归
 pgvj 宾至如归
@@ -100404,7 +100405,6 @@ pgyl 宝库
 pgyl 定为
 pgyl 室颤
 pgym 定调
-pgyn 窝囊废
 pgyn 富户
 pgyn 被死亡
 pgyn 被现房
@@ -100459,6 +100459,7 @@ phfb 官地
 phfc 官运
 phff 官款
 phfh 官盐
+phfk 官囊
 phfn 官场
 phfn 官声
 phfs 初具规模
@@ -100469,7 +100470,6 @@ phge 寂静
 phge 官虎吏狼
 phgk 官吏
 phgk 官事
-phgk 官囊
 phgo 寂灭
 phgr 定睛一看
 phgs 定睛一相
@@ -102533,6 +102533,7 @@ pufj 宰
 pufj 补进
 pufk 定音鼓
 pufk 初吉
+pufk 被囊
 pufn 补亏
 pufn 初志
 pufn 初亏
@@ -102562,7 +102563,6 @@ pugk 实事
 pugk 初速
 pugk 裤带
 pugk 裙带
-pugk 被囊
 pugk 被逼
 pugk 襟带
 pugl 写意画
@@ -103560,6 +103560,7 @@ pwfj 罕觏
 pwfj 突进
 pwfj 窨井
 pwfk 窃喜
+pwfk 窝囊
 pwfm 突击
 pwfn 空场
 pwfn 宿志
@@ -103599,7 +103600,6 @@ pwgi 官僚政治
 pwgj 穷理
 pwgj 究理
 pwgj 察惠
-pwgk 窝囊
 pwgk 安全带
 pwgk 窦融
 pwgk 窄带
@@ -104504,6 +104504,7 @@ pyfj 视朝
 pyfk 禧
 pyfk 社鼓
 pyfk 福吉
+pyfk 禄蠹
 pyfm 穿衣戴帽
 pyfn 祎
 pyfn 神志
@@ -104534,7 +104535,6 @@ pygj 禅理
 pygk 祸事
 pygk 神速
 pygk 祝融
-pygk 禄蠹
 pygk 视事
 pygk 祀事
 pygk 福事
@@ -106070,6 +106070,7 @@ qefc 触动
 qefc 解运
 qefi 解救
 qefk 象脚鼓
+qefk 解囊
 qefm 触击
 qefn 角逐场
 qefq 解元
@@ -106085,7 +106086,6 @@ qegf 角球
 qegh 解下
 qegh 解政
 qegh 觞政
-qegk 解囊
 qegk 解事
 qegl 锄
 qego 解严
@@ -106382,6 +106382,7 @@ qfga 针形
 qfgc 钻井平台
 qfge 镇静
 qfgf 刨地球
+qfgf 卵囊球
 qfgi 金声玉润
 qfgm 针刺
 qfgo 镇赉
@@ -106486,6 +106487,7 @@ qfrr 勾魂摄魄
 qfrs 钩元提要
 qfrt 钱插
 qfsa 钱柜
+qfse 解囊相助
 qfsf 钱票
 qfsm 留声机
 qfsm 铲土机
@@ -106517,6 +106519,7 @@ qfuf 外卖装
 qfug 多动症
 qfvi 钱运录
 qfvn 针鼹
+qfvy 锦囊妙计
 qfwa 钱袋
 qfwa 名二代
 qfwk 镇保
@@ -106536,6 +106539,7 @@ qfxy 钱
 qfyb 乌云遮不住太阳
 qfye 针衣
 qfyf 钱庄
+qfyf 锦囊计
 qfyh 镇店
 qfyh 钱店
 qfyj 针剂
@@ -106601,6 +106605,7 @@ qgfd 急于求成
 qgff 匀速运动
 qgff 匀速直线运动
 qgfh 名下无虚
+qgfk 印囊
 qgfp 逃不过
 qgfp 金融赤字
 qgfw 印规
@@ -106610,14 +106615,12 @@ qggc 桀骜不驯
 qggc 桀敖不驯
 qggd 包青天
 qggd 饿死事小，失节事大
-qggf 卵囊球
 qggg 多一事不如少一事
 qggg 多一事不如省一事
 qggh 解不下
 qggh 铺下
 qggk 名不正，言不顺
 qggk 铁蚕豆
-qggk 印囊
 qggk 乐融融
 qggm 印曹
 qggo 留下来
@@ -106736,7 +106739,6 @@ qgrw 外来物种入侵
 qgry 急不择言
 qgsa 印模
 qgsd 急不可耐
-qgse 解囊相助
 qgsf 印材
 qgsf 乐不可支
 qgsg 印本
@@ -106790,7 +106792,6 @@ qgvb 金玉君子
 qgve 钙奶
 qgvf 外来妹
 qgvn 急不如快
-qgvy 锦囊妙计
 qgwd 詹天佑
 qgwd 匍伏
 qgwd 匐伏
@@ -106823,7 +106824,6 @@ qgxy 印纹
 qgya 印度
 qgya 角速度
 qgyf 金融市场
-qgyf 锦囊计
 qgyg 印证
 qgyg 外来语
 qgyg 铺主
@@ -108588,6 +108588,8 @@ qnfg 饼干
 qnfg 包干
 qnfg 金属元素
 qnfh 馆址
+qnfk 包囊
+qnfk 饭囊
 qnfl 馌
 qnfm 馈献
 qnfn 包场
@@ -108609,8 +108611,6 @@ qnge 乌青
 qngf 饮恨吞声
 qngh 包下
 qngi 𫗧
-qngk 包囊
-qngk 饭囊
 qngk 包融
 qngk 饭豆
 qngk 饰带
@@ -109849,6 +109849,8 @@ qrfb 忽地
 qrfc 勿动
 qrff 乌拉圭
 qrfg 色授魂与
+qrfk 锦囊
+qrfk 兜囊
 qrfm 锧
 qrfm 兜击
 qrfn 铁块
@@ -109863,8 +109865,6 @@ qrgg 铁环
 qrgg 铁琴
 qrgg 包打天下
 qrgg 锦瑟
-qrgk 锦囊
-qrgk 兜囊
 qrgl 铁画
 qrgm 铢两
 qrgo 多年来
@@ -110335,6 +110335,7 @@ qtfc 铥
 qtfc 卯云
 qtfg 卿士
 qtfh 钎
+qtfk 锥处囊中
 qtfl 铢积寸累
 qtfm 锤击
 qtfn 名利场
@@ -110348,7 +110349,6 @@ qtgh 卯正
 qtgj 杀敌致果
 qtgk 名垂青史
 qtgk 外生殖器
-qtgk 锥处囊中
 qtgl 铜版画
 qtgl 铅笔画
 qtgn 钅
@@ -110565,6 +110565,7 @@ qufh 锌
 qufh 迎头赶上
 qufh 铲趟
 qufk 包遵彭
+qufk 镜囊
 qufn 锐志
 qufn 镑亏
 qufu 锐增
@@ -110580,7 +110581,6 @@ qugg 逸闻琐事
 qugi 镧
 qugk 匀速
 qugk 匀整
-qugk 镜囊
 qugo 铲灭
 qugp 儿童不宜
 qugq 金章玉句
@@ -111419,6 +111419,7 @@ qyey 铱
 qyey 锿
 qyfb 铤鹿走险
 qyfh 留起
+qyfk 卵囊
 qyfm 留坝
 qyfn 久违
 qyfn 鸟声
@@ -111436,7 +111437,6 @@ qyge 色盲表
 qygf 𬭚于
 qygg 名高天下
 qygh 留下
-qygk 卵囊
 qygk 鸟事
 qygm 灸刺
 qygq 危言正色
@@ -113783,6 +113783,7 @@ rfaw 拮花
 rfaw 拷花
 rfay 挂匾
 rfbb 质子
+rfbb 攮子
 rfbc 撷取
 rfbe 持阻
 rfbi 扶丞
@@ -113792,6 +113793,7 @@ rfbn 挂了
 rfbp 托老院
 rfbq 遁隐
 rfbr 抚孤
+rfbr 探囊取物
 rfbu 扫地出门
 rfbu 技联
 rfbw 挂坠
@@ -113874,6 +113876,7 @@ rfft 拯救者
 rfft 挂孝
 rfft 技教
 rfft 扶老
+rffu 攮丧
 rffy 持
 rffy 护城壕
 rfga 抚弄
@@ -113955,7 +113958,9 @@ rfjm 挂帅
 rfjs 挂果
 rfjt 质监
 rfk 拮
+rfkc 攮嗓
 rfkd 抚顺
+rfke 攮
 rfkf 白云鄂博
 rfkg 拮
 rfkg 挂号
@@ -114031,6 +114036,7 @@ rfot 抢卖族
 rfou 质料
 rfov 质数
 rfoy 鬼地方
+rfoy 攮糠
 rfp 挝
 rfpb 后起字
 rfpb 攒十字
@@ -114073,6 +114079,7 @@ rfql 挂链
 rfqn 抚
 rfqn 挂包
 rfqn 挂饰
+rfqn 攮包
 rfqq 挂钩
 rfqw 挂欠
 rfqy 挂镰
@@ -114111,6 +114118,7 @@ rfrn 挂气
 rfrp 质控
 rfrp 抚按
 rfrr 挂拍
+rfrr 括囊拱手
 rfrs 拷打
 rfrt 扶手
 rfrt 打击报复
@@ -114323,7 +114331,6 @@ rgay 兵荒
 rgb 邱
 rgbb 皇子
 rgbb 抹子
-rgbb 攮子
 rgbc 搏取
 rgbe 拔不出腿
 rgbf 丘陵
@@ -114337,7 +114344,6 @@ rgbm 找不出
 rgbn 扽
 rgbo 后防
 rgbp 后院
-rgbr 探囊取物
 rgbs 特殊防卫权
 rgbu 后联
 rgbv 卮
@@ -114441,7 +114447,6 @@ rgft 皇都
 rgft 捷才
 rgft 牛不老
 rgfu 手不干净
-rgfu 攮丧
 rgfw 后夫
 rgfw 皂王老爷
 rgfy 岳塘
@@ -114558,9 +114563,7 @@ rgk 后
 rgkb 郈
 rgkb 扯开嗓子
 rgkc 皇邑
-rgkc 攮嗓
 rgkd 后
-rgke 攮
 rgke 拼死吃河豚
 rgkf 垕
 rgkf 殷天震地
@@ -114657,7 +114660,6 @@ rgot 捕鱼
 rgot 热带鱼
 rgot 挪亚方舟
 rgow 抹粉
-rgoy 攮糠
 rgoy 皇粮
 rgoy 后方
 rgp 遑
@@ -114698,7 +114700,6 @@ rgqj 皇象
 rgqn 手下留情
 rgqn 兵饷
 rgqn 捯饬
-rgqn 攮包
 rgqo 撒下金钩钓鳌鱼
 rgqq 后金
 rgqs 捕杀
@@ -114768,7 +114769,6 @@ rgrn 指天誓心
 rgro 热带气旋
 rgrq 先不先
 rgrr 打下手的
-rgrr 括囊拱手
 rgrt 打下手
 rgrt 捕手
 rgrt 后手
@@ -118169,6 +118169,8 @@ rnfi 抉示
 rnfj 掘进
 rnfj 气井
 rnfj 掘井
+rnfk 气囊
+rnfk 扎囊
 rnfn 扭亏
 rnfn 扬声
 rnfn 拉买卖
@@ -118199,11 +118201,9 @@ rngg 扬琴
 rngh 挤眉弄眼
 rngj 据理
 rngj 拨理
-rngk 气囊
 rngk 振臂一呼
 rngk 所事
 rngk 攘臂一呼
-rngk 扎囊
 rngq 气死
 rngq 所列
 rngq 拟死
@@ -118890,6 +118890,7 @@ rpfi 操之过激
 rpfi 探求
 rpfj 探井
 rpfj 挖井
+rpfk 探囊
 rpfn 控亏
 rpfp 探索
 rpfq 皖
@@ -118916,7 +118917,6 @@ rpgi 鬼神不测
 rpgj 按理
 rpgj 近理
 rpgk 拉家带口
-rpgk 探囊
 rpgk 拖家带口
 rpgk 近事
 rpgm 探刺
@@ -120362,6 +120362,7 @@ rrfh 扶摇直上
 rrfh 白直
 rrfj 白堤
 rrfk 拍鼓
+rrfk 白囊
 rrfl 近朱者赤，近墨者黑
 rrfm 拍击
 rrfm 攒击
@@ -120414,7 +120415,6 @@ rrgj 哲理
 rrgj 鬼打更
 rrgk 白带
 rrgk 白事
-rrgk 白囊
 rrgk 白豆
 rrgk 白赖
 rrgl 折柬
@@ -121818,6 +121818,7 @@ rtfj 挺进
 rtfj 手翰
 rtfj 插进
 rtfk 手鼓
+rtfk 括囊
 rtfm 所剩无几
 rtfm 捶击
 rtfn 撬
@@ -121862,7 +121863,6 @@ rtgj 热处理
 rtgj 批处理
 rtgk 拖带
 rtgk 拖逗
-rtgk 括囊
 rtgk 搬逗
 rtgl 插画
 rtgm 斤两
@@ -125629,12 +125629,12 @@ sbee 李鹏
 sbep 梆子腔
 sbf 李
 sbff 极限运动
+sbfk 配子囊
 sbfw 李逵
 sbgf 椭球
 sbgh 李下
 sbgj 李璟
 sbgk 核子武器
-sbgk 配子囊
 sbgm 椰枣
 sbgr 松了一口气
 sbgr 椰珠
@@ -126405,6 +126405,7 @@ sffh 村墟
 sffh 飘走
 sffi 标示
 sffj 飘进
+sffk 桂蠹
 sffm 相去无几
 sffn 标志
 sffn 标卖
@@ -126426,7 +126427,6 @@ sfgg 桂王
 sfgg 标王
 sfgh 标下
 sfgk 飘带
-sfgk 桂蠹
 sfgk 飘速
 sfgo 西南亚
 sfgo 飘来
@@ -127034,6 +127034,7 @@ sgfj 本朝
 sgfj 西堤
 sgfk 西吉
 sgfk 酷喜
+sgfk 朽蠹
 sgfm 西南
 sgfm 丁坝
 sgfm 林琴南
@@ -127074,7 +127075,6 @@ sggi 楼歪歪
 sggj 柳下惠
 sggk 本事
 sggk 酷吏
-sggk 朽蠹
 sggk 配带
 sggk 酿事
 sggl 西画
@@ -132695,6 +132695,7 @@ tbf 季
 tbfb 片子地
 tbfg 鼻孔朝天
 tbfj 季刊
+tbfp 季子囊空
 tbft 季考
 tbfu 生聚教养
 tbfu 季子裘敝
@@ -132703,7 +132704,6 @@ tbga 乱坠天花
 tbgd 鼻子下面
 tbgm 迤逦
 tbgp 自出一家
-tbgp 季子囊空
 tbgs 鼻子一酸
 tbgs 季末
 tbgt 稍逊一筹
@@ -132837,6 +132837,7 @@ tcff 长驱直进
 tcfg 么二
 tcfh 径直
 tcfh 私盐
+tcfk 私囊
 tcfm 入圣超凡
 tcfn 笃志
 tcft 长驱直入
@@ -132849,7 +132850,6 @@ tcgh 智能玩具
 tcgh 笃正
 tcgk 智能武器
 tcgk 私事
-tcgk 私囊
 tcgl 智能不足
 tcgr 向巴平措
 tcgs 么末
@@ -133153,6 +133153,7 @@ tdfh 矫直
 tdfh 辞趣
 tdfi 稽求
 tdfj 短戟
+tdfk 智囊
 tdfn 矢志
 tdfn 身历声
 tdfn 甜馨
@@ -133191,7 +133192,6 @@ tdgi 舔
 tdgi 身在曹营心在汉
 tdgj 自顾不暇
 tdgk 知事
-tdgk 智囊
 tdgk 千古事
 tdgk 刮剌
 tdgk 甜豆
@@ -133976,6 +133976,7 @@ teff 笑脸墙
 tefg 秀士
 tefh 甪直
 tefi 透示
+tefk 笈囊
 tefn 秀场
 tefn 翻脸无情
 tefn 稻场
@@ -134001,7 +134002,6 @@ tegh 航政
 tegj 艚
 tegj 盘亘
 tegk 秀逗
-tegk 笈囊
 tegk 航速
 tegk 盘整
 tegm 秀丽
@@ -134575,6 +134575,8 @@ tffh 衎直
 tffh 行走
 tffj 行进
 tffk 街鼓
+tffk 毛囊
+tffk 行囊
 tffm 毛南
 tffm 矮垛垛
 tffn 得寸进尺
@@ -134626,11 +134628,9 @@ tfgi 矢志不渝
 tfgj 自救不暇
 tfgj 千载一时
 tfgj 德惠
-tfgk 毛囊
 tfgk 毛豆
 tfgk 乖剌
 tfgk 行事
-tfgk 行囊
 tfgk 行速
 tfgm 毛刺
 tfgm 行刺
@@ -134773,6 +134773,7 @@ tflb 第二国际
 tflf 等置
 tflf 行辕
 tflf 行署
+tflf 智囊团
 tflg 德国
 tflg 等车
 tflg 行车
@@ -134870,6 +134871,7 @@ tfog 行业
 tfon 颓垣断壁
 tfoo 篝火
 tfoo 重起炉灶
+tfoo 毛囊炎
 tfoq 自动炮
 tfoq 午炮
 tfor 毛糙
@@ -135568,6 +135570,8 @@ tgfj 竽
 tgfj 生朝
 tgfj 重刊
 tgfj 策进
+tgfk 垂橐
+tgfk 衙蠹
 tgfm 重击
 tgfn 第一场
 tgfn 篮球场
@@ -135612,14 +135616,12 @@ tggh 等一下
 tggh 生下
 tggi 生死不渝
 tggj 生理
-tggk 垂橐
 tggk 重整
 tggk 生事
 tggk 生剌剌
 tggk 各剌剌
 tggk 刮剌剌
 tggk 答剌速
-tggk 衙蠹
 tggk 管夷吾
 tggk 笑融融
 tggk 穗带
@@ -135786,7 +135788,6 @@ tglc 重轻
 tglf 衙署
 tglf 重围
 tglf 重置
-tglf 智囊团
 tglg 重趼
 tglg 秉国
 tglg 微型车
@@ -135876,7 +135877,6 @@ tgog 生业
 tgoj 秉烛
 tgok 熏炽
 tgoo 生火
-tgoo 毛囊炎
 tgoo 自来火
 tgoq 重炮
 tgoq 第一炮
@@ -136471,6 +136471,7 @@ thfh 得步进步
 thfi 牌示
 thfi 自救
 thfk 延吉
+thfk 臭皮囊
 thfn 怎
 thfn 鼾声
 thfn 版块
@@ -136497,7 +136498,6 @@ thgj 自理
 thgj 重睹天日
 thgk 自带
 thgk 处事
-thgk 臭皮囊
 thgk 版副
 thgk 算事
 thgl 版画
@@ -137463,6 +137463,7 @@ tjfh 复盐
 tjfi 复示
 tjfi 得救
 tjfj 复刊
+tjfk 香囊
 tjfl 篮协
 tjfn 得志
 tjfn 得亏
@@ -137488,7 +137489,6 @@ tjgg 微晶玻璃
 tjgh 筛
 tjgi 射电天文学
 tjgj 得理
-tjgk 香囊
 tjgl 行星列车
 tjgm 复现
 tjgm 千里一曲
@@ -137968,6 +137968,7 @@ tkep 和爱
 tkes 积膘
 tkf 各
 tkfa 禹域
+tkfa 积雪囊萤
 tkfb 各地
 tkfb 种地
 tkfc 积雨云
@@ -137980,7 +137981,6 @@ tkfp 种过
 tkfr 积垢
 tkg 程
 tkg 和
-tkga 积雪囊萤
 tkga 和弄
 tkga 种型
 tkgb 积屯
@@ -141113,6 +141113,7 @@ ttfg 毛利塔尼亚
 ttfg 禾坪
 ttfh 笔直
 ttfh 彳亍
+ttfk 笔囊
 ttfn 笔
 ttfn 笑声
 ttfn 禾场
@@ -141144,7 +141145,6 @@ ttgh 笔下
 ttgh 笔政
 ttgj 禾更
 ttgk 微处理器
-ttgk 笔囊
 ttgl 笔画
 ttgm 竹刺
 ttgn 生生不已
@@ -145636,6 +145636,7 @@ ufpi 半宵
 ufpn 闺密
 ufpn 闺蜜
 ufpo 凌灾
+ufpt 背囊客
 ufpu 壮实
 ufpu 装裱
 ufpu 装衬
@@ -146179,7 +146180,6 @@ ugpl 美军
 ugpn 间不容发
 ugpn 凄寥
 ugpq 盗玉窃钩
-ugpt 背囊客
 ugpu 姜被
 ugpu 盖被
 ugpu 帝王之道
@@ -146648,6 +146648,7 @@ uifc 冰魂
 uiff 冰封
 uiff 瘠土
 uiff 冲浪运动
+uifk 冰囊
 uifl 冰协
 uifm 冰坝
 uifn 冰块
@@ -146664,7 +146665,6 @@ uigf 冰球
 uigh 背水一战
 uigi 冰清玉洁
 uigk 北温带
-uigk 冰囊
 uigq 冰消瓦解
 uigx 冰毒
 uigx 冰夷
@@ -149688,6 +149688,7 @@ usfj 新朝
 usfk 新喜
 usfn 新声
 usfn 冷酷无情
+usfq 斗粟囊金
 usft 新教
 usft 尊者
 usft 奠都
@@ -149723,7 +149724,6 @@ usgo 尊严
 usgo 新来
 usgp 遵
 usgp 遒
-usgq 斗粟囊金
 usgu 新平
 usgx 疔毒
 usgx 新夷
@@ -151779,6 +151779,7 @@ uxfi 冀求
 uxfj 北朝
 uxfj 递进
 uxfj 北韩
+uxfk 背囊
 uxfn 背场
 uxfp 背过
 uxfq 新纪元
@@ -151796,7 +151797,6 @@ uxgj 总经理
 uxgj 背理
 uxgj 慈惠
 uxgj 递更
-uxgk 背囊
 uxgk 背带
 uxgr 凝碧
 uxgr 北珠
@@ -158337,6 +158337,7 @@ wfsp 人去楼空
 wfsp 人地相宜
 wfsq 佳构
 wfsr 传檄
+wfsr 倾囊相授
 wfss 佳木
 wfsu 付梓
 wfsv 会要
@@ -159321,7 +159322,6 @@ wgso 傅杰
 wgso 傻不楞登
 wgsr 仪表板
 wgsr 倒板
-wgsr 倾囊相授
 wgsr 合板
 wgsr 全棉
 wgsr 僵板
@@ -164992,6 +164992,7 @@ wwfi 八仙过海
 wwfi 欲求
 wwfj 丛刊
 wwfk 坐喜
+wwfk 谷蠹
 wwfn 人声
 wwfn 坐场
 wwfn 俯仰无愧
@@ -165048,7 +165049,6 @@ wwgk 俗事
 wwgk 作佛事
 wwgk 俗吏
 wwgk 俎豆
-wwgk 谷蠹
 wwgk 做佛事
 wwgk 众事
 wwgl 倜傥不羁
@@ -165821,6 +165821,7 @@ wxfj 华
 wxfj 华翰
 wxfj 倾塌
 wxfk 低级趣味
+wxfk 倾囊
 wxfm 华南
 wxfm 倾献
 wxfn 货场
@@ -165839,7 +165840,6 @@ wxga 优弓形
 wxge 华表
 wxge 佛青
 wxgk 佛事
-wxgk 倾囊
 wxgl 佛画
 wxgm 华丽
 wxgq 货殖
@@ -166280,6 +166280,8 @@ wyfj 令坦
 wyfk 坐床喜
 wyfk 货郎鼓
 wyfk 信鼓
+wyfk 食囊
+wyfk 贪囊
 wyfn 体育场
 wyfn 依违
 wyfo 邻坊
@@ -166331,10 +166333,8 @@ wygk 信赖
 wygk 领事
 wygk 领带
 wygk 食事
-wygk 食囊
 wygk 停逗
 wygk 贪吏
-wygk 贪囊
 wygo 付诸一炬
 wygo 偏恶
 wygp 依还
@@ -175053,7 +175053,7 @@ ylpp 谓之
 ylpw 库容
 ylqa 高跟儿鞋
 ylqd 为然
-ylqg 衣架饭囊
+ylqf 衣架饭囊
 ylqi 为国争光
 ylqk 为名
 ylqr 库锦
@@ -177963,8 +177963,8 @@ ysge 磨琢
 ysge 调查表
 ysgf 魔球
 ysgf 麻球
+ysgf 户枢不蠹
 ysgg 魔王
-ysgg 户枢不蠹
 ysgg 这样一来
 ysgh 麾下
 ysgh 高枕不虞
