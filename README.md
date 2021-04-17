@@ -24,8 +24,6 @@
 不过平心而论，新世纪版也有一些优点，比如字根设计及拆字方案总体上确实更加合理了，对于新手来说也更易学易用了，本项目对 86 版五笔的一些改进也参考了新世纪版的设计。
 
 # 来源
-~~原始码表来源于 win10 1809 ltsc 系统词库`ChsWubi.lex`。~~
-
 原始码表来源于[CNMan/rime-data](https://github.com/CNMan/rime-data)，感谢[CNMan](https://github.com/CNMan)为此所做的工作。
 
 以下是原始码表介绍：
