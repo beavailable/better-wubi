@@ -3,7 +3,7 @@ import sys
 import os
 
 if len(sys.argv) < 2:
-    print(f'usage: {os.path.basename(sys.argv[0])} config dir')
+    print(f'usage: {os.path.basename(sys.argv[0])} config-dir')
     sys.exit(1)
 
 name = sys.argv[1]
@@ -13,8 +13,7 @@ if name.endswith('/'):
 head = f'{name}/head'
 if os.path.isfile(head):
     with open(head) as f:
-        for line in f:
-            print(line, end='')
+        print(f.read(), end='')
 
 with open(f'{name}/format') as f:
     fmt = f.read()[:-1]
@@ -28,5 +27,4 @@ with open('better-wubi.dict') as f:
 tail = f'{name}/tail'
 if os.path.isfile(tail):
     with open(tail) as f:
-        for line in f:
-            print(line, end='')
+        print(f.read(), end='')
