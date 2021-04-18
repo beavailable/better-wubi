@@ -92,12 +92,12 @@
 # 使用
 本项目只是一个码表，理论上可用于任何支持自定义码表的输入法。
 
-## For Win10
+## Win10
 首先[下载码表](https://raw.githubusercontent.com/beavailable/better-wubi/main/better-wubi.dict)，然后使用[wubiLex](https://github.com/aardio/wubi-lex)将码表安装到系统里。
 
 注意：由于`wubiLex`只接受特定扩展名的码表文件，你可能需要将码表重命名为`better-wubi.txt`才能添加。
 
-## For Linux
+## Linux
 ### fcitx5
 ```shell
 git clone https://github.com/beavailable/better-wubi.git
@@ -106,9 +106,13 @@ sudo ./install-for-fcitx5.sh
 ```
 之后添加`better-wubi`输入法即可。
 
-## For Android
-### 百度输入法
-运行`convert-for-baidu.py`脚本把码表转换为适合百度输入法的格式，你会得到一个名为`better-wubi-for-baidu.def`的文件，将此文件导入自定义输入方案即可。
+# 转换
+`convert.py`脚本可以将码表转换为你需要的格式。
+
+# 统计
+`statistics.py`脚本可以查看相关的统计信息。
+
+提示：词库不同、统计方法不同可能会导致结果不同，此数据仅供参考！
 
 # 版权
 版权归王码公司所有，禁止商用。
