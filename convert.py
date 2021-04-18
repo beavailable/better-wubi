@@ -18,11 +18,12 @@ if os.path.isfile(head):
 
 with open(f'{name}/format') as f:
     fmt = f.read()[:-1]
-    with open('better-wubi.dict') as f:
-        for line in f:
-            idx = line.index(' ')
-            code, value = line[:idx], line[idx + 1:-1]
-            print(fmt.format(code=code, value=value))
+
+with open('better-wubi.dict') as f:
+    for line in f:
+        idx = line.index(' ')
+        code, value = line[:idx], line[idx + 1:-1]
+        print(fmt.format(code=code, value=value))
 
 tail = f'{name}/tail'
 if os.path.isfile(tail):
