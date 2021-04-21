@@ -6506,6 +6506,7 @@ atdd 工程大气压
 atdh 攻破
 atdi 医
 atdi 繄
+atdi 药科大学
 atdj 荞
 atdm 荞面
 atdn 翳
@@ -13395,6 +13396,7 @@ cepf 通塞
 cepg 通宝
 ceph 通官
 cepi 通宵
+cepu 能被
 cepw 通宿
 cepw 通窍
 cepy 通神
@@ -17505,6 +17507,7 @@ depf 有守
 depg 有室
 depp 有之
 dept 有客
+depu 有被
 depv 有案
 depw 有空
 depw 胡突
@@ -19952,6 +19955,7 @@ didg 砂礓
 didg 砂碛
 didi 耕耘
 didi 石沉大海
+didi 石油大学
 didi 耒耜
 didi 耘耥
 didi 耥耙
@@ -21905,6 +21909,7 @@ doda 布鲁克斯
 dodf 耐火砖
 dodg 灰石
 dodh 大爆破
+dodi 矿业大学
 dodm 大鱼大肉
 dodo 磷磷
 dodq 百炼成钢
@@ -33315,6 +33320,7 @@ fhwa 走袋
 fhwd 起伏
 fhwd 走做
 fhwe 趁
+fhwf 真会
 fhwf 真传
 fhwf 赵佶
 fhwf 超值
@@ -36986,6 +36992,7 @@ frcn 吉特巴
 frcq 远近驰名
 frcy 坂
 frcy 坬
+frdi 地质大学
 frdi 刊授大学
 frdl 老皇历
 frdl 老牛破车
@@ -38431,6 +38438,7 @@ funh 增收
 funk 增辟
 funk 地效飞行器
 funn 运送局
+funt 封装性
 funt 增发
 funt 老背悔
 funw 地瘠民贫
@@ -39081,6 +39089,7 @@ fxqt 无缝钢管
 fxrc 坑绷拐骗
 fxse 煮粥焚须
 fxsm 教练机
+fxth 增强版
 fxtt 直线笔
 fxua 超级病菌
 fxuf 超级商场
@@ -40257,6 +40266,7 @@ gcft 至孝
 gcft 到老
 gcg 玛
 gcgc 臻至
+gcgg 一对一
 gcgh 致政
 gcgi 不能不
 gcgj 至理
@@ -40327,6 +40337,7 @@ gcqc 不能勾
 gcqf 开台锣鼓
 gcqm 玛钢
 gcqq 至多
+gcqq 一对多
 gcqq 玛多
 gcqv 至急
 gcra 下马看花
@@ -43272,6 +43283,7 @@ ghgt 一颦一笑
 ghgt 一目五行
 ghgt 开上开下船
 ghgu 速战速决
+ghgu 一步一回头
 ghgu 下平
 ghgv 正妻
 ghgv 下妻
@@ -43820,8 +43832,9 @@ gidh 不存
 gidh 不慧
 gidh 政治面目
 gidi 武汉大学
-gidi 珠江三角洲
+gidi 政法大学
 gidi 天津大学
+gidi 珠江三角洲
 gidi 碧波爽清
 gidj 不碍
 gidm 不耐
@@ -57817,6 +57830,7 @@ iidi 水泵
 iidi 浙江大学
 iidi 汪洋大海
 iidi 河海大学
+iidi 海洋大学
 iidi 涸泽而渔
 iidi 漏泄春光
 iidi 水耕
@@ -65567,6 +65581,7 @@ iyij 浪漫
 iyij 流漫
 iyij 澶漫
 iyim 流油
+iyin 深度学习
 iyin 澶湉
 iyio 溶剂染料
 iyio 浪游
@@ -74788,15 +74803,12 @@ klaa 中国式
 klad 中国蕨
 klae 中国菜
 klai 雷汞
-klai 中国共产党
-klai 中国药科大学
 klaj 露草
 klak 雷鞭
 klal 露苗
 klal 啰苏
 klao 露葵
 klap 露营
-klap 中国工农红军
 klaq 雷区
 klaq 别敬
 klbb 别子
@@ -74810,7 +74822,6 @@ klbw 中国队
 klca 别劲
 klce 中国通
 klci 中国台湾
-klci 中国戏法
 klck 露台
 klcn 喂马
 kld 咽
@@ -74818,8 +74829,6 @@ kldb 中国大陆
 klde 另有
 kldh 别在
 kldh 另存
-kldi 中国矿业大学
-kldi 中国石油大学
 kldl 呼图克图
 kldm 露面
 kldm 露布
@@ -74833,11 +74842,8 @@ kleg 喟
 kleh 别用
 klem 另觅
 kleq 露胸
-klet 中国服务
 klew 露脸
-klew 中国猿人
 kley 露脐
-kley 中国独秀论
 klf 雷
 klfa 别裁
 klfb 露地
@@ -74845,7 +74851,6 @@ klfc 雷动
 klfc 别动
 klff 露封
 klfh 别趣
-klfi 中国地质大学
 klfj 露井
 klfk 雷鼓
 klfm 雷击
@@ -74866,7 +74871,6 @@ klge 喂
 klgg 雷琴
 klgg 另一
 klgh 咽下
-klgi 中国政法大学
 klgk 咋回事
 klgl 中国画
 klgm 别再
@@ -74887,7 +74891,6 @@ klic 雪罗汉
 klih 雷波
 klii 露水
 klii 喝墨水
-klii 中国海洋大学
 klip 露堂
 kliq 露光
 klis 露酒
@@ -74973,7 +74976,6 @@ klpg 露富
 klpg 别室
 klpg 另定
 klpg 吸力豁剌
-klpi 中国农业大学
 klpu 露袒
 klpu 别被
 klpv 另案
@@ -75070,16 +75072,14 @@ klwc 雷公
 klwf 别传
 klwg 别拿
 klwh 别个
-klwi 中国人民大学
-klwi 中国传媒大学
+klwn 中国人民
 klwo 别集
-klwp 中国人民解放军
 klws 露体
 klws 别体
-klws 中国鸽子树
 klws 别余
-klww 雷人
 klww 别人
+klww 雷人
+klww 中国人
 klww 别价
 klww 咽人
 klwy 喂食
@@ -77173,8 +77173,9 @@ kwdy 零碎
 kweb 吴佩孚
 kwec 吟猱
 kwed 只须
-kweh 零用
 kweh 只用
+kweh 啥用
+kweh 零用
 kweh 咬人狗儿不露齿
 kwej 唯独
 kwep 只爱
@@ -77459,6 +77460,7 @@ kwwg 零伍
 kwwg 叶倩倩
 kwwg 只合
 kwwl 中华人民共和国
+kwwn 中华人民
 kwwo 零售
 kwwr 零件
 kwwr 哈伯
@@ -83812,6 +83814,7 @@ lxsy 田纳西州
 lxtf 跑红毛
 lxtf 累德
 lxtg 累重
+lxth 加强版
 lxti 边缘科学
 lxti 边缘生活
 lxtj 累得
@@ -93122,6 +93125,7 @@ nufn 屏声
 nufo 飞赤
 nufp 飞过
 nuft 买者
+nuft 发送者
 nufw 买替
 nuga 习武
 nuga 飞型
@@ -96514,6 +96518,7 @@ ooxw 火维
 ooxx 断断续续
 ooxx 鳞比
 ooya 粗糙度
+ooya 粗粒度
 ooye 鲁鱼亥豕
 ooyg 火主
 ooyn 火房
@@ -101408,6 +101413,7 @@ poay 灾荒
 pobw 穿凿附会
 pocw 灾难
 podb 灾厄
+podi 农业大学
 poeq 灾胞
 pofc 灾劫
 pogq 灾殃
@@ -104174,6 +104180,7 @@ pwww 窒欲
 pwww 密丛丛
 pwww 窝人
 pwwx 社会化
+pwwx 实例化
 pwwx 窖货
 pwx 穹
 pwxa 窜红
@@ -105615,6 +105622,7 @@ qcfh 勾起
 qcfn 色块
 qcfp 勾索
 qcgf 色球
+qcgg 多对一
 qcgk 色带
 qcgl 勾画
 qcgv 杀鸡焉用牛刀
@@ -106488,6 +106496,7 @@ qfwa 钱袋
 qfwa 名二代
 qfwk 镇保
 qfws 钱途
+qfww 外地人
 qfww 钱谷
 qfwx 多元化
 qfwy 𫓧
@@ -108154,6 +108163,7 @@ qlwl 卯足全力
 qlwn 多国公司
 qlwr 解甲休兵
 qlwu 金边债券
+qlww 外国人
 qlwx 外国货
 qlxc 锣经
 qlxf 铁路线
@@ -112133,6 +112143,7 @@ rawf 拒付
 rawf 护花使者
 rawg 反革命
 rawg 搭便
+rawh 找个
 rawh 拱候
 rawj 撒但
 rawk 搭
@@ -118142,6 +118153,7 @@ rnfn 气场
 rnfp 扭过
 rnfq 所无
 rnft 所教
+rnft 接收者
 rnft 打情卖笑
 rnfu 所幸
 rnfu 气丧
@@ -123052,6 +123064,7 @@ ruwo 拼伙
 ruwo 搁伙
 ruwo 拼集
 ruwq 拼爹
+ruws 按闹分配
 ruwt 接任
 ruwt 拉伤
 ruwt 撞伤
@@ -126760,6 +126773,7 @@ sfws 柰何
 sfwt 棱
 sfww 票价
 sfww 标价
+sfww 本地人
 sfww 村人
 sfww 村俗
 sfww 材人
@@ -128576,6 +128590,7 @@ skhv 杏眼
 skhw 歌龄
 skif 可汗
 skik 丁零当啷
+skin 机器学习
 skip 可溶
 skja 木叶蝶
 skjd 可悲
@@ -130952,6 +130967,7 @@ stsj 覆查
 stsk 相和歌
 stsl 格楞
 stsm 格栅
+stsn 可移植性
 stso 栝楼
 stso 桥楼
 stsq 桁桷
@@ -132609,6 +132625,7 @@ taud 长辫
 tauf 升斗
 tauf 箕斗
 tauj 长音
+tauq 第七次
 tauq 番茄酱
 tauq 长将
 tauq 长效
@@ -133689,9 +133706,10 @@ tduj 知单
 tdum 智商
 tdum 筹商
 tduq 筹资
+tduq 第三次
+tduq 甜净
 tduq 甜面酱
 tduq 甜酱
-tduq 甜净
 tduq 船大桨多
 tduq 知交
 tduq 短效
@@ -133738,6 +133756,7 @@ tdwg 矬倒
 tdwg 适例
 tdwg 乱命
 tdwh 矮个
+tdwh 第三个
 tdwi 甜俏
 tdwj 梨大食心虫
 tdwl 短促
@@ -135134,8 +135153,10 @@ tfuk 千总
 tfum 行商
 tfun 待决
 tfuq 等效
-tfuq 等次
+tfuq 第二次
+tfuq 第十次
 tfuq 行将
+tfuq 等次
 tfuq 行次
 tfus 等闲
 tfus 等亲
@@ -135200,6 +135221,8 @@ tfwg 德便
 tfwg 行使
 tfwg 行伍
 tfwh 等候
+tfwh 第二个
+tfwh 第十个
 tfwi 行俏
 tfwk 移孝作忠
 tfwk 德保
@@ -136039,6 +136062,8 @@ tguk 每事问
 tgum 生端
 tguq 生效
 tguq 重奖
+tguq 第一次
+tguq 第五次
 tguq 重资
 tguq 生姿
 tguq 生资
@@ -136090,8 +136115,9 @@ tgwg 重倒
 tgwg 策命
 tgwg 生全
 tgwh 重修
+tgwh 第一个
+tgwh 第五个
 tgwh 征候
-tgwh 每一个
 tgwj 条理分明
 tgwn 生僻
 tgwo 征集
@@ -138398,6 +138424,7 @@ tluk 血癌
 tlul 血痂
 tlum 衅端
 tluq 血浆
+tluq 第四次
 tlus 血亲
 tlus 入国问禁
 tlut 御驾亲征
@@ -138416,6 +138443,7 @@ tlwc 重力位能
 tlwf 各界人士
 tlwf 血祭
 tlwg 血债
+tlwh 第四个
 tlwj 丢车保帅
 tlwr 备件
 tlws 行思坐想
@@ -138900,6 +138928,7 @@ tmuj 微意
 tmum 颓敝
 tmup 身旁
 tmuq 身姿
+tmuq 第几次
 tmuq 自由竞争
 tmuq 毛骨竦然
 tmus 躬亲
@@ -138929,6 +138958,7 @@ tmwg 躲债
 tmwg 身命
 tmwg 役使
 tmwg 颓倒
+tmwh 第几个
 tmwh 身个
 tmwi 移山倒海
 tmwn 射侯
@@ -141779,8 +141809,9 @@ tuum 生产商
 tuun 箭决
 tuuo 生产资料
 tuuo 科普
-tuuq 稻瘟净
+tuuq 第六次
 tuuq 简净
+tuuq 稻瘟净
 tuur 知疼着热
 tuus 冬闲
 tuut 生产关系
@@ -141804,6 +141835,7 @@ tuwf 生产领域
 tuwg 简便
 tuwg 每况愈下
 tuwg 乘便
+tuwh 第六个
 tuwh 科企
 tuwj 简介
 tuwn 冬假
@@ -142036,6 +142068,7 @@ tvud 很差
 tvuf 徐娘半老
 tvug 很美
 tvun 委决
+tvuq 第九次
 tvuu 魏阙
 tvuv 很瘦
 tvuw 很闪
@@ -142418,6 +142451,7 @@ twuj 得人意
 twuj 稚童
 twuj 签单
 twuk 答问
+twuq 第八次
 twur 等价交换
 twut 答道
 twut 行人道
@@ -143381,6 +143415,7 @@ uaux 冻凝
 uauy 半工半读
 uavn 并刀
 uaw 瘩
+uawf 并会
 uawf 阈值
 uawg 冻僵
 uawg 并合
@@ -155836,6 +155871,7 @@ vxvx 姆姆
 vxwb 嫌疑分子
 vxwf 如幻似真
 vxwo 既约分数
+vxww 嫌疑人
 vxx 妣
 vxxn 妣
 vy 刃
@@ -157682,6 +157718,7 @@ weyf 集腋为裘
 weyg 信用证
 weyg 人脉变现
 weyi 仍应
+weyk 人脸识别
 weyl 仍为
 weyl 人脑库
 weyn 促膝谈心
@@ -158091,6 +158128,7 @@ wfps 仁宇
 wfps 会宁
 wfpt 会客
 wfpt 佳客
+wfpu 会被
 wfpu 侍寝
 wfpv 传案
 wfpw 值宿
@@ -159371,7 +159409,6 @@ wgwd 便做
 wgwd 伍佰
 wgwd 全仗
 wgwd 僵伏
-wgwe 合理化作用
 wgwf 值不值
 wgwf 全会
 wgwf 例会
@@ -159386,7 +159423,6 @@ wgwg 使命
 wgwg 愈来愈
 wgwg 愈合
 wgwg 剑侠
-wgwg 公平合理
 wgwg 便便
 wgwg 兮兮
 wgwg 全愈
@@ -159398,6 +159434,7 @@ wgwg 歙歙
 wgwg 傅合
 wgwg 翕合
 wgwg 龠合
+wgwh 拿个
 wgwh 全天候
 wgwh 僵仆
 wgwh 全个
@@ -161008,6 +161045,7 @@ wndf 追奔
 wndf 僇辱
 wndf 集翠成裘
 wndg 倨
+wndi 人民大学
 wndi 人民大会堂
 wndm 假面
 wndn 人心大快
@@ -164194,6 +164232,7 @@ wvdh 健在
 wvdh 健存
 wvdh 分破
 wvdi 偷奸耍滑
+wvdi 传媒大学
 wvdm 颁
 wvdm 分布
 wvdm 颁布
@@ -164799,7 +164838,7 @@ wwel 人爵
 wwep 坐受
 wweq 仰八脚儿
 wweq 人胞
-wweu 保健服装
+wwew 人脸
 wwew 丛脞
 wwey 人脑
 wwey 人脉
@@ -169394,6 +169433,7 @@ xoxo 缕缕
 xoxo 粥粥
 xoxu 纵火弹
 xoxx 纺丝
+xoya 细粒度
 xoyn 毕业证书
 xoyu 缕说
 xoyu 比方说
@@ -178620,8 +178660,9 @@ yufn 说场
 yufo 敲冰求火
 yufp 说过
 yufp 主将无能，累死三军
-yuft 摩门教
 yuft 说教
+yuft 访问者
+yuft 摩门教
 yuft 高普考
 yug 谰
 yuga 说开
@@ -178650,6 +178691,7 @@ yugu 请将不如激将
 yuha 谦虚
 yuhc 廉颇
 yuhk 说点
+yuhk 访问点
 yuhq 课间餐
 yuhq 试着步儿
 yuhx 说些
@@ -180205,8 +180247,9 @@ yykg 文号
 yykg 变记号
 yykh 文中
 yykh 言中
-yykk 麻麻呼呼
 yykk 磨磨唧唧
+yykk 麻麻呼呼
+yykk 调试器
 yykk 谇骂
 yykm 文员
 yykm 议员
