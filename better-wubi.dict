@@ -25785,6 +25785,7 @@ ecpg 盈室
 ecpu 肥实
 ecpy 胎神
 ecq 狁
+ecqb 受欢迎
 ecqj 胎象
 ecqn 狁
 ecqn 肥饶
@@ -28627,6 +28628,7 @@ etgr 胎盘球蛋白
 etgy 服务型政府
 eth 胙
 ethf 胙
+ethh 用得上
 ethh 犯得上
 etia 胀满
 etib 乳臭小子
@@ -39143,6 +39145,7 @@ fxrc 坑绷拐骗
 fxse 煮粥焚须
 fxsm 教练机
 fxth 增强版
+fxtk 元编程
 fxtt 直线笔
 fxua 超级病菌
 fxuf 超级商场
@@ -53410,6 +53413,7 @@ hrud 虎爪拳
 hrud 眼看着
 hrwh 瞎摸合眼
 hrwn 睹物伤情
+hrwx 虚拟化
 hrxi 虚拟经济
 hrxn 上年纪
 hrys 虚拟主机
@@ -56484,6 +56488,7 @@ igbb 汪子
 igbm 法不阿贵，绳不挠曲
 igbm 清出
 igbn 沌
+igbn 少不了
 igbu 清障
 igbw 清除
 igbw 添附
@@ -62379,6 +62384,7 @@ irdg 洗三
 irdg 洗石
 irdl 激奋
 irdm 洗面
+irdn 洗成
 irdn 汽碾
 irdp 洗碗
 irdq 派克
@@ -70762,6 +70768,7 @@ juwy 暗含
 juxa 暗红
 juxc 暗经
 juxf 暗线
+juxf 时间线
 juxp 蜷缩
 juxp 蝇头细字
 juxu 暗弱
@@ -92903,6 +92910,7 @@ ntth 发自
 ntth 改版
 ntth 发臭
 ntth 发牌
+ntth 发行版
 ntth 尾牌
 ntth 改篡
 ntth 惊乍乍
@@ -104757,6 +104765,7 @@ pyna 神殿
 pyna 神异
 pync 神怪
 pync 神怡
+pynd 神剧
 pynd 祖居
 pynd 祁剧
 pyng 神情
@@ -105114,7 +105123,6 @@ pyxg 祖母
 pyxj 神旨
 pyxq 窗户纸
 pyxr 福绵
-pyxt 空调综合征
 pyxt 祛疑
 pyxt 祖乡
 pyxu 视弱
@@ -110429,6 +110437,7 @@ qtgf 负重致远
 qtgh 卯正
 qtgj 杀敌致果
 qtgk 名垂青史
+qtgk 包管理器
 qtgk 外生殖器
 qtgl 铜版画
 qtgl 铅笔画
@@ -114539,6 +114548,7 @@ rgga 捷武
 rgga 朱瓦碧甍
 rggb 持正不阿
 rggc 看不到
+rggc 找不到
 rggd 后天
 rggd 皇天
 rgge 皇甫
@@ -117340,6 +117350,7 @@ rlaw 押花
 rlay 撂荒
 rlbb 捆子
 rlbb 摆子
+rlbb 造轮子
 rlbg 打黑除恶
 rlbj 舞阳
 rlbl 打鸭子上架
@@ -126695,6 +126706,7 @@ sfps 杜宇
 sfpt 桂鱼
 sfpt 票额
 sfpu 植被
+sfpu 西朝鲜
 sfpw 剽窃
 sfpw 飘窗
 sfpw 桂窟
@@ -131541,6 +131553,7 @@ svgc 要到
 svgh 要下
 svgh 根下
 svgi 要不
+svgi 概不
 svgk 要事
 svgk 要束
 svgo 要来
@@ -141288,6 +141301,7 @@ ttnn 竹书
 ttnn 稀稀疏疏
 ttnt 笫
 ttnt 秭
+ttnt 重复性
 ttnt 利息收入
 ttnx 短程导弹
 ttny 笔心
@@ -142915,6 +142929,7 @@ txwx 系统化
 txwy 系念
 txx 秕
 txxd 繁缛
+txxe 系统级
 txxf 筚
 txxg 系缚
 txxl 繁细
@@ -143594,12 +143609,11 @@ uaww 善巧便佞
 uaww 并坐
 uaxf 冻结
 uaxf 并线
-uaxg 新世纪版五笔字型
 uaxj 辛苦费
 uaxl 并辔
 uaxn 新世纪
 uaxr 单式编制
-uaxt 疲劳综合征
+uaxt 新世纪版
 uaxy 剪切强度
 uayg 并请
 uayi 并就
@@ -150688,8 +150702,8 @@ utwb 阁仔
 utwd 阁僚
 utwf 产值
 utwf 首付
-utwf 关系贷款
 utwf 颜值
+utwf 关系贷款
 utwg 首例
 utwg 疾便
 utwg 新生命
@@ -150710,7 +150724,6 @@ utws 道途
 utws 道叙
 utwt 首任
 utwt 痴傻
-utwt 商务代表处
 utwu 首位
 utwu 单身父亲
 utwv 道岔
@@ -150736,7 +150749,6 @@ utxg 产母
 utxh 道引
 utxq 卷筒纸
 utxt 首张
-utxt 冰箱综合征
 utxy 痴缠
 utxy 道统
 utya 首席
@@ -156040,7 +156052,6 @@ vwwq 姑爷爷
 vwwu 女人们
 vwwy 召集令
 vwxg 妗母
-vwxt 退休综合征
 vwxu 孅弱
 vwxx 群众组织
 vwy 妗
@@ -160505,7 +160516,6 @@ wjxi 合影经济
 wjxi 假日经济
 wjxp 伸缩
 wjxt 伸张
-wjxt 假日综合征
 wjxv 介绍
 wjya 人是衣服马是鞍
 wjyg 俚语
@@ -170610,6 +170620,7 @@ xtwq 纤佻
 xtws 纤体
 xtww 乡人
 xtww 乡俗
+xtww 纳税人
 xtww 终身伴侣
 xtwx 张华
 xtwy 张仪
@@ -178703,11 +178714,8 @@ ytss 高射机枪
 ytst 话梅
 ytst 夜长梦短
 ytsu 这么样
-ytsw 计算机安全
-ytsx 计算机系统
-ytsx 计算机网络
+ytsy 话术
 ytsy 庭柱
-ytsy 计算机程序
 ytsy 诈术
 ytta 庭长
 ytta 州长
@@ -179127,6 +179135,7 @@ yuw 谥
 yuwc 文剪公
 yuwd 廉俸
 yuwd 语音合成
+yuwf 高颜值
 yuwf 广交会
 yuwf 夜总会
 yuwf 高交会
