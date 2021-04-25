@@ -1,0 +1,9 @@
+;fcitx Version 0x03 Table file
+KeyCode=abcdefghijklmnopqrstuvwxy
+Length=4
+Pinyin=@
+[Rule]
+e2=p11+p12+p21+p22
+e3=p11+p21+p31+p32
+a4=p11+p21+p31+n11
+[Data]
