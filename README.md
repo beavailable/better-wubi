@@ -101,8 +101,21 @@
 注意：由于`wubiLex`只接受特定扩展名的码表文件，你可能需要将码表重命名为`better-wubi.txt`才能添加。
 
 ## Linux
+
+### fcitx
+```shell
+# preinstall
+# sudo apt install fcitx fcitx-table-wubi fcitx-tools
+git clone --depth=1 https://github.com/beavailable/better-wubi.git
+cd better-wubi
+sudo ./install-for-fcitx.sh
+```
+之后添加`better-wubi`输入法即可。
+
 ### fcitx5
 ```shell
+# preinstall
+# sudo apt install fcitx5 fcitx5-chinese-addons
 git clone --depth=1 https://github.com/beavailable/better-wubi.git
 cd better-wubi
 sudo ./install-for-fcitx5.sh
