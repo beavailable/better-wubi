@@ -103,7 +103,7 @@
 ## Linux
 ### fcitx5
 ```shell
-git clone https://github.com/beavailable/better-wubi.git
+git clone --depth=1 https://github.com/beavailable/better-wubi.git
 cd better-wubi
 sudo ./install-for-fcitx5.sh
 ```
