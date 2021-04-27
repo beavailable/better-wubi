@@ -1918,6 +1918,7 @@ afqb 黄土包子
 afqe 菱角
 afqi 贰兆
 afqk 著名
+afql 区块链
 afqq 墓志铭
 afqw 莰
 afqw 蒋士铨
@@ -7666,6 +7667,7 @@ awlk 恭贺
 awll 草食男
 awll 花田
 awlm 花轴
+awlm 茶轴
 awlm 共轴
 awlp 花边
 awlt 苍鹭
@@ -11482,6 +11484,7 @@ bsnu 阿飞
 bsny 也可以说
 bsny 也可以
 bsot 耳机族
+bsov 随机数
 bspe 阿家
 bspj 阿鲁
 bsqk 陈述句
@@ -24993,6 +24996,7 @@ dyfp 太过
 dyfq 太元
 dyfq 太远
 dyfr 三言二拍
+dyft 面试者
 dyft 大主教
 dyft 奉为圭臬
 dyft 大主考
@@ -26508,7 +26512,7 @@ efst 悬索桥
 efst 脚柞
 efsu 脚梯
 efsu 猪栏
-eft 爰
+eft 猪
 eftc 爰
 eftd 肤辞
 eftf 脚行
@@ -41369,6 +41373,7 @@ gelg 两用车
 gelj 一脚踢
 gell 青田
 gell 甫田
+gelm 青轴
 geln 静思
 gelq 青罗
 gelt 靓图
@@ -42911,7 +42916,6 @@ ggtf 一街
 ggtf 一行
 ggtf 五行
 ggtf 琵琶行
-ggtf 不平等
 ggtg 环生
 ggtg 一生
 ggtg 天下第一
@@ -51823,6 +51827,7 @@ hgvc 上班奴
 hgvh 睫
 hgvh 目不忍睹
 hgvp 目不忍视
+hgwa 上一代
 hgwh 上一个
 hgwp 目不斜视
 hgwy 止不住
@@ -52714,6 +52719,7 @@ hkat 点医
 hkay 战
 hkbb 点子
 hkbc 战取
+hkbl 点阵
 hkbl 战阵
 hkbm 点出
 hkbn 占了
@@ -56308,6 +56314,7 @@ ifrt 汗手
 ifru 法拉
 ifrv 潮热
 ifrv 潜热
+ifsa 小规模
 ifsb 河南梆子
 ifsc 法权
 ifsc 小老树
@@ -59751,6 +59758,7 @@ ilx 漯
 ilxe 滑轮组
 ilxi 漯
 ily 浞
+ilya 活跃度
 ilye 水田衣
 ilyf 水力充填坝
 ilyh 深思熟虑
@@ -79085,6 +79093,7 @@ lfll 畦田
 lfll 园田
 lfll 转圜
 lflm 转轴
+lflm 黑轴
 lfln 默思
 lfln 转辗
 lflp 黑边
@@ -80603,6 +80612,7 @@ ljaw 罪孽
 ljaw 田野工作
 ljaw 四照花
 ljbb 辊子
+ljbn 踢了
 ljbu 罪障
 ljcn 跑野马
 ljd 罪
@@ -80684,6 +80694,7 @@ ljra 踢里拖落
 ljrh 回归年
 ljrk 踝拐
 ljrp 因时制宜
+ljrq 踢的
 ljrq 罪魁
 ljrs 踢打
 ljry 因果报应
@@ -82468,6 +82479,7 @@ lqrc 跑反
 lqrd 跪拜
 lqrd 罗拜
 lqre 囫
+lqrf 罗技
 lqrh 跪爬
 lqrh 跑掉
 lqrh 跳扑
@@ -87260,6 +87272,7 @@ mrii 迪拜泡沫
 mrjd 贩非
 mrkk 肉制品
 mrkn 购物中心
+mrlg 购物车
 mrls 同气连枝
 mrme 崴拉骨
 mrmr 嵬嵬
@@ -111074,8 +111087,10 @@ qvlg 煞车
 qvlh 急足
 qvlk 急躁
 qvlk 银圆
+qvlm 银轴
 qvln 镴
 qvlq 危如累卵
+qvmh 键帽
 qvmm 银山
 qvmq 争购
 qvmq 争风
@@ -111188,6 +111203,7 @@ qvti 银箔
 qvtj 争得
 qvtj 急得
 qvtj 争利
+qvtk 键程
 qvtl 急务
 qvtm 银币
 qvto 煞
@@ -115391,6 +115407,7 @@ rhgj 看更
 rhgj 特惠
 rhgj 物理
 rhgk 牾
+rhgk 牛逼
 rhgk 年事
 rhgk 物事
 rhgl 年画
@@ -116687,6 +116704,7 @@ rjpw 揭穿
 rjpw 提究
 rjpy 提神
 rjq 揭
+rjqa 排错
 rjqd 排危
 rjqe 排解
 rjqf 提钱
@@ -120783,6 +120801,7 @@ rrll 手舞足蹈
 rrll 挨挨蹭蹭
 rrll 白田
 rrll 殷殷田田
+rrlm 白轴
 rrln 抵抗力
 rrln 魄力
 rrln 反推力
@@ -133598,6 +133617,7 @@ tdlh 短足
 tdlh 笼罩
 tdlk 刮躁
 tdll 籍田
+tdlm 矮轴
 tdln 智力
 tdln 筹思
 tdlq 乱跑
@@ -134501,6 +134521,7 @@ tetk 稻种
 tetk 船程
 tetk 租种
 tetk 盘程
+tetl 微服务
 tetl 航务
 tetl 船务
 tetm 透射
@@ -159894,6 +159915,7 @@ wgyh 倒店
 wgyi 便应
 wgyi 便就
 wgyj 保不齐
+wgyj 公开课
 wgyj 合剂
 wgyk 化整为零
 wgyk 食不充口
@@ -167548,6 +167570,7 @@ xakj 练唱
 xakk 绕口
 xakn 红霞
 xakr 红啤
+xalm 红轴
 xalq 绒鸭
 xals 强基固本
 xalt 红路
@@ -174078,6 +174101,7 @@ ygti 主簿
 ygtj 说不得
 ygtj 夜来香
 ygtk 语种
+ygtk 主程
 ygtm 主币
 ygtm 请向
 ygto 评释
@@ -180367,6 +180391,7 @@ yxtf 壅
 yxtf 玄德
 yxtg 畜生
 yxtg 玄策
+yxth 高级版
 yxtk 谐和
 yxtk 雍和
 yxtm 庇身
