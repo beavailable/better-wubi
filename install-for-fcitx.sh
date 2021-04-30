@@ -15,3 +15,7 @@ txt2mb <(./convert.py fcitx) /usr/share/fcitx/table/$dict
 
 pattern="s/^(UniqueName=).+\$/\1better-wubi/;s/^(Name.*=).+\$/\1better-wubi/;s?^File=.+\$?File=$dict?"
 sed -E "$pattern" $conf_wbx >$conf
+
+sudo -Eu $SUDO_USER bash <<EOF
+qdbus org.fcitx.Fcitx /inputmethod Restart >/dev/null
+EOF
