@@ -42,7 +42,7 @@ if [ $EUID != 0 ]; then
     exit 1
 fi
 if which fcitx &>/dev/null; then
-    installl_for_fcitx
+    install_for_fcitx
 elif which fcitx5 &>/dev/null; then
     install_for_fcitx5
 else
