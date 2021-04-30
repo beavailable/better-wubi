@@ -105,20 +105,11 @@
 ### fcitx
 ```shell
 # preinstall
-# sudo apt install fcitx fcitx-table-wubi fcitx-tools
+# fcitx: fcitx fcitx-table-wubi fcitx-tools
+# fcitx5: fcitx5 fcitx5-chinese-addons
 git clone --depth=1 https://github.com/beavailable/better-wubi.git
 cd better-wubi
 sudo -E ./install-for-fcitx.sh
-```
-之后添加`better-wubi`输入法即可。
-
-### fcitx5
-```shell
-# preinstall
-# sudo apt install fcitx5 fcitx5-chinese-addons
-git clone --depth=1 https://github.com/beavailable/better-wubi.git
-cd better-wubi
-sudo -E ./install-for-fcitx5.sh
 ```
 之后添加`better-wubi`输入法即可。
 
