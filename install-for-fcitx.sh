@@ -15,7 +15,7 @@ install_for_fcitx() {
     sed -E "$pattern" $conf_wbx >$conf
 
     sudo -Eu $SUDO_USER bash <<EOF
-dbus-send --type=method_call --dest=org.fcitx.Fcitx /inputmethod org.fcitx.Fcitx.InputMethod.Restart >/dev/null
+dbus-send --type=method_call --dest=org.fcitx.Fcitx /inputmethod org.fcitx.Fcitx.InputMethod.Restart
 EOF
 }
 install_for_fcitx5() {
