@@ -106,7 +106,7 @@
 ```shell
 # preinstall
 # fcitx: fcitx fcitx-table-wubi fcitx-tools
-# fcitx5: fcitx5 fcitx5-chinese-addons
+# fcitx5: fcitx5 fcitx5-chinese-addons libime-bin
 git clone --depth=1 https://github.com/beavailable/better-wubi.git
 cd better-wubi
 sudo -E ./install-for-fcitx.sh
