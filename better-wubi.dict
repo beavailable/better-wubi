@@ -8628,6 +8628,7 @@ bagu 出其不意
 bagu 陈平
 bahc 陈皮
 bahj 陈旧
+bahk 子节点
 bai 陈
 bais 子牙河
 bais 陈酒
@@ -8783,6 +8784,7 @@ bbjq 陈子昂
 bbk 𠙶
 bbkf 子叶
 bbkk 孤孤零零
+bbkk 子串
 bbkk 子口
 bbkk 孢子器
 bbkm 子嗣
@@ -11451,6 +11453,7 @@ bsfd 阿城
 bsff 阿堵
 bsfj 阿井
 bsfm 阿坝
+bsfn 子模块
 bsft 阿者
 bsgn 阿瓦
 bsh 耵
@@ -12481,6 +12484,7 @@ bygc 陆离斑驳
 bygg 阿育王
 bygj 孔席不暖
 bygk 隔离带
+bygq 子序列
 byhi 陔步
 byi 孓
 byig 陈文清
@@ -18922,7 +18926,6 @@ dgqd 砰然
 dgqd 石锛
 dgqe 三角
 dgqe 感触
-dgqe 右下角
 dgqe 石斛
 dgqe 硬解
 dgqe 石蟹
@@ -31009,6 +31012,7 @@ fexf 专用线
 fexw 动脉粥样硬化
 fey 圾
 feyb 走狗烹
+feyn 老用户
 feys 真爱恋检
 feyy 圾
 ff 墙
@@ -32091,6 +32095,7 @@ fglt 二路
 fglt 干路
 fglt 起死回生
 fglt 地形图
+fglt 无环图
 fglw 二轮
 fglw 十界
 fglx 干累
@@ -35632,6 +35637,7 @@ fnqf 卖钱
 fnqf 亏钱
 fnqf 磬钱
 fnqg 朝发夕至
+fnqh 场外
 fnqi 专销
 fnqi 声乐
 fnqk 声名
@@ -36473,6 +36479,7 @@ fpym 过市
 fpyn 过户
 fpyn 过房
 fpyn 过望
+fpyn 老客户
 fpyo 填字谜
 fpyo 过访
 fpyt 云家庭
@@ -38119,6 +38126,7 @@ ftug 老美
 ftuh 南征北战
 ftuh 老丫
 ftui 志得意满
+ftuj 进程间
 ftuj 考竟
 ftuj 耆童
 ftuk 老总
@@ -55927,6 +55935,7 @@ ifce 潜通
 ifcg 沄
 ifci 常规能源
 ifcl 溘
+ifcs 满二叉树
 ifcy 法
 ifdc 法码
 ifdd 汗碱
@@ -71586,6 +71595,7 @@ kah 呀
 kaha 哄瞒
 kahh 霸上
 kahk 霸占
+kahk 叶节点
 kaht 呀
 kahw 嚼牙龈
 kaii 零薪水
@@ -71728,6 +71738,7 @@ katt 叶落知秋
 kaud 吃苦头
 kaud 咬牙关
 kaud 别苗头
+kauf 霸凌
 kaug 呓症
 kauj 嘶竭
 kaut 霸道
@@ -76317,6 +76328,7 @@ ksbe 中梗阻
 ksbp 忠于职守
 ksbr 吃柿子拣软的捏
 ksbt 霜降
+ksbu 中本聪
 ksdd 呆木大
 ksdd 呆大
 ksdg 霜威
@@ -77022,6 +77034,7 @@ kurh 咬掉
 kurh 咬扯
 kurt 咬手
 kusf 噂
+kusf 中关村
 kutd 咬舌
 kute 咬筋
 kutg 嗟重
@@ -78226,6 +78239,7 @@ lclk 轻躁
 lclq 轻软
 lclt 踊跃
 lclt 轧马路
+lclt 连通图
 lclt 轻略
 lclv 轻轨
 lclw 国台办
@@ -78849,10 +78863,9 @@ lfdg 田坑石
 lfdg 黑三
 lfdg 默感
 lfdh 默契
-lfdh 罚款套餐
+lfdh 转存
 lfdh 黠慧
 lfdh 默存
-lfdh 转存
 lfdm 转而
 lfdm 黑面
 lfdm 黥布
@@ -92352,6 +92365,7 @@ nrqd 忻然
 nrqd 惶然
 nrqe 犀牛角
 nrqf 忙投急趁
+nrqf 尾指针
 nrqv 惶急
 nrqv 快捷键
 nrrc 性选择
@@ -100593,6 +100607,7 @@ pjng 鳎
 pjng 冥司
 pjng 冥屋
 pjnt 审改
+pjnt 实时性
 pjox 定时炸弹
 pjpg 鳗鲡
 pjpg 审定
@@ -110624,6 +110639,7 @@ qtou 钎料
 qtov 角系数
 qtoy 锹
 qtpe 卿家
+qtpe 银行家
 qtpl 急行军
 qtpp 杀身之祸
 qtpt 象鼻鱼
@@ -121186,6 +121202,7 @@ rrtp 排气管
 rrtr 白鹅
 rrts 白条
 rrts 手提箱
+rrts 拆箱
 rrtt 反反复复
 rrtt 扫描笔
 rrtt 欣欣自得
@@ -121322,12 +121339,12 @@ rrwx 白货
 rrwy 抓住
 rrwy 白领
 rrwy 皈依
-rrwy 抗氧化剂
-rrwy 白令
-rrwy 扫描仪
-rrwy 朱执信
 rrwy 白食
 rrwy 白住
+rrwy 扫描仪
+rrwy 抗氧化剂
+rrwy 白令
+rrwy 朱执信
 rrxe 摄制组
 rrxf 折线
 rrxf 拆线
@@ -125054,6 +125071,7 @@ rygq 捽兀
 rygq 摔死
 rygt 技高一筹
 rygw 白衣天使
+rygw 反序列化
 rygx 攘夷
 rygx 抗毒
 ryh 掂
@@ -125303,9 +125321,9 @@ rytd 攘乱
 ryte 护航
 ryte 护盘
 ryte 抗租
-rytf 白衣秀士
 rytf 搞丢
 rytf 抗行
+rytf 白衣秀士
 rytg 造谣生事
 rytg 造言生事
 ryth 扩延
@@ -125569,6 +125587,7 @@ sagx 瓢菌素
 sahh 柜上
 sahh 横目
 sahk 梅花点
+sahk 根节点
 sahv 桃花眼
 sahv 梅花眼
 sahw 模具
@@ -133841,6 +133860,7 @@ tdry 乱搞
 tdry 逢掖
 tdsa 矢棋
 tdsc 私有权
+tdsc 生成树
 tdsd 矢橛
 tdsf 生态村
 tdsf 程套票
@@ -145518,6 +145538,7 @@ ueyi 瘃
 ueyj 煎剂
 ueyn 前房
 ueyn 前记
+ueyn 新用户
 ueys 剪床
 ueyt 前庭
 ueyw 前夜
@@ -149061,6 +149082,7 @@ upyg 旁评
 upyi 冶容诲淫
 upyi 帝京
 upyj 差之毫厘，谬以千里
+upyn 新客户
 upyt 帝庭
 upyw 决定论
 uq 交
@@ -149747,6 +149769,7 @@ urpw 首丘之念
 urpy 首丘之望
 urq 冼
 urqc 郑振铎
+urqf 头指针
 urqj 新气象
 urqn 冼
 urqs 次按危机
@@ -151651,6 +151674,7 @@ uwje 冷暖
 uwje 闪明
 uwjf 准时
 uwjg 准是
+uwjg 净含量
 uwjh 益虫
 uwjh 疥虫
 uwjj 立体电影
@@ -156501,6 +156525,7 @@ wahc 人工皮
 wahh 坐萝卜
 wahi 代步
 wahj 供桌
+wahk 父节点
 waht 伢
 wahx 借此
 waid 人工湖
@@ -162974,6 +162999,7 @@ wrww 假手他人
 wrwx 件货
 wrwy 佚
 wrxe 低年级
+wrxe 优先级
 wrxg 伯彝
 wrxg 伯母
 wrxj 俯拾皆是
@@ -163068,6 +163094,7 @@ wsfj 何进
 wsfj 休刊
 wsfj 斜井
 wsfk 何鼓
+wsfn 父模块
 wsfo 公西赤
 wsft 何者
 wsft 谷歌替身
@@ -165061,6 +165088,7 @@ wvwv 分岔
 wvwv 忿忿
 wvwv 仇仇
 wvww 仇人
+wvww 创始人
 wvww 伊人
 wvww 分众
 wvww 八九分人
@@ -167045,8 +167073,6 @@ wyrk 伪造
 wyrk 依靠
 wyrk 停靠
 wyrk 领扣
-wyrk 做广告
-wyrl 体育舞蹈
 wyrl 领舞
 wyrl 停摆
 wyrm 坐床撒帐
@@ -167354,7 +167380,6 @@ wywt 信凭
 wywt 做夜作
 wywu 领位
 wywu 偏倍
-wywu 体育俱乐部
 wywu 依傍
 wywv 食分
 wywv 伉健
@@ -169390,6 +169415,7 @@ xlny 缌
 xlny 细心
 xloo 细火
 xlos 引路灯
+xlou 比较烂
 xlov 细数
 xlow 细粉
 xloy 细粮
@@ -169449,6 +169475,7 @@ xlvg 细姨
 xlvt 细君
 xlvv 幼女
 xlwf 细佬
+xlwq 比较低
 xlws 幼体
 xlws 比较价格
 xlwt 细作
@@ -169480,6 +169507,7 @@ xlyg 细语
 xlyg 缩略语
 xlyi 比较文学
 xlyi 比较语言学
+xlym 比较高
 xlyo 细谈
 xlyq 细底
 xlyu 细说
@@ -174255,6 +174283,7 @@ ygww 证人
 ygww 主从
 ygww 主坐
 ygww 请坐
+ygwx 序列化
 ygwy 主食
 ygwy 主依
 ygwy 证伪
