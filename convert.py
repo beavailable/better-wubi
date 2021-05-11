@@ -6,9 +6,7 @@ if len(sys.argv) < 2:
     print(f'usage: {os.path.basename(sys.argv[0])} config-dir')
     sys.exit(1)
 
-name = sys.argv[1]
-if name.endswith('/'):
-    name = name[:-1]
+name = sys.argv[1].rstrip('/')
 
 head = f'{name}/head'
 if os.path.isfile(head):
