@@ -19084,7 +19084,9 @@ dgte 三秀
 dgte 硬盘
 dgte 石舫
 dgtf 三千
+dgtf 三行
 dgtf 三等
+dgtf 三毛
 dgtf 威德
 dgtf 古德
 dgtf 三五行动
@@ -19092,7 +19094,6 @@ dgtf 春来秋去
 dgtf 三竿
 dgtf 三德
 dgtf 感德
-dgtf 三行
 dgtg 石
 dgtg 三重
 dgtg 三生
@@ -36961,6 +36962,7 @@ fqut 无道
 fqut 远道
 fqut 顽疾
 fqut 无颜
+fquv 无痕
 fquw 无益
 fqux 远背
 fquy 远门
@@ -40044,6 +40046,7 @@ gatq 残茶剩饭
 gatq 静若处子，动若脱兔
 gatr 弄巧翻拙
 gats 开条
+gats 开箱
 gatt 与世长辞
 gatt 开笔
 gatt 弄笔
@@ -46389,6 +46392,7 @@ gmtd 丽辞
 gmte 刺透
 gmte 刺船
 gmtf 两千
+gmtf 两毛
 gmtf 刺毛
 gmtf 丙午
 gmtf 现行
@@ -49159,6 +49163,7 @@ gtut 天知道
 gtuw 平行六面体
 gtux 不得善终
 gtvb 弄得好
+gtve 开箱即用
 gtvg 不知好歹
 gtvg 不得好死
 gtvn 天竺鼠
@@ -59564,6 +59569,7 @@ ikst 灞桥
 iktc 小口径
 iktd 溃乱
 ikte 敞口船
+ikth 泄露版
 ikth 灌唱片
 ikts 混嚼舌根
 ikty 满口答应
@@ -76229,6 +76235,7 @@ krkr 吽吽
 krkt 啖指咬舌
 krkv 肆拾肆
 krkv 呱唧
+krkw 听啥
 krlb 另搭架子
 krlf 吃氛围
 krln 震撼力
@@ -80386,14 +80393,15 @@ lhtd 路上行人口似碑
 lhtd 罩笼
 lhtd 四知
 lhte 跳皮筋
-lhtf 跛行
-lhtf 甲午
 lhtf 四千
+lhtf 四行
 lhtf 四等
+lhtf 四毛
+lhtf 甲午
 lhtf 甲等
+lhtf 跛行
 lhtf 固步自封
 lhtf 四德
-lhtf 四行
 lhtg 四垂
 lhtg 四生
 lhth 四处
@@ -82739,6 +82747,7 @@ lrhh 贺年卡
 lrhh 回拨卡
 lrhk 转折点
 lrhk 转捩点
+lrib 连接池
 lrii 跌水
 lrii 黑白混淆
 lrip 轻描淡写
@@ -88558,6 +88567,7 @@ nagc 异致
 nagd 心若死灰
 nagd 民天
 nagf 展玩
+nagg 懂王
 nagh 民政
 nagh 殿下
 nagi 懂不
@@ -92386,8 +92396,8 @@ nrqd 惶然
 nrqe 犀牛角
 nrqf 忙投急趁
 nrqf 尾指针
-nrqv 惶急
 nrqv 快捷键
+nrqv 惶急
 nrrc 性选择
 nrrf 蛋白质
 nrri 惜指失掌
@@ -93680,6 +93690,7 @@ nuyv 以次充好
 nuyw 性善论
 nuyx 发病率
 nuyx 收益率
+nuyx 刷新率
 nuyy 悯
 nv 恨
 nvad 恨苦
@@ -97877,6 +97888,7 @@ owrr 粉白
 owrr 粉拍
 owrv 熔化热
 owrx 粉拂
+owsg 类似于
 owsg 粉本
 owsp 糊假棺
 owsr 粉板
@@ -101145,6 +101157,7 @@ pmxu 冗弱
 pn 密
 pnaa 农民工
 pnab 安怀医院
+pnad 实习期
 pnad 突尼斯
 pnad 密斯
 pnad 密茂
@@ -115605,6 +115618,7 @@ rhks 看呆
 rhkt 扯呼
 rhkt 攫噬
 rhkv 看雪
+rhkw 看啥
 rhky 看嘛
 rhlc 年轻
 rhlc 看轻
@@ -126509,6 +126523,7 @@ sefu 极境
 sega 极刑
 segc 极致
 segi 极不
+segk 极速
 segl 椎胸顿足
 segq 棚裂
 sehh 极目
@@ -136149,6 +136164,7 @@ tgoo 自来火
 tgoq 重炮
 tgoq 重燃
 tgoq 熏灼
+tgot 重放
 tgot 生放
 tgot 征旆
 tgou 生料
@@ -138724,6 +138740,8 @@ tlrq 备选
 tlrr 篾白
 tlru 智力投资
 tlru 血拼
+tlru 长连接
+tlru 短连接
 tlry 科罗拉多州
 tlsc 管辖权
 tlsg 血本
@@ -158070,6 +158088,7 @@ wedm 人猿泰山
 wedt 使用面积
 wedw 八月春
 weet 体膨胀
+wefa 作用域
 wefi 仍未
 weft 使用者
 wefu 傒幸
@@ -170658,6 +170677,7 @@ xthp 𫄧
 xthw 引入歧途
 xthx 绛紫
 xtia 张德江
+xtib 线程池
 xtif 纤尘
 xtif 统筹法
 xtih 纤小
@@ -171339,6 +171359,7 @@ xwqk 纵逸
 xwqn 纪念馆
 xwqn 绘饰
 xwqv 纷争
+xwqv 组合键
 xwqw 强作解人
 xwqx 疑人勿用，用人勿疑
 xwqx 疑人勿使，使人勿疑
@@ -177522,6 +177543,7 @@ ypgc 言之不预
 ypgd 亮天
 ypgd 这天
 ypgg 𬣞
+ypgg 这一
 ypgg 衣冠不整
 ypgg 衣衫不整
 ypgg 齐宣王
