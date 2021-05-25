@@ -1811,6 +1811,7 @@ affo 节孝坊
 affp 贰过
 affq 七十二地煞
 afft 劳动者
+afft 攻击者
 afft 著者
 afft 七十二行
 affu 蔡元培
@@ -9227,6 +9228,7 @@ bdwi 孤辰合注
 bdwk 承保
 bdwl 承佃
 bdwp 取而代之
+bdwq 随你
 bdwt 承任
 bdwu 随伴
 bdwv 随分
@@ -12382,7 +12384,7 @@ bwwd 险段
 bwwf 联合会
 bwwf 附会
 bwwg 队伍
-bwwg 出人命
+bwwg 随你便
 bwwg 附合
 bwwj 阿伏伽德罗常量
 bwwo 联合企业
@@ -12853,6 +12855,7 @@ ccfn 双声
 ccfn 叠声
 ccfn 垒块
 ccfq 又无
+ccft 又都
 ccft 骏才
 ccfw 双规
 ccfw 垒堆
@@ -16094,7 +16097,7 @@ dbfu 大出丧
 dbgd 三阳开泰
 dbgd 艳阳天
 dbgk 原子武器
-dbgn 有限责任公司
+dbgw 有限责任
 dbgy 有限政府
 dbha 顾虑
 dbhg 顾眄
@@ -30012,9 +30015,10 @@ fbgk 地带
 fbgk 无聊赖
 fbgk 地豆
 fbgl 城际列车
-fbgn 无限责任公司
 fbgt 无孔不入
 fbgt 墩子武生
+fbgu 袁隆平
+fbgw 无限责任
 fbh 邗
 fbhc 地皮
 fbhh 地上
@@ -37560,6 +37564,7 @@ ftbp 考院
 ftbt 教
 ftbu 埏隧
 ftca 老劲
+ftcc 才又
 ftcd 教参
 ftcd 老参
 ftce 才能
@@ -44415,6 +44420,7 @@ gird 不振
 gird 不拔
 girf 不挂
 girg 不遑
+girh 不掉
 girh 不特
 girh 青少年
 girh 正当年
@@ -45694,6 +45700,7 @@ gkww 逗人
 gkww 吾人
 gkww 一口价
 gkwx 融化
+gkwx 带货
 gkwy 带领
 gkwy 敕令
 gkwy 副食
@@ -49652,6 +49659,7 @@ gutj 平利
 gutk 平和
 gutk 夹和
 gutm 平躺
+gutm 下半身
 gutm 平身
 gutn 整装待发
 gutq 不准翻印
@@ -59932,6 +59940,7 @@ imfh 没走
 imfh 滑坡
 imfh 没趣
 imfi 尚未
+imfi 没救
 imfj 油井
 imfj 滑塌
 imfn 没卖
@@ -93217,6 +93226,7 @@ ntwt 发傻
 ntwt 懊伤
 ntwu 心身俱瘁
 ntwu 履位
+ntwv 性侵
 ntwv 性分
 ntww 性欲
 ntww 发行价
@@ -93679,6 +93689,7 @@ nuwt 习作
 nuww 习俗
 nuww 飞人
 nuww 买价
+nuwx 局部化
 nuwx 愣头货
 nuwy 飞禽
 nuwy 慰问信
@@ -101483,6 +101494,7 @@ ppad 空窗期
 ppad 之苦
 ppae 农家菜
 ppaf 空军基地
+ppag 之七
 ppag 安之若素
 ppaj 安安蓝
 ppak 窝窝鞋
@@ -101532,6 +101544,7 @@ ppfb 之地
 ppfc 之魂
 ppff 实寄封
 ppfg 之二
+ppfg 之十
 ppfg 之士
 ppfi 祸福无常
 ppfi 灾害救济
@@ -101549,10 +101562,11 @@ ppfy 鱼鳞坑
 ppgc 之至
 ppgf 宇宙环境
 ppgg 之一
+ppgg 之五
+ppgg 之王
 ppgg 安安静静
 ppgg 字字珠玑
 ppgg 字字珠玉
-ppgg 之王
 ppgh 之下
 ppgj 之理
 ppgk 之事
@@ -101599,6 +101613,7 @@ ppkk 突突囔囔
 ppkk 窝窝别别
 ppkp 富裕中农
 pplg 之国
+pplh 之四
 pplj 之罪
 pplk 神农架
 ppln 之力
@@ -101734,8 +101749,9 @@ ppuq 之交
 pput 之首
 ppuu 神神道道
 ppuu 窝窝瘪瘪
-ppuy 鳏寡效应
+ppuy 之六
 ppuy 之门
+ppuy 鳏寡效应
 ppv 𩽾
 ppvb 空空如也
 ppvf 宾客如云
@@ -101743,6 +101759,7 @@ ppvg 𩽾
 ppvn 褐家鼠
 ppvo 之灵
 ppvr 空空妙手
+ppvt 之九
 ppvu 之嫌
 ppvv 之女
 ppwc 富家翁
@@ -101751,6 +101768,7 @@ ppwf 赛神会
 ppwp 官宦人家
 ppwq 之父
 ppws 之余
+ppwt 之八
 ppwt 之作
 ppwt 之任
 ppwu 客家八音
@@ -130229,6 +130247,7 @@ srkf 柏叶
 srkg 梏
 srkk 模拟器
 srkk 禁制品
+srkk 构造器
 srkr 西撒哈拉
 srla 株距
 srlf 歌舞团
@@ -131743,6 +131762,7 @@ svay 要荒
 svbb 根子
 svbb 要子
 svbk 要职
+svbm 要出
 svbn 要了
 svbu 要隘
 svbw 根除
@@ -135619,6 +135639,7 @@ tfwq 行像
 tfws 午休
 tfws 微博体
 tfwt 第二人称
+tfwv 千分
 tfwv 等分
 tfwv 千仞
 tfwv 乖分
@@ -144315,8 +144336,9 @@ udbm 送祟
 udbm 送出
 udbm 送聘
 udbm 关聘
-udbn 冷面孔
 udbn 关了
+udbn 减了
+udbn 冷面孔
 udbo 关防
 udbp 头陀
 udbs 卷阿
@@ -158246,6 +158268,7 @@ wfbg 侍卫
 wfbg 付耳
 wfbl 八卦阵
 wfbm 付出
+wfbm 会出
 wfbm 传出
 wfbn 会了
 wfbn 祭孔
@@ -161915,6 +161938,7 @@ wnwu 全心全意
 wnwu 全民公决
 wnwu 合心合意
 wnwu 公司债券
+wnwv 亿分
 wnwv 人情分
 wnww 领导人
 wnww 人民代表大会
@@ -165920,6 +165944,7 @@ wwtj 偷得
 wwtk 人种
 wwtk 人和
 wwtl 俗务
+wwtl 人血
 wwtm 人身
 wwtm 耸身
 wwtm 人役
@@ -173392,6 +173417,7 @@ yfbj 诗云子曰
 yfbm 读出
 yfbm 讲出
 yfbn 读了
+yfbn 讲了
 yfbp 庄院
 yfbq 毫无逊色
 yfbq 讳隐
