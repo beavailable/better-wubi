@@ -1619,7 +1619,6 @@ aerg 散兵
 aerh 菜牛
 aero 黄胖摏年糕
 aerq 获选
-aerq 散的
 aerr 散白
 aers 散打
 aert 散播
@@ -8695,6 +8694,7 @@ baue 陈毅
 baug 陈世美
 baug 陈其美
 baug 陈病
+bauj 子菜单
 bauj 出世间
 bauq 辽东半岛
 bavf 阿其那
@@ -10706,12 +10706,14 @@ bnhx 了些
 bnig 了清
 bnih 也小
 bnih 也波
-bnim 孔洞
 bnim 也没
+bnim 了没
+bnim 孔洞
 bnip 也常
 bnit 了劣
 bniv 了当
 bniw 孔雀
+bnjd 也非
 bnje 孔明
 bnjg 也是
 bnka 了呀
@@ -10772,7 +10774,6 @@ bnrh 也看
 bnrh 附属物
 bnro 隐性失业
 bnrq 也先
-bnrq 了的
 bnrt 了手
 bnrt 也挺
 bnrw 随心所欲
@@ -13747,7 +13748,6 @@ cfrh 对年
 cfrh 圣物
 cfrk 对擂
 cfrq 对换
-cfrq 对的
 cfrr 对白
 cfrr 对折
 cfrr 圣哲
@@ -15502,7 +15502,6 @@ cwrg 通信兵
 cwrh 验看
 cwrh 难看
 cwrl 双人舞
-cwrq 难的
 cwrs 难打
 cwry 难搞
 cws 𬳿
@@ -17369,7 +17368,6 @@ ddyy 厚厚敦敦
 ddyy 胡厥文
 de 胡
 deab 有节
-dead 有其
 dead 胡茬
 dead 有若
 dead 有期
@@ -17389,7 +17387,6 @@ debe 辜胜阻
 debh 郁
 debi 有隙
 debn 有了
-debq 有聊
 debu 大脖子病
 debu 大肚子痞
 debv 有限
@@ -17584,7 +17581,6 @@ depf 有守
 depg 有室
 depp 有之
 dept 有客
-depu 有被
 depv 有案
 depw 有空
 depw 有穷
@@ -17619,8 +17615,8 @@ dern 耍脾气
 dern 左脾气
 dern 郁气
 dero 胡搂
-derq 有鬼
 derq 有的
+derq 有鬼
 derq 砍脑鬼
 derq 胡捣
 dert 胡揪
@@ -17636,9 +17632,9 @@ desg 硼酸
 desg 硬脂酸
 desh 胡椒
 desh 胡想
+desm 有机
 desm 胡桐
 desm 大腹贾
-desm 有机
 desn 胡杨
 desq 胡桃
 desu 胡梯
@@ -17745,7 +17741,6 @@ deym 胡调
 deyn 有望
 deyn 胡亥
 deyo 有变
-deyp 有这
 deyq 有底
 deyq 胡诌
 deyr 有庳
@@ -18905,6 +18900,7 @@ dgoq 大政方针
 dgot 三族
 dgot 有理方程
 dgou 石料
+dgou 三粒
 dgou 大开方便之门
 dgov 有理数
 dgoy 三方
@@ -19026,7 +19022,6 @@ dgrn 古气
 dgrn 硬扎
 dgrp 三天打鱼
 dgrp 威迫
-dgrq 硬的
 dgrq 硬挣
 dgrq 硬正气儿
 dgrq 古先
@@ -19404,7 +19399,6 @@ dhab 丰茸
 dhad 丰茂
 dhad 存项
 dhad 契勘
-dhad 在其
 dhae 破散
 dhae 破获
 dhae 丰获
@@ -19449,7 +19443,6 @@ dhbt 丰隆
 dhbw 破除
 dhc 破
 dhce 慧能
-dhcf 在对
 dhck 丰台
 dhcy 破
 dhd 慧
@@ -19459,7 +19452,6 @@ dhdc 契友
 dhdc 戚友
 dhdd 丰硕
 dhde 存有
-dhde 在有
 dhde 百战百胜
 dhdf 砉
 dhdg 砧石
@@ -19488,7 +19480,6 @@ dhdm 破布
 dhdn 慧
 dhdn 丰盛
 dhdr 丰碑
-dhdt 在帮
 dhdv 彗
 dhdy 破碎
 dhea 夏腊
@@ -19502,7 +19493,6 @@ dhee 面目狰狞
 dheg 𬒔
 dheg 夏县
 dheg 丰县
-dheh 在用
 dhej 破胆
 dhem 丰腆
 dheq 丰胸
@@ -19591,7 +19581,6 @@ dhil 蹙
 dhim 破洞
 dhin 夏汛
 dhip 在堂
-dhip 在学
 dhip 戚党
 dhiq 有眼光
 dhis 夏河
@@ -19640,7 +19629,6 @@ dhkk 破口
 dhkk 戚串
 dhkl 破露
 dhkq 艳史
-dhkr 在听
 dhkv 在哪
 dhkw 帮虎吃食
 dhlf 破墨
@@ -19682,7 +19670,6 @@ dhnh 蹙眉
 dhnh 夏收
 dhnk 破壁
 dhnn 破局
-dhnn 在已
 dhnn 破书
 dhnn 契己
 dhnn 夏羽
@@ -19780,7 +19767,6 @@ dhrd 蹙拢
 dhrf 慧质
 dhrg 太上皇
 dhrh 丰年
-dhrh 在看
 dhrh 破掉
 dhrh 大眼看小眼
 dhrk 破损
@@ -19791,11 +19777,9 @@ dhrn 在握
 dhrn 契据
 dhrn 存据
 dhrp 蹙迫
-dhrq 在的
-dhrq 破的
+dhrq 在先
 dhrq 面皮失色
 dhrq 戚欣
-dhrq 在先
 dhrr 存折
 dhrt 顾此失彼
 dhru 慧皎
@@ -19893,7 +19877,6 @@ dhuj 大餐间
 dhuj 戚意
 dhuj 存单
 dhuk 存问
-dhuk 在问
 dhum 破敝
 dhuo 破瘀
 dhup 在旁
@@ -19955,9 +19938,9 @@ dhww 存坐
 dhww 破俗
 dhww 在坐
 dhwx 存货
+dhwx 在华
 dhwx 大点化
 dhwx 丰华
-dhwx 在华
 dhwx 破货
 dhwy 存储
 dhwy 夏令
@@ -19974,7 +19957,6 @@ dhxq 契约
 dhxq 破约
 dhxq 契纸
 dhxt 存疑
-dhxw 在给
 dhxy 在编
 dhya 丰度
 dhya 在席
@@ -20007,7 +19989,6 @@ dhyp 在这
 dhyp 戚谊
 dhyq 存底
 dhyt 夏庭
-dhyu 在说
 dhyu 在谱
 dhyu 破说
 dhyu 艳说
@@ -26886,7 +26867,6 @@ egrm 悬揣
 egrm 猜揣
 egrn 悬拟
 egrn 狂气
-egrq 猜的
 egrq 助选
 egrt 助手
 egrv 狂热
@@ -27126,7 +27106,6 @@ ehrh 用特
 ehrl 肚皮舞
 ehrl 狐步舞
 ehrq 独具特色
-ehrq 用的
 ehrt 用手
 ehrw 狗眼看人低
 ehsc 用权
@@ -30401,6 +30380,7 @@ fcit 云海
 fciu 云滴
 fciw 云雀
 fciy 支流
+fcjd 却非
 fcje 劫盟
 fcjf 索马里
 fcjf 去暑
@@ -30561,7 +30541,6 @@ fcrn 运气
 fcrn 云气
 fcrn 动气
 fcrn 支拨
-fcrq 去的
 fcrq 运抵
 fcrq 动换
 fcrr 魂魄
@@ -31420,6 +31399,7 @@ ffmq 土风
 ffmr 地动山摇
 ffmr 土贩
 ffmu 封赠
+ffmw 墙内
 ffmw 越城岭
 ffmw 垃圾邮件
 ffn 圬
@@ -31519,6 +31499,7 @@ ffqd 赧赧然
 ffqe 墙角
 ffqe 圭角
 ffqg 封印
+ffqh 墙外
 ffqi 封锁
 ffqi 塔塔尔
 ffqi 赫赫名流
@@ -31570,7 +31551,6 @@ ffrm 土制
 ffrm 封缸
 ffrn 土气
 ffrp 堵控
-ffrq 封的
 ffrq 鼓鼓的
 ffrq 越越的
 ffrr 丧魂失魄
@@ -32276,7 +32256,6 @@ fgrh 夫妻反目
 fgrh 博物
 fgrj 博揽
 fgrn 士气
-fgrq 坏的
 fgrq 替死鬼
 fgrq 地下的
 fgrq 地理鬼
@@ -33230,7 +33209,6 @@ fhrn 赶气
 fhrp 走近
 fhrp 直迫
 fhrq 真的
-fhrq 走的
 fhrq 直抵
 fhrq 直捣
 fhrq 起先
@@ -34351,7 +34329,6 @@ fjrn 走时气
 fjrn 进据
 fjro 无影手术灯
 fjrp 进迫
-fjrq 进的
 fjrq 进抵
 fjrq 真是的
 fjrr 坦白
@@ -36396,7 +36373,6 @@ fprh 过牧
 fprh 吉祥物
 fprk 索捐
 fprn 过气
-fprq 过的
 fprq 过先
 fprq 老祖先
 fprr 过逝
@@ -38088,8 +38064,8 @@ ftrn 才气
 ftrn 超重氢
 ftrn 老扎
 ftrq 老的
-ftrq 都鬼
 ftrq 老鬼
+ftrq 都鬼
 ftrq 老挑
 ftrq 老先
 ftrr 未知所措
@@ -40549,7 +40525,6 @@ gcra 下马看花
 gcrg 恶叉白赖
 gcrh 融通物
 gcrj 至圣先师
-gcrq 到的
 gcrt 不矛盾律
 gcrt 到手
 gcsd 到顶
@@ -42064,7 +42039,6 @@ gfrm 球缺
 gfro 天干物燥
 gfrp 天地鬼神
 gfrp 球探
-gfrq 玩的
 gfrr 开场白
 gfrr 球拍
 gfrt 不去手
@@ -42797,8 +42771,8 @@ ggot 赖班族
 ggot 一族
 ggot 五环旗
 ggot 五族
-ggou 殊不料
 ggou 一粒
+ggou 殊不料
 ggov 一数
 ggov 正整数
 ggow 玻璃粉
@@ -44339,6 +44313,7 @@ gikt 不吃
 gikw 不只
 gikw 不唯
 gila 不羁
+gilc 不轻
 gilc 不辍
 gild 不因
 gild 不固
@@ -44518,9 +44493,9 @@ girm 两党制
 girn 不扬
 girp 不按
 girq 不拘
-girq 不的
 girq 不换
 girq 不抵
+girq 不的
 girq 不挑
 girs 不打
 girt 不托
@@ -45607,9 +45582,8 @@ gkrn 逗气
 gkrn 逼气
 gkrp 逼近
 gkrp 逼迫
-gkrq 事的
-gkrq 不咋的
 gkrq 事先
+gkrq 不咋的
 gkrs 逼打
 gkrt 束手
 gkrt 副手
@@ -45996,7 +45970,6 @@ glrh 致畸物
 glrl 画押
 glrm 屯田制
 glrn 一连气
-glrq 画的
 glrq 一连气儿
 glrq 开路先锋
 glrr 顿足搓手
@@ -46138,6 +46111,7 @@ gmcw 两难
 gmd 瑞
 gmdb 遭厄
 gmdc 两码
+gmdd 再大
 gmde 现有
 gmde 再有
 gmdf 丙辰
@@ -46185,6 +46159,7 @@ gmff 棘寺
 gmff 天崩地坍
 gmfg 瑞士
 gmfg 天崩地裂
+gmfg 再坏
 gmfg 刺干
 gmfh 再走
 gmfh 再起
@@ -46269,6 +46244,7 @@ gmid 两湖
 gmid 青山湖
 gmif 一败涂地
 gmig 两清
+gmih 再小
 gmii 棘
 gmii 丽水
 gmij 刺
@@ -46279,6 +46255,7 @@ gmip 两党
 gmiq 刺溜
 gmir 刺激
 gmir 两浙
+gmit 再少
 gmit 吞炭漆身
 gmiu 枣
 gmiu 现洋
@@ -46372,10 +46349,12 @@ gmny 棘心
 gmny 遭心
 gmny 再以
 gmod 两类
+gmoe 再粗
 gmoo 丙火
 gmop 丙烷
 gmoq 丙烯
 gmou 两粒
+gmou 再烂
 gmov 到岁数
 gmov 责数
 gmoy 两方
@@ -46416,6 +46395,7 @@ gmqk 丽句
 gmqn 现
 gmqn 一见钟情
 gmqq 现金
+gmqq 再多
 gmqq 瑞金
 gmqs 刺钉
 gmqs 刺杀
@@ -46491,9 +46471,12 @@ gmst 两枚
 gmst 刺楸
 gmsu 两样
 gmsv 两根
+gmta 再长
 gmtb 逦迤
 gmtd 遭逢
 gmtd 丽辞
+gmtd 再短
+gmtd 再矮
 gmte 刺透
 gmte 刺船
 gmtf 两千
@@ -46533,9 +46516,10 @@ gmu 责
 gmua 两瓶
 gmua 平山冷燕
 gmuc 刺痛
-gmud 再关
 gmud 现状
 gmud 两头
+gmud 再关
+gmud 再差
 gmud 刺头
 gmud 现券
 gmud 刺拳
@@ -46598,6 +46582,8 @@ gmwm 两侧
 gmwn 两亿
 gmwn 一见倾心
 gmwo 璀
+gmwq 再低
+gmwq 再像
 gmwr 两件
 gmws 天赋人权
 gmws 五内俱焚
@@ -46629,6 +46615,7 @@ gmxe 丙级
 gmxf 再续
 gmxi 青山绿水
 gmxk 枣强
+gmxl 再细
 gmxt 刺绣
 gmxu 两弹
 gmxw 不见经传
@@ -46645,6 +46632,7 @@ gmyg 鹂
 gmyh 再让
 gmyh 责让
 gmyj 两课
+gmym 再高
 gmym 刺讥
 gmyn 两遍
 gmyn 现房
@@ -47147,7 +47135,6 @@ gork 一炮打响
 gorn 恶气
 gorp 严控
 gorq 恶鬼
-gorq 来的
 gorr 来抓
 gorr 来哲
 gors 严打
@@ -47504,7 +47491,10 @@ gpsw 还枪
 gpsw 不守本分
 gpsw 不安本分
 gpsw 来福枪
+gpta 还长
 gptb 一字长蛇阵
+gptd 还短
+gptd 还矮
 gpte 还盘
 gptf 还行
 gptf 还迁
@@ -48012,7 +48002,6 @@ gqrm 裂罅
 gqrn 天然气
 gqrn 死气
 gqrq 死鬼
-gqrq 死的
 gqrq 兀的
 gqrq 残的
 gqrq 天杀的
@@ -49213,7 +49202,6 @@ gtsd 平衡棒
 gtse 再生橡胶
 gtsf 麦杆
 gtsg 不利于
-gtsg 不等于
 gtsh 豆重榆瞑
 gtsq 夹竹桃
 gtsr 下等植物
@@ -49701,7 +49689,6 @@ gurh 副产物
 guri 平泉
 gurj 麦盖提
 gurn 不送气
-gurq 平的
 gurq 平抑
 gurq 夹搀
 gurr 平白
@@ -51445,9 +51432,9 @@ harn 虚拟
 harn 虎气
 harn 虚气
 harp 觑探
+harq 虚的
 harq 占花魁
 harq 雌牙鬼
-harq 虚的
 harr 虎魄
 hars 虐打
 hart 眼花撩乱
@@ -52337,7 +52324,6 @@ hhrp 上控
 hhrq 目的
 hhrq 皮皮的
 hhrq 瞌睡鬼
-hhrq 上的
 hhrq 上选
 hhrr 上白
 hhrr 卡白
@@ -53033,8 +53019,6 @@ hkrn 点拨
 hkrp 觇探
 hkrq 点赞
 hkrq 点选
-hkrq 占的
-hkrq 点的
 hkrq 战鬼
 hkrq 占先
 hkrt 点播
@@ -54774,7 +54758,6 @@ iarn 港气
 iarn 沤气
 iarn 满拟
 iarp 满拧
-iarq 满的
 iarq 渠魁
 iarq 浪荡鬼
 iarq 掌鞭的
@@ -60323,10 +60306,10 @@ imrp 测控
 imrp 测探
 imrp 滑擦
 imrp 没探
+imrq 没的
 imrq 活见鬼
 imrq 油鬼
 imrq 滑鬼
-imrq 没的
 imrq 没挑
 imrt 油托
 imrv 油热
@@ -60783,7 +60766,6 @@ inri 汤泉
 inrm 汤罐
 inrn 漏气
 inro 烫
-inrq 漏的
 inrr 清蛋白
 inrt 汤
 inrt 烫手
@@ -62869,7 +62851,6 @@ irrl 举手投足
 irrm 汽缸
 irrn 激扬
 irrn 浩气
-irrq 洗的
 irrq 淘气鬼
 irrr 洗白
 irrs 激打
@@ -64018,8 +63999,6 @@ itrn 海氛
 itrn 少管所
 itrn 洛扎
 itro 洗鼻指数
-itrq 少的
-itrq 活的
 itrq 海选
 itrq 泡毛鬼
 itrq 活鬼
@@ -66665,6 +66644,7 @@ jbnw 蝎子屎，毒一份
 jbny 最迟
 jbol 电子烟
 jbpf 电子家教
+jbpf 非阻塞
 jbpk 电子礼品
 jbpm 电子字典
 jbpr 电子宠物
@@ -67744,7 +67724,6 @@ jfrn 时气
 jfrn 暑气
 jfrn 野气
 jfrp 时近
-jfrq 时的
 jfrq 野的
 jfrq 野鬼
 jfrq 旱魃
@@ -67907,10 +67886,8 @@ jgd 昊
 jgdc 师友
 jgdd 师大
 jgdd 量大
-jgde 是有
 jgdg 蛭石
 jgdg 量感
-jgdh 是在
 jgdh 星球大战
 jgdh 量在
 jgdm 晤面
@@ -67926,7 +67903,6 @@ jgeb 蜂王乳
 jgee 旺月
 jgeg 晴
 jgeg 蜻
-jgeh 是用
 jgeu 旺腾
 jgey 晡
 jgey 电玩脑
@@ -67979,7 +67955,6 @@ jghx 匙
 jghy 虾
 jgif 师法
 jgih 明珠掌上
-jgim 是没
 jgim 虾油
 jgip 时不常
 jgiq 晴光
@@ -68032,7 +68007,6 @@ jgkl 蝠
 jgkl 旱天雷
 jgkl 晤别
 jgkq 师兄
-jgkv 是哪
 jgkw 是啥
 jgky 晴雯
 jgky 晴霁
@@ -68047,7 +68021,6 @@ jgln 量力
 jgm 师
 jgmg 明正典刑
 jgmh 师
-jgmh 是由
 jgmi 日丽风清
 jgmj 螬
 jgmq 晤见
@@ -68062,7 +68035,6 @@ jgnt 非理性
 jgnt 是必
 jgnw 悲天悯人
 jgny 非理性主义
-jgny 是以
 jgny 师心
 jgok 旺炽
 jgoo 旺火
@@ -68078,7 +68050,6 @@ jgpg 题写
 jgpn 旺密
 jgpt 暑来寒往
 jgpt 题额
-jgpu 是被
 jgpu 晴初
 jgpu 旺实
 jgpw 晴空
@@ -68098,7 +68069,6 @@ jgqk 题句
 jgqn 虾饺
 jgqt 旦夕
 jgqt 晡夕
-jgrc 是把
 jgrg 虾兵
 jgrh 旺年
 jgrh 星天牛
@@ -68111,7 +68081,6 @@ jgrq 题赞
 jgrv 旺势
 jgrv 晴热
 jgrw 冒不失
-jgrx 是指
 jgrx 题拂
 jgse 愚不可及
 jgsf 题材
@@ -68147,7 +68116,6 @@ jgtq 量移
 jgtr 是我
 jgtt 时不我待
 jgtu 遇事生端
-jgtv 是很
 jgtw 题签
 jgu 蛱
 jgua 量瓶
@@ -68174,7 +68142,6 @@ jgvv 虾女
 jgvy 师娘
 jgwb 是他
 jgwc 师公
-jgwf 是会
 jgwf 量值
 jgwf 监事会
 jgwf 虾仁
@@ -68205,7 +68172,6 @@ jgxj 题旨
 jgxm 量纲
 jgxq 题纸
 jgxw 晴纶
-jgxx 是比
 jgxx 量比
 jgxx 题缘
 jgya 量度
@@ -68214,7 +68180,6 @@ jgyf 题画诗
 jgyg 题主
 jgyk 师训
 jgyk 题识
-jgyl 是为
 jgyl 题为
 jgyl 题库
 jgym 旺市
@@ -68228,7 +68193,6 @@ jgyo 量变
 jgyo 晤谈
 jgyr 明珠夜投
 jgyu 师说
-jgyu 是说
 jgyv 晴朗
 jgyw 是谁
 jgyx 非政府组织
@@ -74442,7 +74406,6 @@ kjrb 零申报
 kjrc 喝掇
 kjrp 喝探
 kjrq 唱的
-kjrq 喝的
 kjrq 吃里扒外
 kjrq 吃里爬外
 kjrr 唱白
@@ -76448,7 +76411,6 @@ krrk 肆拾捌
 krrk 零报告
 krrl 呼拉舞
 krrn 吐气扬眉
-krrq 听的
 krrq 霉气鬼
 krrs 听打
 krrs 呱打打
@@ -81302,6 +81264,7 @@ lkrf 加持
 lkrg 回遑
 lkrg 四川扬琴
 lkrh 贺年
+lkrh 回看
 lkrj 轰雷掣电
 lkrk 回扣
 lkrk 回告
@@ -81310,7 +81273,6 @@ lkrn 躁气
 lkrn 加氢
 lkrn 回扬
 lkrn 回拨
-lkrq 圆的
 lkrq 回换
 lkrq 辑选
 lkrt 回手
@@ -82736,7 +82698,6 @@ lqrl 跳舞
 lqrm 跳投
 lqrn 跑气
 lqrn 罗掘
-lqrq 软的
 lqrq 黯然失色
 lqru 跳接
 lqru 跳掷
@@ -84077,7 +84038,6 @@ lwrn 输气
 lwrn 输氧
 lwrp 因人制宜
 lwrq 轮换
-lwrq 输的
 lwrt 轮播
 lwsd 轮椅
 lwsf 界标
@@ -91153,7 +91113,6 @@ njrj 以暴制暴
 njrm 导师制
 njro 飞蛾扑火
 njro 飞蛾投火
-njrq 慢的
 njrv 慢热
 njsa 悍横
 njsg 悍梗
@@ -92051,7 +92010,6 @@ nnrj 忸捏
 nnrk 收心操
 nnrl 习惯势力
 nnrp 已近
-nnrq 快的
 nnrq 悄悄的
 nnrr 惊慌失措
 nnrr 惊惶失措
@@ -93211,8 +93169,6 @@ ntrn 忤气
 ntrn 悔气
 ntrn 发气
 ntrp 发挥
-ntrq 发的
-ntrq 改的
 ntrq 改换
 ntrq 以德报怨
 ntrq 改选
@@ -95357,7 +95313,6 @@ oeqr 粗忽
 oerb 粗拙
 oerh 粗看
 oern 粗气
-oerq 粗的
 oeru 粗拉
 oesf 炒股票
 oesf 粗材
@@ -97150,6 +97105,7 @@ oqyy 灼
 or 糙
 orab 火把节
 oray 数据共享
+orbb 烂摊子
 orcw 数据通信
 oref 炽热狂卖
 orfb 放牧地
@@ -97631,8 +97587,6 @@ otrk 放告
 otrl 旋舞
 otrm 放缺
 otrn 放气
-otrq 放的
-otrq 炸的
 otrq 烧香的走错了庙门儿
 otrr 放皓
 otrt 放手
@@ -97916,7 +97870,6 @@ ourf 料持
 ourh 烂掉
 ourh 料物
 ourm 焙制
-ourq 烂的
 ourq 断章摘句
 ourq 料鬼
 ourq 粒选
@@ -98418,7 +98371,6 @@ oyrm 糖罐
 oyrm 米制
 oyrn 煽扬
 oyrp 方近
-oyrq 方的
 oyrr 粹白
 oyru 迷离扑朔
 oysa 炕柜
@@ -100310,7 +100262,6 @@ pgrm 定投
 pgrn 宣扬
 pgrn 定所
 pgrn 宝气
-pgrq 写的
 pgrq 宣赞
 pgrr 官不打送礼的
 pgrr 宣誓
@@ -101821,6 +101772,7 @@ ppmb 官衫帔子
 ppmh 安家帖
 ppmm 安禄山
 ppmm 定军山
+ppmq 之网
 ppmw 之内
 ppnd 之忧
 ppnf 寤寐以求
@@ -104411,7 +104363,6 @@ pwrp 窘迫
 pwrp 穷迫
 pwrp 塞翁失马，安知非福
 pwrq 穷鬼
-pwrq 穿的
 pwrq 穿换
 pwrr 空白
 pwrr 裸体扫描
@@ -105111,8 +105062,8 @@ pykh 祖遗
 pykj 视唱
 pykk 礼品
 pykk 祸患
-pykk 礼器
 pykk 神器
+pykk 礼器
 pykk 空调器
 pykk 神品
 pykm 社员
@@ -105778,7 +105729,6 @@ qari 邸抄
 qark 错告
 qarm 钳制
 qarq 急功近名
-qarq 错的
 qarr 错扳
 qart 急功近利
 qart 锋芒所向
@@ -109862,6 +109812,7 @@ qqie 金溪
 qqie 锪削
 qqif 金汁
 qqif 多凶少吉
+qqih 多小
 qqih 金波
 qqii 昏昏沉沉
 qqii 多多少少
@@ -110075,7 +110026,6 @@ qqrh 金牛
 qqri 钓钩执法
 qqrm 金帛
 qqrn 锪
-qqrq 多的
 qqrq 多挣
 qqrq 多选
 qqrr 勾勾搭搭
@@ -110755,7 +110705,6 @@ qsrh 杀掉
 qsrm 钉缸
 qsrn 杀气
 qsro 鸟枪换炮
-qsrq 杀的
 qsrt 杀手
 qsry 杀掠
 qssf 铁栏杆
@@ -112102,7 +112051,6 @@ qyrh 久年
 qyrl 解衣卸甲
 qyrn 多言招悔
 qyrn 鸟气
-qyrq 留的
 qyrr 卵白
 qyrr 留白
 qyrs 钩玄提要
@@ -112551,8 +112499,6 @@ rarm 摸揣
 rarn 撒气
 raro 抠搂
 rarp 拭擦
-rarq 找的
-rarq 拒的
 rarq 拱抱
 rarq 拍花的
 rarq 拣选
@@ -113410,16 +113356,16 @@ rcty 掺入
 rcua 挨冻
 rcub 反逆
 rcud 抬头
-rcud 把头
 rcud 把关
-rcud 搔头
 rcud 返券
+rcud 反差
+rcud 把头
+rcud 搔头
 rcud 把卷
 rcud 掇送
 rcud 摊头
 rcud 挨着
 rcud 反叛
-rcud 反差
 rcue 反剪
 rcuf 挨斗
 rcug 反美
@@ -116113,8 +116059,6 @@ rhro 拍桌打凳
 rhro 特邀
 rhrp 年近
 rhrp 物探
-rhrq 看的
-rhrq 掉的
 rhrq 掉换
 rhrq 物魅
 rhrq 特选
@@ -121365,7 +121309,6 @@ rrrp 反托拉斯法案
 rrrp 踅探
 rrrp 推特控
 rrrq 白的
-rrrq 抓的
 rrrq 折抵
 rrrq 抓鬼
 rrrr 白
@@ -125136,7 +125079,6 @@ rxrk 指靠
 rxrn 指拨
 rxrp 指挥
 rxrp 指控
-rxrq 指的
 rxrr 拗折
 rxrt 扯弓搭箭
 rxrt 拈弓搭箭
@@ -127715,6 +127657,7 @@ sghi 醉步
 sghk 酣战
 sghk 西点
 sghk 丁点
+sghk 槽点
 sghn 酣眠
 sghp 酷睿
 sghq 西餐
@@ -128614,6 +128557,7 @@ shpu 朴实
 shpu 相衬
 shpv 相安
 shpw 相容
+shpx 想它
 shpy 相视
 shpy 相礼
 shqb 相怨
@@ -128643,7 +128587,6 @@ shrk 相告
 shrm 相投
 shrp 相近
 shrp 橡皮擦
-shrq 想的
 shrq 相抱
 shrs 相打
 shrs 想打
@@ -128685,6 +128628,7 @@ shtk 相和
 shtm 相向
 shtq 相称
 shtq 相衔
+shtr 想我
 shtt 想笑
 shtu 相乘
 shtw 相符
@@ -128707,11 +128651,13 @@ shuq 相交
 shus 相亲
 shux 相背
 shvb 相好
+shvb 想她
 shvi 根目录
 shvn 相鼠
 shvn 朴刀
 shvs 相杂
 shvv 橡皮婚姻
+shwb 想他
 shwc 相公
 shwc 相侔
 shwd 想做
@@ -128727,6 +128673,7 @@ shwn 相似
 shwo 相仿
 shwq 想像
 shwq 相像
+shwq 想你
 shwq 朴父
 shwq 相父
 shwq 相爷
@@ -132064,6 +132011,7 @@ svgi 要不
 svgi 概不
 svgk 要事
 svgk 要束
+svgn 要与
 svgo 要来
 svgq 要死
 svgs 要末
@@ -132148,7 +132096,6 @@ svrh 要好看
 svrh 要看
 svrn 根据
 svrp 要近
-svrq 要的
 svrq 机灵鬼
 svrr 要誓
 svrs 要打
@@ -133192,7 +133139,6 @@ tark 筑造
 tarn 得其所
 tarn 升擢
 tarn 簸扬
-tarq 长的
 tarq 乱世鬼
 tarr 长白
 tarr 长逝
@@ -134198,7 +134144,6 @@ tdrn 短气
 tdrn 辞气
 tdrp 敌探
 tdrp 知近
-tdrq 短的
 tdrr 夭折
 tdrr 筹拍
 tdrr 夭逝
@@ -135641,7 +135586,6 @@ tfrm 待制
 tfrn 行气
 tfrn 行所
 tfrp 微博控
-tfrq 丢的
 tfrq 廷魁
 tfrq 行拘
 tfrr 千夫所指
@@ -137349,9 +137293,7 @@ thrn 息气
 thrn 鼻气
 thrn 纂拟
 thrp 自控
-thrq 臭的
 thrq 怎的
-thrq 算的
 thrq 自选
 thrr 自白
 thrr 自拍
@@ -138255,7 +138197,6 @@ tjrn 筛扬
 tjrp 复按
 tjrq 筛选
 tjrq 复选
-tjrq 香的
 tjrq 刮野鬼
 tjrs 简明扼要
 tjrt 得手
@@ -143753,7 +143694,6 @@ tyrh 往年
 tyrk 入扣
 tyrn 乞哀告怜
 tyrp 犁庭扫穴
-tyrq 入的
 tyrq 入选
 tyrr 程序控制
 tyrr 往哲
@@ -145200,7 +145140,6 @@ udrn 送拨
 udrn 养气
 udrn 善气
 udrp 凑近
-udrq 差的
 udrq 着的
 udrq 送鬼
 udrq 头挑
@@ -146821,8 +146760,6 @@ ugrm 美缺
 ugrm 美制
 ugrn 美气
 ugrn 靖氛
-ugrq 美的
-ugrq 病的
 ugrr 病逝
 ugrr 美白
 ugrr 旁死魄
@@ -148293,9 +148230,9 @@ ukrm 竞投
 ukrn 闹别扭
 ukrn 剖拨
 ukrq 兑换
-ukrq 冲抵
 ukrq 总的
 ukrq 竞选
+ukrq 冲抵
 ukrr 前呼后拥
 ukrr 竞拍
 ukrr 剖白
@@ -150175,6 +150112,7 @@ urug 疯牛症
 uruj 送气音
 uruj 半抖音
 urum 新年新岁
+urum 前后端
 uruq 门插关儿
 uruq 总投资
 urux 背靠背
@@ -150910,6 +150848,7 @@ utgj 冷处理
 utgk 疾速
 utgk 首事
 utgk 阁束
+utgl 病得不轻
 utgn 并行不悖
 utgn 送往事居
 utgo 首恶
@@ -154466,7 +154405,6 @@ vgqy 好事多魔
 vgrd 鸠形鹄面
 vgrn 嫩气
 vgro 垦殖指数
-vgrq 嫩的
 vgrr 嫩白
 vgrr 既死魄
 vgrt 嫩手
@@ -157593,6 +157531,7 @@ wcgj 公理
 wcgk 公事
 wcgk 公吏
 wcgl 倒驴不倒架
+wcgn 仅与
 wcgn 借鸡下蛋
 wcgo 偷鸡不成蚀把米
 wcgu 公平
@@ -158206,10 +158145,9 @@ wdrl 拿三撇四
 wdrm 公有制
 wdrm 优缺
 wdrm 估揣
-wdrq 做的
+wdrq 优先
 wdrq 做鬼
 wdrq 估捣
-wdrq 优先
 wdrq 优选
 wdrt 仗托
 wdrt 伏手
@@ -158999,7 +158937,6 @@ wfrm 佳制
 wfrn 传扬
 wfrn 会所
 wfrn 佳气
-wfrq 会的
 wfrr 坐场白
 wfrt 传播
 wfrt 付托
@@ -159966,7 +159903,6 @@ wgrn 侠气
 wgrn 便所
 wgrp 傅近
 wgrp 愈近
-wgrq 拿的
 wgrq 偏不的
 wgrq 倒换
 wgrq 合抱
@@ -162352,6 +162288,7 @@ wofj 集刊
 wofn 售卖
 wofn 售罄
 wofq 隽远
+woft 从业者
 wofw 伙夫
 wog 隹
 wogf 人类环境
@@ -162987,7 +162924,6 @@ wqrn 你所
 wqro 人争气，火争焰
 wqrq 你的
 wqrq 您的
-wqrq 低的
 wqrq 低抑
 wqrs 你打
 wqrs 人急投亲，鸟急投林
@@ -169864,7 +169800,6 @@ xlqt 张思卿
 xlqv 幼雏
 xlrh 幼年
 xlrh 细看
-xlrq 细的
 xlrq 细挑
 xlrt 幼托
 xlsa 细思极恐
@@ -171753,7 +171688,6 @@ xwrk 缩位拨号
 xwrm 绘制
 xwrn 纷扬
 xwrn 维扬
-xwrq 给的
 xwry 维护
 xwsa 纵横
 xwsc 维权
@@ -173626,6 +173560,7 @@ yeqb 哀怨
 yeqe 衣角
 yeqe 高脚蟹
 yeqi 哀乐
+yeql 调用链
 yeqn 衣饰
 yeqn 衣包
 yeqq 衣钩
@@ -173646,6 +173581,7 @@ yers 应用技术
 yesa 衣柜
 yesd 衣橱
 yesd 哀杖
+yesf 调用栈
 yesg 哀酸
 yesk 哀歌
 yess 哀楚
@@ -174895,7 +174831,6 @@ yhrk 高频振荡器
 yhrk 讣告
 yhrn 调皮捣蛋
 yhrq 调皮鬼
-yhrq 让的
 yhrq 让先
 yhrt 让手
 yhrw 就此打住
@@ -176340,7 +176275,6 @@ ymrn 亢扬
 ymrp 高挥
 ymrp 调控
 ymrp 诇探
-ymrq 高的
 ymrq 高挑
 ymrq 敲捣
 ymrq 调换
@@ -177154,8 +177088,6 @@ ynrn 戾气
 ynrn 望气
 ynrn 讲习所
 ynrn 词气
-ynrq 赢的
-ynrq 扁的
 ynrq 肩挑
 ynrq 扁挑
 ynrq 谬赞
@@ -177724,7 +177656,6 @@ yorn 蛮气
 yorn 谜氛
 yorp 迹近
 yorq 变换
-yorq 变的
 yorr 谈白
 yors 谜打
 yos 栾
@@ -179768,7 +179699,6 @@ yurn 谱气
 yurn 谪所
 yurq 遮道挽留
 yurq 谦抑
-yurq 说的
 yurr 廉白
 yurr 说白
 yurs 高新技术
