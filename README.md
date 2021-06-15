@@ -9,7 +9,6 @@ adwd 碁
 cccu 叒
 damw 磺
 efqn 朊
-lwmv 囧
 nkmh 屌
 npwi 屄
 yctd 诶
