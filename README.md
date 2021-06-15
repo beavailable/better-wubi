@@ -3,6 +3,18 @@
 
 本项目旨在打造一个更好的、面向大众的通用码表，并且会持续更新，逐步完善词库。
 
+《通用规范汉字表》之外的新增汉字：
+```
+adwd 碁
+cccu 叒
+damw 磺
+efqn 朊
+lwmv 囧
+nkmh 屌
+npwi 屄
+yctd 诶
+```
+
 ## 有何改进
 本码表相对原版做了很多改进（[详情点这里](https://github.com/beavailable/better-wubi#%E6%9B%B4%E6%94%B9)），目标是做到：
 - 更合理的拆字
