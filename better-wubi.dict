@@ -151919,7 +151919,6 @@ uvgu 闸刀开关
 uvgy 颜如玉
 uvh 瘦
 uvhc 瘦
-uvhc 廋
 uvhk 妆点
 uvhw 前臼齿
 uvhw 兼具
@@ -151974,7 +151973,6 @@ uvso 妆楼
 uvss 首鼠模棱
 uvta 瘦长
 uvta 美女簪花
-uvtd 廋辞
 uvtf 兼行
 uvtg 敝帚自珍
 uvtg 弊帚自珍
@@ -152011,7 +152009,6 @@ uvvv 养媳妇
 uvvw 新好女人
 uvvy 新嫁娘
 uvw 瘐
-uvwd 廋伏
 uvwd 兼优
 uvwh 兼修
 uvwi 瘐
@@ -152021,16 +152018,13 @@ uvwt 兼任
 uvwt 闲杂人等
 uvwu 兼倍
 uvwu 美女们
-uvww 廋人
 uvww 兼人
 uvxi 美女经济
 uvxt 歉疑
 uvxu 瘦弱
 uvxx 瘐毙
-uvyg 廋语
 uvyj 兼课
 uvym 瘦高
-uvyn 廋词
 uvyo 痕迹
 uvyp 兼毫
 uvyt 北九州
@@ -180125,6 +180119,7 @@ yvh 唐
 yvha 唐虞
 yvhb 鄌
 yvhc 𫍲
+yvhc 廋
 yvhh 唐卡
 yvhh 朗目
 yvhk 唐
@@ -180216,9 +180211,10 @@ yvsm 良机
 yvsm 刻录机
 yvst 朗格
 yvsv 唐棣
+yvtd 良知
 yvtd 康适
 yvtd 谀辞
-yvtd 良知
+yvtd 廋辞
 yvte 刻录盘
 yvtf 康德
 yvtf 庚午
@@ -180261,6 +180257,7 @@ yvwa 唐代
 yvwc 郎公
 yvwd 庚伏
 yvwd 良佐
+yvwd 廋伏
 yvwg 鹒
 yvwg 裒合
 yvwh 朗个
@@ -180279,11 +180276,12 @@ yvwu 唐僧
 yvwu 良伴
 yvwv 康健
 yvww 庸俗
-yvww 唐人
 yvww 庸人
+yvww 唐人
 yvww 庸众
 yvww 良人
 yvww 良价
+yvww 廋人
 yvwy 谀
 yvwy 庾信
 yvwy 庚信
@@ -180304,8 +180302,10 @@ yvyf 朗读
 yvyg 离婚证
 yvyg 郎主
 yvyg 说好说歹
+yvyg 廋语
 yvyn 谀词
 yvyn 裒刻
+yvyn 廋词
 yvyp 庾亮
 yvyq 良庖
 yvyv 庸庸
