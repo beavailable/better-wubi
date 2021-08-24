@@ -3419,6 +3419,7 @@ ajfm 草垛
 ajfn 草场
 ajfn 墓志
 ajfn 墓场
+ajfn 黄明志
 ajfp 莫过
 ajft 菲才
 ajft 蒙昧无知
@@ -4959,7 +4960,6 @@ angk 世事
 angm 巨丽
 ango 蔚来
 angs 基层政权
-angw 恐怖事件
 anh 蔬
 anhc 葭
 anhh 世上
@@ -12501,7 +12501,6 @@ bwwg 队伍
 bwwg 随你便
 bwwg 附合
 bwwj 阿伏伽德罗常量
-bwwo 联合企业
 bwwp 取保候审
 bwwr 联合公报
 bwwr 附件
@@ -12908,6 +12907,7 @@ ccam 双黄
 ccan 双蕊
 ccat 骆驼蓬
 ccau 双薪
+ccaw 双花
 ccbb 艰难险阻
 ccbg 双耳
 ccbj 双阳
@@ -13529,6 +13529,7 @@ cekk 通品
 cekm 能员
 cekq 熊吻
 cekq 通史
+cekt 能吃
 cekt 通吃
 cekt 通川
 celf 熊罴
@@ -14306,6 +14307,7 @@ clcq 骡驹
 cldt 骡帮
 cldy 骃
 cleb 劝服
+clfa 预加载
 clfj 劝进
 clg 驷
 clga 马蹄形
@@ -16456,7 +16458,6 @@ dcgg 三通一平
 dcgm 雄丽
 dcgp 大难不死，必有后福
 dcgq 雄烈
-dcgw 古巴事件
 dchh 龙骧虎步
 dchh 码目
 dchk 雄占
@@ -17432,6 +17433,7 @@ ddwx 大佛
 ddwx 大化
 ddwx 大货
 ddwy 厌食
+ddwy 碎碎念
 ddwy 大有作为
 ddwy 大食
 ddwy 大令
@@ -18342,8 +18344,6 @@ dfuj 唇音
 dfuj 压韵
 dfuj 奎章
 dfuk 大声疾呼
-dfuk 三无产品
-dfuk 三无商品
 dful 三十六天罡
 dfuq 夸奖
 dfuq 存款准备金
@@ -18378,8 +18378,6 @@ dfwg 奔命
 dfwg 辱命
 dfwg 夺命
 dfwg 夸傲
-dfwk 三无人员
-dfwo 三无企业
 dfwq 压低
 dfwq 奢侈
 dfwq 面无人色
@@ -18694,6 +18692,7 @@ dgfo 石坊
 dgfp 左不过
 dgfp 硬壳
 dgfp 研索
+dgfq 三无
 dgfq 三元
 dgfq 威远
 dgfq 石坎
@@ -19424,7 +19423,6 @@ dgwm 感佩
 dgwn 三假
 dgwn 三亿
 dgwn 古僻
-dgwo 大型企业
 dgwo 三焦
 dgwq 三不像
 dgwq 石像
@@ -20801,7 +20799,6 @@ dkgl 历史画
 dkgm 套现
 dkgn 大吃一惊
 dkgo 雄霸一方
-dkgo 大中型企业
 dkgq 右列
 dkgt 大啖一番
 dkgt 万口一辞
@@ -24163,7 +24160,6 @@ duwf 碰头会
 duwg 碰命
 duwg 碰僵
 duwi 胡闹八光
-duwo 三资企业
 duws 磁体
 duwt 碰伤
 duwv 大部分
@@ -25862,6 +25858,7 @@ ebrv 猛鸷
 ebrw 猛推
 ebsg 乳酸
 ebsg 乳酪
+ebsg 猛于
 ebsg 猛孤丁
 ebsg 猛醒
 ebsg 猛丁
@@ -29976,6 +29973,7 @@ faiy 截流
 faj 卉
 faje 载明
 fajg 裁量
+fajg 规划师
 fajh 埋葬虫
 fajj 卖萌日
 fajj 截日
@@ -30975,10 +30973,10 @@ fddw 十三太保
 fddw 老三大件
 fddy 老太太
 fdex 赤石脂
-fdfa 去泰去甚
-fdfa 城堞
 fdfa 卖友求荣
 fdfa 动态规划
+fdfa 城堞
+fdfa 去泰去甚
 fdfb 盐碱地
 fdfc 城运
 fdfd 老大无成
@@ -31146,6 +31144,7 @@ fdtd 卖百舌
 fdtf 无万千
 fdtf 十三行
 fdtf 老在行
+fdtg 云原生
 fdti 地面径流
 fdtj 老大徒伤悲
 fdtj 志在千里
@@ -31985,7 +31984,6 @@ ffww 真真假假
 ffww 土伦
 ffww 志士仁人
 ffww 土俗
-ffww 二二八事件
 ffww 寺人
 ffww 封人
 ffww 堵人
@@ -35912,6 +35910,7 @@ fnn 圮
 fnn 圯
 fnna 志异
 fnna 违异
+fnnc 卖惨
 fnnc 志怪
 fnnf 违悖
 fnng 韫怀
@@ -35947,6 +35946,7 @@ fnpe 违农
 fnpe 专家
 fnpe 卖家
 fnpf 卖完
+fnpf 无心之过
 fnpg 起居室
 fnph 赤壁之战
 fnph 卖官
@@ -42901,6 +42901,7 @@ ggiu 一滴
 ggiv 不正当
 ggiv 玳瑁梁
 ggiw 一举
+ggiw 王兴
 ggix 一泓
 ggiy 环
 ggiy 环流
@@ -43292,6 +43293,7 @@ ggsh 一至于此
 ggsh 一想
 ggsi 一档
 ggsj 一棵
+ggsk 一哥
 ggsk 琴歌
 ggso 一楼
 ggso 五楼
@@ -43450,6 +43452,7 @@ ggvb 珍珠丸子
 ggvc 五奴
 ggvc 一怒
 ggvc 一开始
+ggve 一姐
 ggvf 王建
 ggvk 一如
 ggvn 一刀
@@ -43505,8 +43508,9 @@ ggwn 五亿
 ggwn 一似
 ggwn 天理人情
 ggwn 天下父母心
-ggwo 环集
+ggwo 一集
 ggwo 一伙
+ggwo 环集
 ggwq 王爷
 ggwq 王父
 ggwr 天不假年
@@ -43546,10 +43550,10 @@ ggww 五欲
 ggwx 互不侵犯条约
 ggwx 五华
 ggwx 王化
+ggwy 一念
 ggwy 环食
 ggwy 王储
 ggwy 天球仪
-ggwy 一念
 ggwy 一偏
 ggwy 一令
 ggx 琵
@@ -44530,9 +44534,9 @@ gigx 不夷
 gigx 刺激素
 gigy 不消一刻
 gigy 王小玉
-giha 不虞
 giha 不瞒
 giha 不虚
+giha 不虞
 giha 正法眼藏
 gihc 赖泼皮
 gihe 不肯
@@ -46216,6 +46220,7 @@ gldt 一蹴而得
 gldw 一国三公
 gldy 一蹴而就
 gley 一图胜千言
+glfb 不思进取
 glff 五四运动
 glff 画坛
 glfh 不跟趟
@@ -46538,7 +46543,6 @@ gmfh 再起
 gmfh 现址
 gmfh 不见起
 gmfj 再进
-gmfj 理财规划师
 gmfj 刺戟
 gmfj 遭塌
 gmfk 一见喜
@@ -46964,6 +46968,7 @@ gmwm 两侧
 gmwn 两亿
 gmwn 一见倾心
 gmwo 璀
+gmwo 两集
 gmwq 再低
 gmwq 再像
 gmwr 两件
@@ -46987,9 +46992,9 @@ gmww 棘人
 gmww 僰人
 gmww 刺人
 gmwx 现货
-gmwy 不由分说
 gmwy 现今
 gmwy 责令
+gmwy 不由分说
 gmwy 两仪
 gmxa 枣红
 gmxe 两级
@@ -48691,6 +48696,7 @@ grge 碧青
 grge 瓦特表
 grgf 瑰玮
 grgg 瑝
+grgg 歪瓜裂枣
 grgg 不告不理
 grgh 不揪不睬
 grgh 一丘一壑
@@ -54026,6 +54032,7 @@ hrxi 虚拟经济
 hrxn 上年纪
 hrys 虚拟主机
 hs 盯
+hsaq 卡西欧
 hsaq 上林苑
 hsbo 盯防
 hscw 目标观众
@@ -64926,7 +64933,6 @@ iugr 泣珠
 iugr 滚珠
 iugs 当头一棒
 iugu 漳平
-iugw 水门事件
 iugy 学前班
 iuhh 溢目
 iuhw 海羊齿
@@ -69341,7 +69347,6 @@ jjwh 日企
 jjwj 是非分明
 jjwj 昨非今是
 jjwl 临时代办
-jjwo 明星企业
 jjwp 明星作家
 jjwr 旦旦信誓
 jjws 非晶体
@@ -72696,6 +72701,7 @@ kdfu 雷克坦跑道
 kdfu 顺境
 kdfu 口碑载道
 kdg 咕
+kdga 中大型
 kdga 露原形
 kdga 咕弄
 kdgc 顺致
@@ -73826,6 +73832,7 @@ kgnf 中下层
 kgng 鸮
 kgng 雨情
 kgng 逞刁
+kgni 吓尿
 kgni 哑悄
 kgnm 雨刷
 kgnr 吓怕
@@ -76004,7 +76011,6 @@ kmdi 中山大学
 kmdi 中央大学
 kmdj 喘
 kmdm 吊面
-kmdw 史迪威事件
 kmdy 咉
 kme 嘣
 kmea 虽败犹荣
@@ -78755,7 +78761,6 @@ latl 蹀血
 latq 跷
 laud 轧苗头
 lauo 躏
-lawo 国营企业
 lawq 因式分解
 laww 羁人
 lawy 距今
@@ -79366,7 +79371,6 @@ ldwd 辏
 ldwd 罗大佑
 ldwe 回春作用
 ldwg 国大代表
-ldwo 国有企业
 ldwo 四面八方
 ldwo 路在何方
 ldwp 踌伫
@@ -82113,7 +82117,7 @@ llgk 回回豆
 llgt 罪加一等
 llgu 踌躇不前
 llgu 跌四平
-llgw 踩踏事件
+llgw 跌跌不休
 llgw 力田不如逢年，善仕不如遇合
 llgy 默默不语
 llhk 车轮战
@@ -82299,8 +82303,6 @@ llwe 男佣
 llwf 田舍
 llwh 男仆
 llwl 田佃
-llwn 跨国公司
-llwo 跨国企业
 llwq 田父
 llwt 田作
 llwu 男伴
@@ -83785,6 +83787,7 @@ ltcn 跑竹马
 ltcn 轿马
 ltcw 路难
 ltd 跃
+ltdd 略大
 ltde 略有
 ltdf 略夺
 ltdg 略感
@@ -83878,6 +83881,7 @@ ltip 路演
 ltip 软科学
 ltip 罪行法定
 ltip 回笼觉
+ltit 略少
 ltit 跷生活
 ltit 团生活
 ltit 轻生活
@@ -83896,6 +83900,7 @@ ltkg 鹭
 ltkg 辂
 ltkh 路中
 ltkh 图中
+ltkh 略贵
 ltkk 路口
 ltkm 路员
 ltkm 国务员
@@ -83963,6 +83968,7 @@ ltqe 图解
 ltqg 轿铺
 ltqj 图象
 ltqk 图名
+ltqq 略多
 ltqs 图钉
 ltqt 国务卿
 ltqt 困知勉行
@@ -84079,6 +84085,7 @@ ltwh 图个
 ltwi 辐射化学
 ltwl 轻重倒置
 ltwq 图像
+ltwq 略低
 ltws 路途
 ltwt 力微任重
 ltwu 图们
@@ -88102,7 +88109,6 @@ mrfw 贩夫
 mrg 凰
 mrgd 凰
 mrgo 帕提亚
-mrgw 迪拜事件
 mrgx 贩毒
 mrhk 肉搏战
 mrii 迪拜泡沫
@@ -89647,10 +89653,9 @@ nawg 民命
 nawh 民企
 nawl 慌促
 nawm 以工代赈
-nawo 异花传粉
-nawo 民营企业
-nawo 惜售
 nawo 展售
+nawo 异花传粉
+nawo 惜售
 nawq 异父
 naws 异体
 naws 异途
@@ -91496,6 +91501,7 @@ niak 犀革
 niap 司法警察
 niap 司法警察官
 nibb 屑子
+nibn 尿了
 nibp 司法院
 nici 惊涛骇浪
 nidg 快活三
@@ -96664,6 +96670,7 @@ ojjv 烛照
 ojjy 烛影
 ojkd 爆震
 ojkk 迷里咕咚
+ojkl 爆雷
 ojkq 爆鸣
 ojkt 爆响
 ojlg 煴
@@ -99451,7 +99458,6 @@ pbuq 鱼子酱
 pbwd 字段
 pbwj 安子介
 pbwk 神职人员
-pbwo 社队企业
 pbwo 字集
 pbws 字体
 pbwu 密陀僧
@@ -102278,7 +102284,6 @@ pnwk 密保
 pnwl 密促
 pnwl 冠履倒置
 pnwo 密集
-pnwp 农民企业家
 pnwr 密件
 pnws 定性分析
 pnwu 宅心仁慈
@@ -123298,9 +123303,10 @@ rtnn 插羽
 rtnn 挺快
 rtnn 热得快
 rtnt 扬长避短
+rtnt 报复性
+rtnt 热敏性
 rtnt 播发
 rtnt 手性
-rtnt 热敏性
 rtnu 插屏
 rtnw 捂盘惜售
 rtnw 手戳
@@ -127023,6 +127029,7 @@ sbwg 核子分裂
 sbwx 样子货
 sbwy 格子领
 sbxk 李强
+sbyf 李庄
 sbyg 李斌
 sbyh 格子店
 sbyv 李唐
@@ -127410,8 +127417,8 @@ sdsc 椿树
 sdsd 榛榛
 sdsd 槭槭
 sdse 顶棚
-sdsf 枯枝
 sdsf 可有可无
+sdsf 枯枝
 sdsf 棒材
 sdsf 柘枝
 sdsf 杕杜
@@ -134095,7 +134102,6 @@ tawn 秋草人情
 tawn 箕倨
 tawo 乱七八糟
 tawo 自花传粉
-tawo 私营企业
 tawp 复式住宅
 tawq 繁花似锦
 tawr 箕伯
@@ -141917,6 +141923,7 @@ trnm 各抒己见
 trnm 各持己见
 trnm 各执己见
 trnn 委托书
+trnt 稀缺性
 trnx 生物导弹
 trny 我心
 tro 徼
@@ -146658,7 +146665,6 @@ uewg 六月债
 uewh 前个
 uewh 前修
 uewh 剪修
-uewo 头脑企业
 uewq 前仰
 uewq 道貌俨然
 uewr 装腔作势
@@ -150410,7 +150416,6 @@ uqgp 交还
 uqgq 效死
 uqgv 次妻
 uqgw 判然不合
-uqgw 意外事件
 uqgx 交互
 uqgy 交班
 uqha 头昏眼花
@@ -155231,13 +155236,13 @@ vggd 那一天
 vggd 九更天
 vgge 姨表
 vggg 好死不死
+vggg 九一一
 vggj 好事不出门，恶事行千里
 vggm 妍丽
 vggn 九死不悔
 vggq 旭烈兀
 vggr 嫩碧
 vggt 九死一生
-vggw 九一一事件
 vgh 嫣
 vghi 退一步
 vgho 嫣
@@ -159320,6 +159325,7 @@ wevo 全脂奶粉
 wewd 华彩段
 wewe 仍仍
 wewf 仍会
+wewf 舒肤佳
 wewh 佣仆
 wewp 信用合作社
 wewr 拿腔作势
@@ -160753,6 +160759,7 @@ wgqn 全蚀
 wgqq 合金
 wgqq 人死留名
 wgqq 命金
+wgqr 拿铁
 wgqr 翕忽
 wgqt 傲
 wgqt 侄儿
@@ -163925,7 +163932,6 @@ wqwi 低偿
 wqwj 你俚
 wqwk 低保
 wqwo 佝偻
-wqwo 候鸟企业
 wqwp 供销合作社
 wqwq 爹爹
 wqwq 爸爸
@@ -169867,6 +169873,8 @@ xggg 纯一
 xggh 纯正
 xggi 强死赖活
 xggk 母带
+xggn 强一致性
+xggn 弱一致性
 xggt 经一事，长一智
 xggu 纯平
 xggy 母斑
@@ -171584,7 +171592,6 @@ xqwg 绝命
 xqwg 绝倒
 xqwh 绿色低碳信用卡
 xqwk 绿色食品
-xqwo 乡镇企业
 xqwo 约集
 xqwt 绝作
 xqwu 纸伞
@@ -171822,7 +171829,6 @@ xsut 纡道
 xsuy 维权门
 xsvi 绿林好汉
 xswi 结构化学
-xswo 红顶企业
 xsws 结构体
 xswx 结构化
 xsxe 纡缓
@@ -174370,6 +174376,7 @@ ydro 诚邀
 ydrp 广而告之
 ydrt 高压氧舱
 ydrv 诚挚
+ydrv 诚招
 ydrw 高压手段
 ydry 变态反应
 ydsg 斋醮
@@ -178565,8 +178572,8 @@ yoft 变老
 yoga 变形
 yoga 变型
 yogc 谈到
-yogd 谈天
 yogd 变天
+yogd 谈天
 yoge 恋青
 yogg 弯环
 yogh 弯下
