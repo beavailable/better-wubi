@@ -1660,10 +1660,10 @@ aetg 散衙
 aetg 散生
 aeth 藤牌
 aeth 散处
-aetj 菜篮
-aetj 散利
 aetj 获得
 aetj 获利
+aetj 菜篮
+aetj 散利
 aetk 蓝采和
 aetm 散射
 aetm 菜秧
@@ -3271,8 +3271,8 @@ aiyf 范读
 aiyg 斯洛文尼亚
 aiyg 东主
 aiyg 东语
-aiyi 莫测高深
 aiyi 东京
+aiyi 莫测高深
 aiyj 落课
 aiym 东市
 aiym 落市
@@ -4337,6 +4337,7 @@ aloy 莲米
 aloy 苏方
 alp 莲
 alpc 蓝圆鲹
+alpf 世界赛
 alpf 世足赛
 alpf 苗寨
 alpf 莲宗
@@ -11849,6 +11850,7 @@ btrn 卫生所
 btrn 出版所
 btrs 隐身技术
 btrt 出乎反乎
+btsc 降权
 btsc 隐私权
 btsg 卫生杯
 btsi 防微杜渐
@@ -19701,6 +19703,7 @@ dhgh 夏正
 dhgi 在不
 dhgi 在此一举
 dhgj 在理
+dhgk 破事
 dhgk 挈带
 dhgk 艳事
 dhgm 有眼不识泰山
@@ -30834,6 +30837,7 @@ fcte 救难船
 fctf 动迁
 fctf 云笺
 fctf 运行
+fctg 去重
 fcth 运算
 fcth 去处
 fcth 云版
@@ -39340,6 +39344,7 @@ fwjp 二化螟
 fwjt 老人星
 fwjt 救命星
 fwjw 云集景从
+fwkh 未命中
 fwkk 替代品
 fwkl 替另
 fwkq 老公嘴儿
@@ -42110,6 +42115,7 @@ gfc 珐
 gfck 玩怠
 gfck 球台
 gfcp 开元通宝
+gfct 一地鸡毛
 gfcu 正南巴北
 gfcy 珐
 gfcy 死无对证
@@ -43089,11 +43095,11 @@ ggnn 琴书
 ggnn 一己
 ggnn 刑事局
 ggnt 瑟
-ggnt 环发
 ggnt 一发
-ggnt 一致性
-ggnt 一性
 ggnt 一改
+ggnt 一致性
+ggnt 环发
+ggnt 一性
 ggny 一心
 ggny 一惊
 ggny 玻璃心
@@ -44870,6 +44876,7 @@ girt 下江先生
 giru 不接
 giru 不拉
 giru 不搁
+girv 不热
 girv 不招
 girw 不失
 girw 不迭
@@ -45403,6 +45410,7 @@ gjrn 平易近民
 gjrp 更近
 gjrq 更换
 gjru 亚非拉
+gjrv 更热
 gjrv 理势
 gjrw 更迭
 gjrw 平易近人
@@ -45458,7 +45466,9 @@ gjuq 一星半点儿
 gjuq 更次
 gjus 更新
 gjuu 更立
+gjuw 更冷
 gjuw 更准
+gjuw 一时半会
 gjux 更递
 gjuy 一时半刻
 gjvb 更好
@@ -47266,6 +47276,7 @@ gnwf 死心倒地
 gnwg 瓦全
 gnwg 瓦合
 gnwi 青翠欲滴
+gnwk 开发人员
 gnwq 瓦釜
 gnwq 开心斧
 gnwr 两性化合物
@@ -47535,6 +47546,7 @@ gorh 来年
 gork 一炮打响
 gorn 恶气
 gorp 严控
+gorq 严选
 gorq 恶鬼
 gorr 来抓
 gorr 来哲
@@ -62228,9 +62240,9 @@ iprg 浓抹
 iprh 常年
 iprh 学年
 iprk 喾
-iprk 汉字操
 iprk 深造
 iprk 演造
+iprk 汉字操
 iprl 掌掴
 iprm 学制
 iprn 掌握
@@ -62325,9 +62337,9 @@ ipte 渔舟
 ipte 深透
 ipte 堂客船
 ipte 学租
-iptf 渔行
-iptf 常德
 iptf 学徒
+iptf 常德
+iptf 渔行
 iptf 党徒
 iptf 常行
 iptf 演行
@@ -63998,6 +64010,7 @@ itbb 海陬
 itbd 省陌
 itbf 海陵
 itbf 省际
+itbg 消息队列
 itbj 洛阳
 itbj 海隅
 itbj 海阳
@@ -71452,9 +71465,10 @@ jute 暗盘
 jutf 暗行
 jutg 时效处理
 juth 暗自
-juth 暗算
 juth 暗处
+juth 暗算
 juth 最新版
+juth 时间片
 juth 暗息
 juti 暗送秋波
 jutj 暗香
@@ -77276,8 +77290,8 @@ ktfp 吃过
 ktfs 中等专业学校
 ktft 吃老
 ktft 吃教
-ktfu 吹毛索疵
 ktfu 吹毛求疵
+ktfu 吹毛索疵
 ktfy 中等教育
 ktfy 顺我者昌，逆我者亡
 ktg 唾
@@ -85603,6 +85617,7 @@ mebb 骰子
 mebb 骨子
 mebb 胄子
 mebm 骨出
+mebn 崩了
 mebq 崩陷
 mecq 肉用鸡
 med 髓
@@ -91118,8 +91133,8 @@ ngyy 民事诉讼
 nh 收
 nhaa 收工
 nhad 收藏
-nhae 疏散
 nhae 收获
+nhae 疏散
 nhai 疏落
 nhai 疏薄
 nhak 疏勒
@@ -93376,6 +93391,7 @@ nswy 属概念
 nswy 司配令
 nsy 怵
 nsyj 尸横遍野
+nsyq 慢查询
 nsyt 以权谋私
 nsyy 怵
 nsyy 民权主义
@@ -97877,6 +97893,7 @@ oroy 糙米
 oroy 糙粮
 orpy 精气神
 orqn 数据包
+orrb 数据报
 orrm 煤气罐
 orru 火拉拉
 orry 放热反应
@@ -105981,6 +105998,7 @@ pysd 禅杖
 pyse 守望相助
 pysf 禋
 pysg 祖本
+pysg 富文本
 pysg 初刻本
 pysg 官刻本
 pysg 家刻本
@@ -110515,6 +110533,7 @@ qqgb 希尔顿
 qqgc 多到
 qqgd 多天
 qqgd 金天
+qqge 多表
 qqgf 金球
 qqgf 外角球
 qqgg 金环
@@ -110526,6 +110545,7 @@ qqgm 多刺
 qqgm 钩棘
 qqgo 多严
 qqgp 铭瑄
+qqgq 多列
 qqgr 金碧
 qqgt 鸵鸟政策
 qqgu 金平
@@ -116965,6 +116985,7 @@ rhtu 打点行装
 rhtu 特科
 rhty 牧
 rhty 掉入
+rhty 年入
 rhty 特稿
 rhud 看着
 rhud 年头
@@ -119595,6 +119616,7 @@ rnng 所司
 rnnh 扬眉
 rnnn 指导书
 rnnt 所属
+rnnt 扩展性
 rnnt 指导性
 rnnt 气性
 rnnt 拨发
@@ -124499,6 +124521,7 @@ rvbm 招出
 rvbm 抛出
 rvbm 扫出
 rvbn 搜了
+rvbn 热了
 rvbn 招了
 rvbq 热聊
 rvbt 招降
@@ -136421,8 +136444,9 @@ tfqq 千金
 tfqq 德钦
 tfqq 千钧
 tfqq 竿钓
-tfqt 自动铅笔
 tfqt 徒儿
+tfqt 千锋
+tfqt 自动铅笔
 tfqu 筠
 tfqv 千急
 tfqw 毛锥
@@ -138353,9 +138377,9 @@ thww 自从
 thww 牌价
 thww 怎价
 thwx 鼻化
-thwy 自衒
 thwy 自信
 thwy 自今
+thwy 自衒
 thxc 自经
 thxe 处级
 thxe 延缓
@@ -148443,6 +148467,7 @@ ujgc 韵致
 ujgc 竟至
 ujgd 疸
 ujgd 竟天
+ujge 单表
 ujge 意表
 ujge 章甫
 ujge 章表
@@ -148697,12 +148722,12 @@ ujtk 音和
 ujtk 间种
 ujtk 单程
 ujtm 赣
+ujtm 单身
+ujtm 单向
 ujtm 意向
 ujtm 音徽
 ujtm 章身
 ujtm 童身
-ujtm 单身
-ujtm 单向
 ujtn 戆
 ujts 音箱
 ujts 单条
@@ -151951,6 +151976,7 @@ utqg 送往迎来
 utqh 道外
 utqi 产销
 utqi 首销
+utqi 首尔
 utqk 疾逸
 utqk 首名
 utql 关系链
@@ -152788,6 +152814,7 @@ uwbb 冷子
 uwbb 瘊子
 uwbj 益阳
 uwbm 闪出
+uwbn 冷了
 uwbp 疯人院
 uwbv 疮
 uwbw 蠲除
@@ -155418,9 +155445,9 @@ vibx 剥削阶级
 vicu 毁誉参半
 vidf 剥夺
 vidf 九流三教
+vidm 如沐春风
 vidm 刀削面
 vidm 肃布
-vidm 如沐春风
 vidp 九流百家
 vidq 肃爽
 viee 鼠海豚
@@ -164034,10 +164061,12 @@ wrbb 伯子
 wrbf 伯陵
 wrbf 伍拾陆
 wrbg 优先队列
+wrbj 人造卫星
 wrbr 倒抽了一口气
 wrca 拿手戏
 wrcd 伍拾叁
 wrda 低气压区
+wrdb 人造太阳
 wrdb 倒持泰阿
 wrdf 食指大动
 wrdf 低气压
@@ -166954,9 +166983,9 @@ wwpt 令人神往
 wwpt 坐客
 wwpt 俗客
 wwpt 人客
-wwpu 伯仲之间
-wwpu 从实
 wwpu 坐实
+wwpu 从实
+wwpu 伯仲之间
 wwpu 俯仰之间
 wwpu 坐褥
 wwpv 偷安
@@ -167003,10 +167032,11 @@ wwqn 坐馆
 wwqn 谷饮
 wwqo 保健饮料
 wwqq 众多
-wwqq 悠悠忽忽
-wwqq 低保金
+wwqq 人傻钱多
 wwqq 命途多舛
 wwqq 傻傻忽忽
+wwqq 悠悠忽忽
+wwqq 低保金
 wwqr 八段锦
 wwqt 份儿
 wwqt 人儿
@@ -175929,9 +175959,9 @@ yiad 郭沫若
 yiad 就其
 yiae 麻沸散
 yiae 望尘莫及
-yiai 高深莫测
 yiai 京东
 yiai 就范
+yiai 高深莫测
 yiaj 应募
 yian 就世
 yiat 主治医生
@@ -176134,6 +176164,7 @@ yirc 就把
 yire 应援
 yirf 高潮迭起
 yirh 就看
+yirk 京造
 yirm 应制
 yirm 敲沙罐
 yiro 应邀
