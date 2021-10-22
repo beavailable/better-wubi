@@ -791,6 +791,7 @@ acvv 芭嫂
 acwf 茅舍
 acwk 功能食品
 acwr 戎马仓皇
+acwu 莫劝他人善
 acww 戎马倥偬
 acxd 莫桑比克
 acxe 苯巴比妥
@@ -6822,6 +6823,7 @@ atte 蕃舶
 attf 医德
 attf 荡秋千
 attg 医生
+attg 黄秋生
 attg 薄生生
 atth 蕃息
 atti 蕃衍
@@ -9055,6 +9057,7 @@ bcrd 聚拢
 bcrh 取物
 bcrn 聚气
 bcrv 取势
+bcsa 取模
 bcsf 取材
 bcsg 聚酯
 bcsg 聚醚
@@ -9100,6 +9103,7 @@ bcwk 取保
 bcwo 聚集
 bcwo 聚焦
 bcwr 取件
+bcws 取余
 bcww 聚众
 bcwx 取货
 bcwy 取信
@@ -11131,6 +11135,7 @@ bppw 孤家寡人
 bppy 耽禅
 bppy 辽视
 bpq 耽
+bpqd 陈冠希
 bpqi 耽乐
 bpqn 耽
 bpqn 耽饮
@@ -13422,6 +13427,8 @@ ceba 通陈
 cebf 驱逐出境
 cebi 通函
 cebk 鸡猫子喊叫
+cebn 通了
+cebn 能了
 cebp 通辽
 cebu 通联
 cece 熊熊
@@ -13533,6 +13540,10 @@ cejq 通晚
 cejt 通鉴
 cejt 熊蜂
 cejt 通览
+ceka 能呀
+cekb 能啊
+cekc 能吧
+cekc 能吗
 cekd 通顺
 cekg 骑月雨
 cekk 能品
@@ -17269,8 +17280,8 @@ ddsw 大椎
 ddsx 大楷
 ddsy 大有可为
 ddsy 大核
-ddta 故态复萌
 ddta 飙升
+ddta 故态复萌
 ddtd 大乱
 ddtd 大敌
 ddtd 大智
@@ -25151,6 +25162,7 @@ dxyp 龙亭
 dxyr 有线广播
 dxys 龙床
 dxyt 龙州
+dxyx 压缩率
 dxyy 龙文
 dy 太
 dyaa 矿工
@@ -33200,8 +33212,8 @@ fhiy 起浪
 fhjc 赶紧
 fhjc 直竖
 fhje 赵明
-fhjf 越野
 fhjf 走时
+fhjf 越野
 fhjf 超时
 fhjf 起旱
 fhjf 趋时
@@ -33319,8 +33331,9 @@ fhmh 直幅
 fhmm 盐山
 fhmm 赶山
 fhmq 起见
-fhmq 超购
 fhmq 起风
+fhmq 超网
+fhmq 超购
 fhmq 走风
 fhmq 地皮风
 fhmq 趁风
@@ -33414,12 +33427,12 @@ fhpm 真鲷
 fhps 真宇
 fhpt 超额
 fhpt 走客
-fhpu 赤眼鳟
 fhpu 真实
 fhpu 起初
 fhpu 直裰
 fhpu 直补
 fhpu 真宰
+fhpu 赤眼鳟
 fhpw 真空
 fhpw 越窑
 fhpw 走穴
@@ -36562,8 +36575,8 @@ fpgo 过恶
 fpgp 索还
 fpgq 过死
 fpgr 无定形物
-fpgt 无空不入
 fpgt 求之不得
+fpgt 无空不入
 fpgu 壹
 fpgy 无容赘言
 fpha 过虑
@@ -37301,6 +37314,7 @@ fqtd 无智
 fqtd 无辞
 fqtd 远适
 fqte 远航
+fqte 无盘
 fqtf 均等
 fqtf 元稹
 fqtf 远行
@@ -39660,6 +39674,8 @@ fxug 老弱病残
 fxvf 超级女声
 fxvk 无线寻呼
 fxvs 无线寻呼机
+fxwa 未经他人苦
+fxwu 未经他人苦，莫劝他人善
 fxwx 无纸化
 fxxa 超级细菌
 fxxd 无纺织布
@@ -40265,8 +40281,8 @@ gald 开恩
 gale 开胃
 galf 开园
 galf 下花园
-galg 开国
 galg 开车
+galg 开国
 galg 刑车
 galh 开足
 galj 开罪
@@ -43455,9 +43471,9 @@ ggud 一着
 ggud 不逗头
 ggue 王毅
 ggue 王翦
+gguf 一半
 gguf 事不关己，高高挂起
 gguf 珍珠兰
-gguf 一半
 gguh 玶
 gguj 一间
 gguj 琴音
@@ -60595,9 +60611,9 @@ imgi 游山玩水
 imgj 游山玩景
 imgj 没理
 imgk 洞
-imgk 海岸带
-imgk 测速
 imgk 没事
+imgk 测速
+imgk 海岸带
 imgl 油画
 imgm 海峡两岸
 imgn 涄
@@ -72294,6 +72310,7 @@ kadf 哈萨克斯坦
 kadf 中散大夫
 kadg 雨花石
 kadk 喏
+kadm 霸面
 kado 哈萨克族
 kadq 哈萨克
 kadr 嘶
@@ -80568,6 +80585,7 @@ lgfp 软环境办公室
 lgfp 车毂
 lgft 国教
 lgft 国都
+lgft 国考
 lgfu 国境
 lgfu 软环境
 lgfu 国丧
@@ -81703,9 +81721,9 @@ lkew 黑叶猴
 lkfa 加载
 lkfa 加戴
 lkfb 畸零地
+lkfc 回去
 lkfc 躁动
 lkfc 驾云
-lkfc 回去
 lkff 加封
 lkff 回填
 lkfh 架起
@@ -82459,6 +82477,7 @@ lmfn 男同志
 lmft 四则运算
 lmg 轴
 lmge 路见不平，拔刀相助
+lmge 路由表
 lmgg 路见不平
 lmgg 略见一斑
 lmgk 回鹘豆
@@ -86438,8 +86457,8 @@ mgsv 山豆根
 mgtd 同知
 mgtd 夙敌
 mgtf 同等
-mgtf 同德
 mgtf 同行
+mgtf 同德
 mgtg 同生
 mgtj 由不得
 mgtj 见不得
@@ -87754,9 +87773,9 @@ mqfi 见示
 mqfi 购求
 mqfj 购进
 mqfj 网刊
+mqfn 风声
 mqfn 刚韧
 mqfn 网志
-mqfn 风声
 mqfp 见过
 mqft 见教
 mqft 见老
@@ -88493,8 +88512,8 @@ mtr 峨
 mtrc 几把
 mtrg 败兵
 mtrg 财务报表
-mtrh 峰年
 mtrh 几年
+mtrh 峰年
 mtrk 贬损
 mtrm 几罐
 mtrn 贬所
@@ -92543,6 +92562,7 @@ nnfy 愉快教育
 nng 己
 nnga 乙型
 nngc 快到
+nngc 已致
 nnge 惊心裂胆
 nngf 民心不壹
 nngf 羽球
@@ -93796,8 +93816,8 @@ ntlf 发黑
 ntlf 发团
 ntlf 发墨
 ntlg 恤
-ntlg 属国
 ntlg 发车
+ntlg 属国
 ntlj 悔罪
 ntlk 懊躁
 ntlk 发回
@@ -95180,6 +95200,7 @@ nyfc 惊动
 nyfc 心动
 nyfc 惊魂
 nyfc 心魂
+nyfc 慢启动
 nyfc 忙劫
 nyff 尺土
 nyff 心土
@@ -101173,6 +101194,7 @@ pgss 穷形极相
 pgst 定格
 pgsw 密不可分
 pgsy 写述
+pgta 定长
 pgtb 穿一条裤子
 pgtd 宝籍
 pgte 宝笈
@@ -103861,8 +103883,8 @@ puiy 补济
 puj 裸
 pujc 补肾
 puje 鲜明
-pujf 初时
 pujf 实时
+pujf 初时
 pujf 衬里
 pujf 补时
 pujf 被里
@@ -104149,10 +104171,10 @@ purr 补白
 purr 褫魄
 purs 被打
 purs 空间技术
-purt 鲜卑
 purt 衬托
 purt 袖手
 purt 宰手
+purt 鲜卑
 purt 裱托
 puru 裸拼
 purv 实招
@@ -108745,6 +108767,7 @@ qiud 乐善
 qiue 乐毅
 qiuj 乐意
 qiuj 乐章
+qiuj 逃单
 qiuj 乐音
 qium 乐商
 qiut 乐道
@@ -113861,8 +113884,8 @@ rbyp 报亭
 rbyt 报话
 rbyw 排队论
 rbyx 排除率
-rbyy 报廊
 rbyy 报文
+rbyy 报廊
 rc 反
 rcaa 把式
 rcaa 返工
@@ -114152,6 +114175,7 @@ rcqj 找对象
 rcqn 反馈
 rcqn 挨饿
 rcqn 掇饰
+rcqs 反杀
 rcqt 把儿
 rcqv 反刍
 rcqx 排难解纷
@@ -115230,7 +115254,7 @@ rfeb 持服
 rfeb 抢劫犯
 rfec 持盈
 rfed 挂须
-rfee 挺起胸膛
+rfee 岳云鹏
 rfef 拆墙脚
 rfef 挖墙脚
 rfeg 扶助
@@ -116455,6 +116479,7 @@ rhbb 牛子
 rhbb 牧子
 rhbb 牤子
 rhbc 攫取
+rhbc 爬取
 rhbc 看取
 rhbd 看承
 rhbg 牛耳
@@ -116548,9 +116573,9 @@ rhey 白眼狼
 rhf 看
 rhfa 卸载
 rhfa 年载
+rhfb 特地
 rhfb 扑地
 rhfb 看地
-rhfb 特地
 rhfb 牛眠地
 rhfb 牧地
 rhfc 看上去
@@ -117096,6 +117121,7 @@ rhtl 掉血
 rhtl 特务
 rhtm 扑向
 rhtm 特向
+rhtm 爬向
 rhtm 牛皮筒
 rhtm 牧笛
 rhtm 物役
@@ -121418,17 +121444,16 @@ rqtv 白金剩女
 rqtx 扑尔敏
 rqtx 的系
 rqud 抱着
-rqud 先头
 rqud 抱拳
-rqud 鬼头
 rqud 抱头
-rqud 挑头
 rqud 抱养
+rqud 先头
 rqud 投名状
-rqud 抢镜头
+rqud 扬名立万
+rqud 鬼头
+rqud 挑头
 rqud 扳错头
 rqud 抵头
-rqud 扬名立万
 rqud 扭角羚
 rqud 选送
 rqud 赞善
@@ -124420,6 +124445,7 @@ rusw 折冲樽俎
 rusw 接榫
 rut 搁
 ruta 拉长
+ruta 拉升
 rutb 指着和尚骂秃子
 rutd 拉矢
 rutd 抖乱
@@ -126097,6 +126123,7 @@ rxuu 批阅
 rxuv 指痕
 rxuw 批准
 rxux 揩背
+rxux 指北
 rxva 抽丝剥茧
 rxvc 拗怒
 rxvf 报纸杂志
@@ -126201,14 +126228,14 @@ ryda 搞砸
 rydc 邀请码
 rydd 扩大
 rydd 斥大
-rydf 反腐硕士
+rydf 抗压
 rydf 掠夺
 rydf 挤压
 rydf 擦肩而过
 rydf 攘夺
+rydf 反腐硕士
 rydf 白衣大士
 rydf 拂衣而去
-rydf 抗压
 rydg 择主而事
 rydh 摔破
 rydh 殷文存
@@ -126384,8 +126411,8 @@ rylg 擅
 rylh 抗足
 rylh 护罩
 rylh 护甲
-rylk 护驾
 rylk 撤回
+rylk 护驾
 ryln 后座力
 ryln 掂思
 ryln 抗力
@@ -137756,6 +137783,7 @@ tgwd 惩一儆百
 tgwd 生事作耗
 tgwe 生俘
 tgwf 和事佬
+tgwf 重传
 tgwf 翻天作地
 tgwf 生祭
 tgwf 重祭
@@ -138313,6 +138341,7 @@ thqr 自刎
 thqs 自杀
 thqt 片儿
 thqt 鼻儿
+thqu 辞旧迎新
 thqy 自留
 thqy 乱点鸳鸯谱
 thqy 延留
@@ -141138,6 +141167,7 @@ topf 番守
 toph 秋官
 topj 秋审
 topt 番客
+topu 秋裤
 topu 秋实
 topv 翻案
 topw 愁容
@@ -146905,9 +146935,9 @@ ueyy 前文
 uf 半
 ufaa 壮工
 ufaa 半工
-ufad 兰若
-ufad 半期
 ufad 辛苦
+ufad 半期
+ufad 兰若
 ufaf 装蒜
 ufag 斗巧
 ufag 六十七
@@ -150889,9 +150919,9 @@ uqsg 次于
 uqsg 将于
 uqsg 奖杯
 uqsg 资本
-uqsg 粢醍
-uqsg 交杯
 uqsg 交配
+uqsg 交杯
+uqsg 粢醍
 uqsh 将相
 uqsh 交相
 uqsp 桨橹
@@ -152260,6 +152290,7 @@ utuj 背私间
 utuj 道意
 utuj 装箱单
 utuk 商务部
+utuk 首部
 utul 痿痹
 utum 疾疫
 utun 旁系亲属
@@ -158284,6 +158315,7 @@ waxn 创世纪
 waxq 借纸
 waxr 代缴
 waxt 供飨
+waxu 你若经我苦，未必有我善
 waxv 黛绿
 waxw 供给
 waxw 借给
@@ -159075,6 +159107,7 @@ wdhh 做上
 wdhh 分厘卡
 wdhj 做旧
 wdhk 优点
+wdhk 做点
 wdhq 佐餐
 wdhq 佛面上刮金
 wdhv 做眼
@@ -168456,6 +168489,7 @@ wyny 令翠
 wyny 依心
 wyny 念心
 wyod 含糊
+wyod 伪类
 wyog 停业
 wyoi 会议旅游
 wyoo 停火
@@ -177205,8 +177239,9 @@ ymbk 调职
 ymbm 高出
 ymbm 高聘
 ymbm 调出
-ymbo 调防
 ymbo 设防
+ymbo 高防
+ymbo 调防
 ymbp 高院
 ymbu 设障
 ymbv 高限
@@ -179329,13 +179364,14 @@ ypqd 磨穿铁砚
 ypqd 诧然
 ypqf 毫针
 ypqg 许家印
+ypqk 这句
 ypqk 豪逸
 ypqk 诨名
-ypqk 这句
+ypqk 房祖名
 ypqn 豪饮
 ypqr 毫忽
-ypqt 亮儿
 ypqt 这儿
+ypqt 亮儿
 ypqu 亭匀
 ypqv 毫银
 ypra 这搭
@@ -180767,6 +180803,7 @@ ytx 诲
 ytxf 话绪
 ytxh 诱引
 ytxj 话费
+ytxm 郭德纲
 ytxq 谢绝
 ytxu 诲
 ytxy 主和弦
