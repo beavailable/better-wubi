@@ -76,10 +76,10 @@ def main():
             else:
                 words.append((code, value))
     chars.sort(key=lambda it: it[1])
-    print('单字频率：')
+    print('单字比例：')
     stat_freq(chars)
     print()
-    print('词组频率：')
+    print('词组比例：')
     stat_freq(words)
     print()
     print('单字重码：')
