@@ -55,7 +55,7 @@ def stat_chongma(lst):
         value_total += count
         if count > 1:
             codes += 1
-            values += count
+            values += count - 1
     print('-----------------------------------------------')
     print('| 指标 |    总计    |    重码    |    比例    |')
     print('-----------------------------------------------')
