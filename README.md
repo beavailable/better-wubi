@@ -112,18 +112,18 @@ yctd 诶
 
 注意：由于`wubiLex`只接受特定扩展名的码表文件，你可能需要将码表重命名为`better-wubi.txt`才能添加。
 
-## Linux
+## Debian & Ubuntu
 
 ### fcitx
 ```shell
-# preinstall
-# fcitx: fcitx fcitx-table-wubi fcitx-tools
-# fcitx5: fcitx5 fcitx5-chinese-addons libime-bin
+# requires
+# fcitx: sudo apt install fcitx fcitx-table-wubi fcitx-tools
+# fcitx5: sudo apt install fcitx5 fcitx5-chinese-addons libime-bin
 git clone --depth=1 https://github.com/beavailable/better-wubi.git
 cd better-wubi
 sudo -E ./install-for-fcitx.sh
 ```
-之后添加`better-wubi`输入法即可。
+然后在`fcitx`设置面板添加`better-wubi`输入法即可。
 
 # 转换
 `convert.py`脚本可以将码表转换为你需要的格式。
