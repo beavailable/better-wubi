@@ -1,46 +1,38 @@
 #!/bin/bash
 install_for_fcitx() {
-    local dict conf_wbx conf pattern
+    local conf_wbx conf dict
     if ! which txt2mb &>/dev/null; then
         echo 'txt2mb not found'
         exit 1
     fi
-    dict=better-wubi.mb
     conf_wbx=/usr/share/fcitx/table/wbx.conf
-    conf=/usr/share/fcitx/table/better-wubi.conf
+    conf=~/.config/fcitx/table/better-wubi.conf
+    dict=better-wubi.mb
 
-    txt2mb <(./convert.py fcitx) /usr/share/fcitx/table/$dict
+    mkdir -p ~/.config/fcitx/table
+    txt2mb <(./convert.py fcitx) ~/.config/fcitx/table/$dict
 
-    pattern="s/^(UniqueName=).+\$/\1better-wubi/;s/^(Name.*=).+\$/\1better-wubi/;s?^File=.+\$?File=$dict?"
-    sed -E "$pattern" $conf_wbx >$conf
+    sed -E "s/^(UniqueName=).+\$/\1better-wubi/;s/^(Name.*=).+\$/\1better-wubi/;s?^File=.+\$?File=$dict?" $conf_wbx >$conf
 
-    sudo -Eu $SUDO_USER bash <<EOF
-dbus-send --type=method_call --dest=org.fcitx.Fcitx /inputmethod org.fcitx.Fcitx.InputMethod.Restart
-EOF
+    dbus-send --type=method_call --dest=org.fcitx.Fcitx /inputmethod org.fcitx.Fcitx.InputMethod.Restart
 }
 install_for_fcitx5() {
-    local dict conf_wbx conf pattern
+    local conf_wbx conf dict
     if ! which libime_tabledict &>/dev/null; then
         echo 'libime_tabledict not found'
         exit 1
     fi
-    dict=/usr/share/libime/better-wubi.main.dict
     conf_wbx=/usr/share/fcitx5/inputmethod/wbx.conf
-    conf=/usr/share/fcitx5/inputmethod/better-wubi.conf
+    conf=~/.local/share/fcitx5/inputmethod/better-wubi.conf
+    dict=~/.local/share/fcitx5/inputmethod/better-wubi.main.dict
 
+    mkdir -p ~/.local/share/fcitx5/inputmethod
     libime_tabledict <(./convert.py fcitx) $dict
 
-    pattern="s/^(Name.*=).+\$/\1better-wubi/;s?^File=.+\$?File=$dict?"
-    sed -E "$pattern" $conf_wbx >$conf
+    sed -E "s/^(Name.*=).+\$/\1better-wubi/;s?^File=.+\$?File=$dict?" $conf_wbx >$conf
 
-    sudo -Eu $SUDO_USER bash <<EOF
-fcitx5-remote -e && fcitx5-remote -c
-EOF
+    fcitx5-remote -e && fcitx5-remote -c
 }
-if [ $EUID != 0 ]; then
-    echo 'please run it with root permissions'
-    exit 1
-fi
 if which fcitx &>/dev/null; then
     install_for_fcitx
 elif which fcitx5 &>/dev/null; then

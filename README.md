@@ -122,7 +122,7 @@ yctd 诶
 # fcitx5: sudo apt install fcitx5 fcitx5-chinese-addons libime-bin
 git clone --depth=1 https://github.com/beavailable/better-wubi.git
 cd better-wubi
-sudo -E ./install-for-fcitx.sh
+./install-for-fcitx.sh
 ```
 然后在`fcitx`设置面板添加`better-wubi`输入法即可。
 
