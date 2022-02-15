@@ -5409,6 +5409,7 @@ apeq 蒙胞
 apfb 营地
 apfb 茔地
 apfb 劳教
+apfc 蔻
 apfc 劳动
 apfc 营运
 apfd 蓉城
@@ -5421,7 +5422,6 @@ apfi 蒙求
 apfi 营求
 apfj 荣进
 apfk 蒙瞽
-apfl 蔻
 apfq 莞
 apfr 蒙垢
 apfu 荣幸
@@ -16848,6 +16848,7 @@ ddd 磊
 ddda 大碟
 dddc 大雄
 dddd 大
+dddd 靥
 dddd 大大
 dddd 硕大
 dddd 不尴不尬
@@ -16883,7 +16884,6 @@ dddi 不大不小
 dddi 不咸不淡
 dddj 大碍
 dddj 百万雄师
-dddl 靥
 dddl 不三不四
 dddl 顾三不顾四
 dddl 大历
@@ -52452,6 +52452,7 @@ hbfb 瞎子起房子
 hbhj 瞎子点灯白费蜡
 hbho 瞎子点灯
 hbhv 瞎了眼
+hbjf 凹耳蛙
 hbkl 瞎子吃汤圆
 hbmg 上了山尖想上天
 hboa 瞎子断匾
@@ -52650,6 +52651,7 @@ hdqc 盼辰勾
 hdqg 䴗
 hdqh 桌面儿上
 hdqu 凸面镜
+hdqu 凹面镜
 hdrf 上有皇天，下有后土
 hdru 虎不拉
 hdsc 占有权
@@ -52841,6 +52843,7 @@ hggo 瞎来来
 hggs 眇天末
 hggy 上下班
 hgh 眄
+hghg 凸
 hghg 眄眄
 hghh 睁一眼闭一眼
 hghk 凸点
@@ -52857,9 +52860,7 @@ hgkh 睁一只眼闭一只眼
 hgkl 凸露
 hglw 凸轮
 hglw 皮带轮
-hgm 凸
 hgmd 凸岸
-hgmg 凸
 hgmn 上下同心
 hgmt 瞒天账
 hgmx 皮开肉绽
@@ -52966,6 +52967,8 @@ hhdg 瞒上不瞒下
 hhdg 上古
 hhdg 上感
 hhdg 虎眼石
+hhdg 凹凸不平
+hhdg 凹凸有致
 hhdh 卡在
 hhdi 目耕
 hhdj 上百
@@ -53236,6 +53239,7 @@ hhqc 上色
 hhqd 瞿然
 hhqd 矍然
 hhqg 上铺
+hhqg 凹凸印
 hhqi 上锁
 hhqi 目逃
 hhqj 上旬
@@ -54176,12 +54180,14 @@ hnak 鼎革
 hnan 眠
 hnaw 虚怀若谷
 hnb 瞰
+hnbq 凹陷
 hnbt 瞰
 hncc 步履艰难
 hnd 鼎
 hndd 牂
 hndm 颅
 hndm 卢布
+hndm 凹面
 hndn 鼎
 hndn 鼎盛
 hndu 虎尾春冰
@@ -54192,13 +54198,18 @@ hneg 鼎助
 hneh 鼎鼐
 hnep 颅腔
 hney 颅脑
+hnfb 凹地
 hnfd 鼎城
+hnfj 凹进
 hnfq 鼎元
+hnfy 凹坑
 hngd 上情下达
 hngd 眠蚕
 hngf 虚惊一场
 hngh 忐忑
+hngh 凹下
 hngo 肯尼亚
+hnhg 凹凸
 hnhh 瞩目
 hnhh 皮翼目
 hnhj 此情此景
@@ -54206,6 +54217,7 @@ hnhn 鼎鼎
 hnhn 牂牂
 hnid 鼎湖
 hnig 雌性激素
+hnim 凹洞
 hnip 睡懒觉
 hnix 鼎沸
 hnjn 瞒心昧己
@@ -54217,9 +54229,11 @@ hnlh 鼎甲
 hnll 步履蹒跚
 hnln 鼎力
 hnlx 上层路线
+hnmd 凹岸
 hnme 颅骨
 hnme 上臂骨
 hnmf 鼎峙
+hnmg 凹
 hnmw 颅内
 hnnf 虚怯怯
 hnng 眼怔怔
@@ -54236,15 +54250,19 @@ hnqa 卢氏
 hnqd 卢希
 hnqg 鸬
 hnqk 鼎锅
+hnqu 凹镜
 hnsc 卢梭
 hnss 眠梦
 hnss 牂柯
 hnst 此情可待
 hnt 瞩
+hnth 凹版
 hnty 瞩
+hnty 凹入
 hnu 忐
 hnus 鼎新
 hnuu 鼎立
+hnuv 凹痕
 hnuw 旧恨新仇
 hnux 鸬鹚
 hnux 皮蛋瘦肉粥
@@ -54443,6 +54461,7 @@ hqkc 餐吧
 hqkn 餐霞
 hqlg 凸多边形
 hqlg 餐车
+hqlg 凹多边形
 hqln 瞻思
 hqmb 战争贩子
 hqme 皮包骨
@@ -54669,8 +54688,10 @@ htpw 睡容
 htpy 眨
 htpy 睡神
 htqn 凸版印刷
+htqn 凹版印刷
 htqt 虎符金牌
 htqu 凸透镜
+htqu 凹透镜
 htqx 凸版印刷纸
 htra 卡利撒
 htra 瞅摸
@@ -71307,6 +71328,7 @@ jsh 旴
 jshc 果皮
 jshj 果桌
 jsht 照相凸版
+jsht 照相凹版
 jsi 果
 jsia 旴江
 jsif 果汁
@@ -71335,7 +71357,6 @@ jslf 果木园
 jslh 果足
 jslt 晒图
 jsmh 螺栓帽
-jsmt 照相凹版
 jsmw 果肉
 jsnb 果敢
 jsnn 悲歌慷慨
@@ -85992,7 +86013,6 @@ mbib 崡
 mbid 内陆湖
 mbis 内陆河
 mbit 内陆海
-mbjf 凹耳蛙
 mbjf 骨子里
 mbjn 邮电
 mbkf 迥隔霄壤
@@ -86279,7 +86299,6 @@ mdqk 颛名
 mdqn 赈饥
 mdqq 贿金
 mdqr 岸忽
-mdqu 凹面镜
 mdqw 山不留人水留人
 mdrd 财雄势大
 mdrk 赈捐
@@ -87212,8 +87231,6 @@ mhbm 贴出
 mhd 帱
 mhdf 帱
 mhdf 帨辰
-mhdg 凹凸不平
-mhdg 凹凸有致
 mhdg 由上而下
 mhdh 贴在
 mhdk 帐套
@@ -87357,7 +87374,6 @@ mhpw 帏帘
 mhqd 幡然
 mhqd 帖然
 mhqf 贴钱
-mhqg 凹凸印
 mhqi 贝尔
 mhqj 由旬
 mhqq 贴金
@@ -87749,7 +87765,6 @@ mmbe 山阴
 mmbf 山陵
 mmbj 山阳
 mmbn 删了
-mmbq 凹陷
 mmbs 山阿
 mmbu 山隘
 mmbw 删除
@@ -87767,7 +87782,6 @@ mmdg 崎岖不平
 mmdg 山石
 mmdh 删存
 mmdk 山右
-mmdm 凹面
 mmdm 册页
 mmea 山猫
 mmef 山脚
@@ -87779,7 +87793,6 @@ mmes 山腰
 mmes 肉山脯林
 mmet 山腹
 mmey 山脉
-mmfb 凹地
 mmfb 山地
 mmfb 岗地
 mmfb 山崩地陷
@@ -87792,7 +87805,6 @@ mmff 山崩地坼
 mmff 山崩地塌
 mmfg 山崩地裂
 mmfh 山坡
-mmfj 凹进
 mmfj 山都
 mmfk 赒
 mmfm 山南
@@ -87801,17 +87813,14 @@ mmfp 骨肉未寒
 mmfq 山坞
 mmfu 见财起意
 mmfx 山坳
-mmfy 凹坑
 mmg 岫
 mmga 鹦鹉
 mmga 山弄
 mmgc 几内亚鸡
 mmgd 册
-mmgd 凹
 mmgd 山蚕
 mmgd 山环
 mmgg 山王
-mmgh 凹下
 mmgh 山下
 mmgi 几内亚湾
 mmgj 删
@@ -87826,9 +87835,9 @@ mmgx 几内亚比绍
 mmgy 岫玉
 mmgy 岫岩玉
 mmh 屾
-mmhg 凹凸
 mmhh 山上
 mmhh 岗卡
+mmhn 山凹
 mmhp 山壑
 mmhv 丹凤眼
 mmhw 岗龄
@@ -87844,7 +87853,6 @@ mmii 山水
 mmii 山山水水
 mmii 肉山酒海
 mmii 风风光光
-mmim 凹洞
 mmim 山洞
 mmin 山泥
 mmip 山堂
@@ -87890,7 +87898,6 @@ mmlt 见风转篷
 mmlu 山圈
 mmm 山
 mmma 山贼
-mmmd 凹岸
 mmmd 山崖
 mmmd 岫岩
 mmmd 骨岩岩
@@ -87903,7 +87910,6 @@ mmmg 山峡
 mmmh 删帖
 mmmh 岫幌
 mmmm 山
-mmmm 山凹
 mmmm 崇山峻岭
 mmmm 山岗
 mmmm 崆峒山
@@ -87956,7 +87962,6 @@ mmqq 山金
 mmqt 婴儿
 mmqu 岚
 mmqu 岗
-mmqu 凹镜
 mmr 罂
 mmrd 岚皋
 mmrg 山丘
@@ -88005,7 +88010,6 @@ mmta 见风长
 mmtc 山径
 mmtd 山岙
 mmtg 山箐
-mmth 凹版
 mmtk 山积
 mmtm 山向
 mmtn 骨肉私情
@@ -88018,7 +88022,6 @@ mmtt 骨肉重逢
 mmtu 几几乎
 mmtx 山系
 mmtx 骨骼系统
-mmty 凹入
 mmty 崖岸自高
 mmud 删减
 mmud 山羊
@@ -88036,7 +88039,6 @@ mmut 山道
 mmut 山产
 mmuu 册立
 mmuu 山阙
-mmuv 凹痕
 mmuy 山门
 mmv 婴
 mmvc 网购奴
@@ -88519,7 +88521,6 @@ mqle 网胃
 mqlf 购置
 mqlg 风车
 mqlg 婴儿车
-mqlg 凹多边形
 mqlh 赡足
 mqlh 网罩
 mqli 婴儿黑洞
@@ -89144,11 +89145,9 @@ mtqk 几句
 mtqk 败句
 mtqk 败名
 mtqn 几包
-mtqn 凹版印刷
 mtqn 雕版印刷
 mtqq 几多
 mtqt 几儿
-mtqu 凹透镜
 mtr 峨
 mtrc 几把
 mtrg 败兵
@@ -139036,6 +139035,7 @@ thhh 算上
 thhh 息止
 thhh 片目
 thhj 牌桌
+thhn 鼻凹
 thho 笑眯眯
 thhq 延眺
 thht 鼾睡
@@ -139167,7 +139167,6 @@ thme 鼻骨
 thmf 自赎
 thmh 自由
 thmh 算帐
-thmm 鼻凹
 thmq 乍见
 thmq 牌风
 thmq 鼻风
@@ -139233,6 +139232,7 @@ thou 自料
 thov 算数
 thoy 延米
 thoy 处方
+thoy 鼻凹糖
 thp 延
 thpb 入虎穴得虎子
 thpd 延
@@ -141443,7 +141443,6 @@ tmot 颓放
 tmou 微粒
 tmow 微粉
 tmow 自由放任
-tmoy 鼻凹糖
 tmoy 微米
 tmpe 身家
 tmpf 奥赛
@@ -153041,6 +153040,7 @@ uthi 疾步
 uthk 首战
 uthk 羊入虎口
 uthn 新愁旧恨
+uthn 冷鼻凹
 uthp 道
 uths 𫔶
 uthv 道眼
@@ -153124,7 +153124,6 @@ utmj 立竿见影
 utmm 痛入骨髓
 utmm 亲生骨肉
 utmm 道山
-utmm 冷鼻凹
 utmq 关系网
 utmq 疾风
 utn 疙
@@ -165106,6 +165105,7 @@ wqhh 仰止
 wqhi 低频
 wqhi 爷叔
 wqhk 低点
+wqhn 低凹
 wqhq 斜象眼儿
 wqhw 低龄
 wqi 您
@@ -165166,7 +165166,6 @@ wqlq 低软
 wqmf 低贱
 wqmh 八角帽
 wqmh 低幅
-wqmm 低凹
 wqmm 傅铁山
 wqmt 低峰
 wqna 你懂
