@@ -136,6 +136,7 @@ cd better-wubi
 提示：词库不同、统计方法不同可能会导致结果不同，此数据仅供参考！
 
 # 鸣谢
+- 王码五笔发明者王永民先生
 - [CNMan](https://github.com/CNMan) 提供原始码表
 - [字甲达宾](https://bbs.deepin.org/user/53398) 制作图标
 
