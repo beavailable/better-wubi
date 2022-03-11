@@ -73,6 +73,7 @@ yctd 诶
     - [x] 将`予`字的编码从`cbj`改为`cnhj`
     - [x] 将`特`字的编码从`trff`改为`rhff`
     - [x] 将`囊`字的编码从`gkhe`改为`fkpe`
+    - [x] 将`兰`字的编码从`uff`改为`udf`
     - [x] 将`养`字的编码从`udyj`改为`udwj`
     - [x] 将`我`字的编码从`trnt`改为`trxy`
     - [x] 将`凸`字的编码从`hgmg`改为`hghg`
