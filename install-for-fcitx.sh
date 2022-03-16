@@ -7,13 +7,13 @@ install_for_fcitx() {
     fi
     conf_wbx=/usr/share/fcitx/table/wbx.conf
     conf=~/.config/fcitx/table/better-wubi.conf
-    dict=better-wubi.mb
+    dict=~/.config/fcitx/table/better-wubi.mb
     icon=~/.config/fcitx/table/better-wubi.png
 
     mkdir -p ~/.config/fcitx/table
-    txt2mb <(./convert.py fcitx) ~/.config/fcitx/table/$dict
+    txt2mb <(./convert.py fcitx) $dict
     cp ./icon.png $icon
-    sed -E -e "s/^(UniqueName=).+\$/\1better-wubi/" -e "s/^(Name.*=).+\$/\1better-wubi/" -e "s!^File=.+\$!File=$dict!" -e "s!^Icon=.+\$!Icon=$icon!" $conf_wbx >$conf
+    sed -E -e "s/^(UniqueName=).+\$/\1better-wubi/" -e "s/^(Name.*=).+\$/\1better-wubi/" -e "s!^File=.+\$!File=$dict!" -e "s!^IconName=.+\$!IconName=$icon!" $conf_wbx >$conf
 
     dbus-send --type=method_call --dest=org.fcitx.Fcitx /inputmethod org.fcitx.Fcitx.InputMethod.Restart
 }
