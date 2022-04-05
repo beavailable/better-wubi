@@ -77,6 +77,7 @@ yctd 诶
     - [x] 将`瓦`字的编码从`gnyn`改为`gnny`
     - [x] 将`官`字的编码从`pnhn`改为`phnn`
     - [x] 将`予`字的编码从`cbj`改为`cnhj`
+    - [x] 将`戊`字的编码从`dnyt`改为`dxyi`
     - [x] 将`特`字的编码从`trff`改为`rhff`
     - [x] 将`囊`字的编码从`gkhe`改为`fkpe`
     - [x] 将`兰`字的编码从`uff`改为`udf`
