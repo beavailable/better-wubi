@@ -4531,6 +4531,7 @@ ambc 恐聚
 ambf 黄陵
 ambf 落帽孟嘉
 ambh 黄陂
+ambn 黄了
 ambp 贡院
 ambw 芟除
 amc 芟
@@ -5888,6 +5889,7 @@ aqkf 苟
 aqkf 茗
 aqkg 区号
 aqkg 警号
+aqkg 营销号
 aqkh 欧金中
 aqkk 蒸馏器
 aqkl 区别
@@ -7260,6 +7262,7 @@ avfy 匡君救主
 avga 切开
 avga 蒙娜丽莎
 avgc 切至
+avgc 切到
 avgf 切球
 avgg 萧瑟
 avgh 切下
@@ -16070,8 +16073,8 @@ daff 耍花坛
 dafg 三七二十一
 dafg 不共戴天
 dafg 大茅埔
-dafh 碱式盐
 dafh 左起
+dafh 碱式盐
 dafn 砌块
 dafo 不落地族
 dafp 不贰过
@@ -19935,6 +19938,7 @@ dhad 存项
 dhad 契勘
 dhad 丕基
 dhae 破获
+dhae 不获
 dhae 不菜
 dhae 破散
 dhae 丰获
@@ -20299,6 +20303,7 @@ dhhn 不眠
 dhhn 夏眠
 dhhn 夏鼎
 dhhp 不瞑
+dhht 不睡
 dhht 不虚此行
 dhhv 慧眼
 dhhv 破眼
@@ -20475,6 +20480,7 @@ dhlp 不连
 dhlq 不跑
 dhlq 不跳
 dhlr 不跌
+dhls 不困
 dhlt 不图
 dhlt 不上路
 dhlv 不跟
@@ -20845,6 +20851,7 @@ dhtf 不等
 dhtf 不待
 dhtf 在行
 dhtf 故步自封
+dhtf 不丢
 dhtf 不乖
 dhtf 不毛
 dhtf 不德
@@ -20859,6 +20866,7 @@ dhtg 夏征
 dhth 不算
 dhth 不息
 dhth 存息
+dhth 破处
 dhth 不上算
 dhti 不愆
 dhtj 不得
@@ -20872,6 +20880,7 @@ dhtk 存积
 dhtk 夏种
 dhtl 不备
 dhtm 不向
+dhtm 不射
 dhtm 歪躺
 dhtm 存身
 dhtm 破身
@@ -21927,6 +21936,7 @@ dkf 右
 dkfa 破零二落
 dkfa 套裁
 dkfb 右地
+dkfh 右起
 dkfk 套鼓
 dkfm 右击
 dkfn 有口无心
@@ -27228,6 +27238,7 @@ dylh 太甲
 dylk 太圆
 dyll 矿田
 dylp 戍边
+dyls 太困
 dylu 三房四妾
 dylu 布衣黔首
 dylw 丰衣足食
@@ -31672,6 +31683,7 @@ eyfg 脏
 eyfg 脑干
 eyfj 受访者
 eyfj 受文者
+eyfn 胜读十年书
 eyfp 脑壳
 eyfw 狱规
 eyg 狺
@@ -34003,6 +34015,7 @@ ffrm 填制
 ffrm 土制
 ffrm 封缸
 ffrn 土气
+ffrp 封控
 ffrp 堵控
 ffrq 鼓鼓的
 ffrq 越越的
@@ -40587,6 +40600,7 @@ ftxf 才绪
 ftxf 载重线
 ftxq 鼓版纸
 ftxu 圪弹
+ftxw 才给
 ftxx 才比
 ftya 二季度
 ftya 均衡度
@@ -42989,6 +43003,7 @@ gcud 致送
 gcud 到差
 gcue 到前
 gcug 致病
+gcuh 到站
 gcuj 致意
 gcuj 至意
 gcuk 致癌
@@ -43018,6 +43033,7 @@ gcwt 政通人和
 gcwu 到位
 gcwu 到伴
 gcww 至人
+gcww 致人
 gcwx 到货
 gcwy 至今
 gcwy 致信
@@ -44917,6 +44933,7 @@ ggiy 一流
 ggiy 五洲
 ggiy 刑事法庭
 ggiy 玻璃液
+ggjc 一竖
 ggjd 一辈
 ggjd 王晨
 ggje 王明
@@ -45015,6 +45032,7 @@ gglp 一连
 gglq 一跳
 gglt 一路
 gglt 一跃
+gglt 一图
 gglt 环形图
 gglu 一圈
 gglu 一跤
@@ -45186,6 +45204,7 @@ ggrc 一把
 ggrc 一反
 ggrc 五反
 ggrc 王瓜
+ggrd 一捺
 ggrf 珐琅质
 ggrg 一抹
 ggrg 五岳
@@ -45240,6 +45259,7 @@ ggrw 一捻
 ggrx 一批
 ggrx 五指
 ggsa 一栋
+ggsa 一横
 ggsc 王权
 ggsc 珊瑚树
 ggsc 五权
@@ -45531,6 +45551,7 @@ ggxy 琴弦
 ggy 珏
 ggya 一度
 ggya 一试
+ggya 一席
 ggya 王度
 ggyb 王敦
 ggyc 王充
@@ -50454,6 +50475,7 @@ guce 平通
 guck 平台
 gucq 夹道欢迎
 gucq 平允
+gud 瑳
 guda 瑳
 gudd 至交契友
 gude 平胡
@@ -78418,10 +78440,12 @@ kvga 肆刑
 kvgd 哪天
 kvge 雪青
 kvgg 哪一
+kvgn 听君一席话，胜读十年书
 kvgo 哪来
 kvgr 雪碧
 kvgx 肆毒
 kvgx 哏毒
+kvgy 听君一席话
 kvh 嗖
 kvha 肆虐
 kvhc 嗖
@@ -79008,6 +79032,7 @@ kwyq 喻义
 kwyt 只许
 kwyt 霍州
 kwyu 只说
+kwyw 只认
 kwyw 零座
 kx 哟
 kxap 呼毕勒罕
@@ -81342,6 +81367,7 @@ lgtm 辅币
 lgtm 国币
 lgtp 车管
 lgtq 力平衡
+lgtr 黑天鹅
 lgts 车箱
 lgts 回天乏术
 lgts 辐条
@@ -86252,6 +86278,7 @@ mefj 骨都
 mefl 风月无边
 mefm 崩坍
 mefn 风月场
+mefp 崩过
 megg 岨
 megm 骨刺
 mego 雕肝琢膂
@@ -90361,6 +90388,7 @@ nbeb 屈服
 nbeb 慑服
 nbeg 慢阻肺
 nbeg 敢且
+nbeh 敢用
 nbes 屈膝
 nbfc 敢去
 nbfg 敢干
@@ -90391,6 +90419,7 @@ nbjg 敢是
 nbjg 屈量
 nbjg 导出量
 nbjt 屈蟠
+nbkt 敢吃
 nblk 屈驾
 nbls 孱困
 nbm 屈
@@ -94690,6 +94719,7 @@ ntvq 悔婚
 ntvt 改姓
 ntvy 心乱如麻
 ntwd 属僚
+ntwf 居委会
 ntwf 发付
 ntwf 发舒
 ntwg 性命
@@ -115877,6 +115907,7 @@ rfbi 扶丞
 rfbk 挂职
 rfbm 挂出
 rfbn 挂了
+rfbn 扶了
 rfbp 托老院
 rfbq 遁隐
 rfbr 探囊取物
@@ -118022,6 +118053,7 @@ rifh 撑起
 rifh 抄起
 rifh 朱淑真
 rifi 抄示
+rifj 执法者
 rifj 欣赏者
 rifk 朱熹
 rifk 拨浪鼓
@@ -126182,10 +126214,14 @@ rwng 白人情
 rwnh 抢收
 rwnh 失收
 rwnh 看人眉睫
+rwni 授人以渔
+rwni 授人以鱼不如授人以渔
+rwni 授人以鱼，不如授人以渔
 rwnl 拊翼
 rwnn 失忆
 rwnn 反贪局
 rwnn 抢快
+rwnp 授人以鱼
 rwnp 物阜民安
 rwns 授人以柄
 rwnt 操作性
@@ -135563,6 +135599,7 @@ tddu 辞不达意
 tddv 千百成群
 tddw 长大成人
 tddw 入石三分
+tddy 长盛不衰
 tddy 知而不言
 tddy 辞不达义
 tddy 船破有底
@@ -141154,6 +141191,7 @@ tmip 向学
 tmip 稠浓
 tmip 辞典学
 tmiq 向光
+tmir 自由派
 tmir 身派
 tmit 微少
 tmiv 身染
@@ -144426,6 +144464,7 @@ tvlc 很轻
 tvlf 很黑
 tvlj 委罪
 tvlq 很软
+tvls 很困
 tvlw 委办
 tvlx 很累
 tvma 委曲
@@ -145718,6 +145757,7 @@ uafj 并进
 uafk 迸鼓
 uafl 半劳动力
 uafm 迸击
+uafm 并击
 uafq 并无
 uafr 迸坼
 uafw 旁若无人
@@ -155281,6 +155321,7 @@ vbky 好嘛
 vblf 好转
 vblg 君子国
 vblq 好软
+vbls 好困
 vblw 好办
 vblx 好累
 vbmf 好赌
@@ -158121,6 +158162,7 @@ vubb 嫡子
 vubi 嫌隙
 vubi 嫡孙
 vubm 嫡出
+vud 婘
 vudb 婘
 vudd 嫌厌
 vudh 姣艳
@@ -158990,6 +159032,7 @@ wasj 借榻
 wask 分节歌
 wasm 借机
 waso 供楼
+waso 借楼
 wasq 供攀
 wasr 代板
 wass 伐木
@@ -165396,6 +165439,7 @@ wsba 父析子荷
 wsbb 体子
 wsbb 余子
 wsbj 斜阳
+wsbn 像极了
 wsbu 八杆子打不着
 wsbv 何限
 wsce 体能
@@ -175371,6 +175415,7 @@ yddd 磨而不磷
 yddd 毫厘不爽
 yddd 言大而夸
 yddg 说破大天
+yddh 庆丰
 yddh 谑而不虐
 yddl 庆历
 yddn 亢龙有悔
@@ -176308,6 +176353,7 @@ yfya 言者谆谆，听者藐藐
 yfyb 诘诎
 yfyc 读诵
 yfyf 说干就干
+yfyf 说走就走
 yfyf 𬣡𬣡
 yfyg 庄主
 yfyg 讲评
