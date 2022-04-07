@@ -87,8 +87,6 @@ def main():
     print()
     print('词组重码：')
     stat_chongma(words)
-    print()
-    print('提示：词库不同、统计方法不同可能会导致结果不同，此数据仅供参考！')
 
 
 main()
