@@ -2359,6 +2359,7 @@ agtv 东一筢子西一扫帚
 agu 苹
 agua 莱顿瓶
 agub 药到病除
+agud 荚
 agud 葬送
 agud 蕙兰
 agud 巧辩
@@ -2366,7 +2367,6 @@ aguf 苹
 aguf 东亚病夫
 aguj 七音
 aguq 七次
-aguw 荚
 aguy 荆门
 agv 萋
 agvc 七始
@@ -9871,6 +9871,7 @@ bgtp 耳管
 bgtt 出死入生
 bgu 陕
 bgub 耳闻
+bgud 陕
 bgud 隔着
 bguf 耳闭
 bguh 聊天站
@@ -9881,7 +9882,6 @@ bguj 耳韵
 bgup 耳旁
 bgut 卫道
 bguu 陈至立
-bguw 陕
 bgux 陕北
 bgux 耳背
 bguy 隔阂
@@ -19720,6 +19720,7 @@ dgu 砰
 dgua 三瓶
 dguc 硬闯
 dguc 古冶
+dgud 硖
 dgud 石头
 dgud 三关
 dgud 研判
@@ -19755,7 +19756,6 @@ dgut 石首
 dgut 太平道
 dguu 有形资产
 dguu 石阙
-dguw 硖
 dguw 三益
 dgux 三北
 dguy 三更半夜
@@ -29204,6 +29204,7 @@ egtx 悬系
 egty 豕
 egu 狭
 egua 肺痨
+egud 狭
 egud 猜拳
 egud 脯鲞
 egud 助养
@@ -29222,7 +29223,6 @@ egut 滕王阁
 egut 且道
 egut 狂疾
 eguu 县立
-eguw 狭
 eguw 助益
 egvc 狂怒
 egvk 且如
@@ -50653,8 +50653,9 @@ guce 平通
 guck 平台
 gucq 夹道欢迎
 gucq 平允
-gud 瑳
+gud 夹
 guda 瑳
+gudb 郏
 gudd 至交契友
 gude 平胡
 gudf 一闪而过
@@ -50663,8 +50664,10 @@ gudf 一头碰南墙
 gudf 五羖大夫
 gudh 夹在
 gudh 一头碰死南墙上
+gudi 夹
 gudl 一着不慎，全盘皆输
 gudl 一着不慎，满盘皆输
+gudm 颊
 gudm 平面
 gudm 平布
 gudm 平硐
@@ -51052,19 +51055,15 @@ guuy 豆浆门
 guuy 融资门
 guvd 至亲好友
 guvs 夹杂
-guw 夹
 guwa 夹袋
-guwb 郏
 guwb 平仓
 guwd 平伏
 guwf 平舆
 guwg 天道人事
 guwg 更阑人静
 guwg 五瘟使
-guwi 夹
 guwj 平伸
 guwk 王次仲
-guwm 颊
 guwn 平阜
 guwo 平伙
 guws 平途
@@ -58332,6 +58331,7 @@ igtw 清徐
 igty 清稿
 igty 添入
 igu 浃
+igud 浃
 igud 清减
 igud 没来头
 igud 洋玉兰
@@ -58358,7 +58358,6 @@ iguu 深恶痛疾
 iguv 深恶痛嫉
 iguv 添妆
 iguv 渍痕
-iguw 浃
 iguw 清冷
 iguw 漆毒疹
 igux 深恶痛绝
@@ -69347,6 +69346,7 @@ jgtu 遇事生端
 jgtw 题签
 jgu 蛱
 jgua 量瓶
+jgud 蛱
 jgud 题头
 jguf 蚲
 jguf 旺壮
@@ -69358,7 +69358,6 @@ jguq 虾酱
 jgus 师尊
 jgut 量产
 jgut 师道
-jguw 蛱
 jgux 师弟
 jguy 师门
 jgvb 晴好
@@ -87197,6 +87196,7 @@ mgtu 同科
 mgtv 同一律
 mgty 同往
 mgu 峡
+mgud 峡
 mgue 同前
 mguj 同意
 mguj 同音
@@ -87208,7 +87208,6 @@ mguq 同一次
 mgus 赋闲
 mgus 财政资本
 mgut 同道
-mguw 峡
 mguy 同门
 mgvb 同好
 mgvq 山斑鸠
@@ -108959,6 +108958,7 @@ qgtt 铢两悉称
 qgtw 乐天知命
 qgty 鿏
 qgua 名列前茅
+qgud 铗
 qgud 铺头
 qgud 象形拳
 qguf 铺天盖地
@@ -108972,7 +108972,6 @@ qgus 金融资本
 qgut 迎来送往
 qgut 铺首
 qguv 印痕
-qguw 铗
 qguy 外五六
 qgvb 金玉君子
 qgve 钙奶
@@ -117276,6 +117275,7 @@ rgtw 制表符
 rgty 后入
 rgu 挟
 rgub 手到病除
+rgud 挟
 rgud 后头
 rgud 捂着
 rgud 捕头
@@ -117308,7 +117308,6 @@ rgut 后首
 rgut 搔到痒处
 rgut 特惠关税
 rguv 后天美女
-rguw 挟
 rguw 丘疹
 rgux 后背
 rgux 丘北
@@ -162371,6 +162370,7 @@ wgu 侠
 wgua 合并
 wgub 合朔
 wgub 倒逆
+wgud 侠
 wgud 拿着
 wgud 合着
 wgud 债券
@@ -162420,7 +162420,6 @@ wgut 命道
 wgut 侈丽闳衍
 wguu 倒立
 wguu 僵立
-wguw 侠
 wguw 愈益
 wguw 僵冷
 wguw 便益
