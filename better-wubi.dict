@@ -1185,6 +1185,7 @@ adpg 勘定
 adpg 藏富
 adpg 戡定
 adpn 茂密
+adpn 斯密
 adpn 匪石之心
 adpt 欺客
 adpt 黄唇鱼
@@ -2546,6 +2547,7 @@ ahlf 雅黑
 ahlg 卧车
 ahln 雅思
 ahlt 邪路
+ahlt 散点图
 ahlv 卧轨
 ahlw 牙轮
 ahma 雅典
@@ -13862,6 +13864,7 @@ cfdm 对面
 cfdn 勇者不惧
 cfdq 对砍
 cfdr 驰魂夺魄
+cfdw 难者不会
 cfee 马志鹏
 cfem 对股
 cfeu 鸡翅膀
@@ -15611,6 +15614,7 @@ cwaq 难区
 cway 通售共享
 cwbj 通信卫星
 cwbn 难了
+cwbn 验了
 cwbw 难除
 cwce 难能
 cwci 巴拿马运河
@@ -15638,6 +15642,7 @@ cwfh 难走
 cwfi 难求
 cwfi 巴伦支海
 cwfp 难过
+cwfp 验过
 cwfx 难老
 cwfy 驸
 cwg 验
@@ -15785,6 +15790,7 @@ cwyg 难分高下
 cwyi 通俗文学
 cwyl 难为
 cwyn 难忘
+cwyn 双人房
 cwyr 通俗读物
 cwys 双人床
 cwyt 验讫
@@ -20373,6 +20379,7 @@ dhis 夏河
 dhit 不少
 dhit 存活
 dhit 不省
+dhit 不活
 dhit 丰沃
 dhit 存省
 dhit 面目清秀
@@ -31863,6 +31870,7 @@ eyih 脑波
 eyii 脏水
 eyim 脑洞
 eyit 脑海
+eyit 脏活
 eyiy 猄
 eyiy 胶州湾
 eyj 脐
@@ -34000,6 +34008,7 @@ ffkt 二十响
 ffld 老顽固
 ffld 埴固
 fflf 博士园
+fflf 地域黑
 fflf 二十四孝
 fflg 堵车
 fflg 墙国
@@ -36006,6 +36015,7 @@ fhsv 起根
 fhsw 二虎相斗，必有一伤
 fht 趱
 fhta 颠簸
+fhta 超长
 fhta 直升
 fhta 超升
 fhtc 直径
@@ -38358,6 +38368,7 @@ fnfh 无忧无虑
 fnfh 志趣
 fnfh 志趋
 fnfj 违者
+fnfj 卖者
 fnfj 专刊
 fnfk 志喜
 fnfn 专卖
@@ -40142,6 +40153,7 @@ fris 土拉河
 fris 封缸酒
 fris 十年河东，十年河西
 friu 博物洽闻
+friy 直播流
 friy 超手游廊
 frjh 寸白虫
 frjp 寸白蛇
@@ -46996,6 +47008,7 @@ gkbk 副职
 gkbk 带职
 gkbm 带出
 gkbm 逼出
+gkbm 整出
 gkbm 一叶障目，不见泰山
 gkbn 带了
 gkbq 融陶
@@ -56292,9 +56305,10 @@ icim 涌湍
 icin 渗漏
 icip 治学
 icip 汉学
+icip 治党
 icip 泽泻
-icip 沇溶
 icip 汉滨
+icip 沇溶
 iciq 渗沟
 icir 涌激
 icis 泾河
@@ -63990,6 +64004,7 @@ irjq 激昂
 irk 浩
 irkc 浩叹
 irkg 浩
+irkg 尖括号
 irkh 派遣
 irkh 湟中
 irkl 派别
@@ -70233,6 +70248,7 @@ jljh 蛔虫
 jljj 螺蛳
 jljl 蝈蝈
 jljw 蠋蝓
+jljx 曼昆
 jlk 蛔
 jlke 螺髻
 jlkg 蛔
@@ -93442,6 +93458,7 @@ nnio 居民消费价格指数
 nnio 快游
 nnis 忌酒
 nnit 快活
+nniu 快滚
 nniv 快当
 nniw 快举
 nniw 书脊
@@ -99412,6 +99429,7 @@ otwg 放倒
 otwg 放债
 otwg 放命
 otwh 烽候
+otwh 放个
 otwn 放假
 otwq 放像
 otwq 族爷
@@ -105409,8 +105427,8 @@ pvgy 空巢班
 pvhh 安上
 pvhh 案目
 pvhi 安步
-pvhj 案桌
 pvhj 安卓
+pvhj 案桌
 pvhn 安眠
 pvht 安睡
 pvic 安泽
@@ -114949,6 +114967,7 @@ rcgx 把素
 rcha 抓鸡虎
 rchc 瓜皮
 rchh 反目
+rchh 摊上
 rchh 打马虎眼
 rchk 反战
 rchk 摊点
@@ -116387,7 +116406,6 @@ rfgu 抚平
 rfgu 朱元璋
 rfgx 质素
 rfgy 反过来说
-rfh 盾
 rfh 扞
 rfha 挂虑
 rfha 爬墙虎
@@ -134082,6 +134100,7 @@ suxx 本益比
 suxy 校编
 suya 梯度
 suyd 校庆
+suyd 西门庆
 suyd 林冲夜奔
 suyf 杜门诗
 suyf 校读
@@ -136999,7 +137018,6 @@ teqt 自助银行
 teqt 盘儿
 tequ 透镜
 ter 秀
-ter 舶
 tera 舯拱
 terb 航摄
 terd 秀拔
@@ -137307,6 +137325,7 @@ tfbn 等了
 tfbn 毛孔
 tfbn 行了
 tfbn 丢了
+tfbn 待了
 tfbn 毛了
 tfbp 行院
 tfbu 行障
@@ -137429,6 +137448,7 @@ tffn 行专
 tffo 街坊
 tffo 千赫
 tffp 等过
+tffp 待过
 tffp 行壶
 tffq 千元
 tffq 行远
@@ -142641,6 +142661,7 @@ tpti 入室升堂
 tpti 航空航天医学
 tptj 管得
 tptm 重定向
+tptm 稳定币
 tptp 管管
 tptq 箢篼
 tptr 利害得失
@@ -144806,6 +144827,7 @@ tvkk 律吕
 tvkm 委员
 tvlc 很轻
 tvlf 很黑
+tvlj 重婚罪
 tvlj 委罪
 tvlq 很软
 tvls 很困
@@ -152383,6 +152405,7 @@ urkk 半制品
 urlf 冷气团
 urlg 闷罐车
 urlk 半拉架
+urln 新势力
 urmn 意气风发
 urmq 产后风
 urmr 剪牡丹喂牛
@@ -160846,6 +160869,7 @@ wfda 人过三十不学艺
 wfdc 会友
 wfdc 舍友
 wfdc 付款码
+wfdc 会者不难
 wfdd 伟大
 wfdd 会厌
 wfde 会有
@@ -168335,6 +168359,7 @@ wwpw 从容
 wwpw 偷窥
 wwpw 偷窃
 wwpw 偷空
+wwpw 坐穿
 wwpw 坐窝
 wwpy 合作社
 wwpy 人祸
@@ -168720,6 +168745,7 @@ wwyq 假借义
 wwys 食人魔
 wwys 坐床
 wwyt 俗话
+wwyt 人话
 wwyu 价廉
 wwyu 众说
 wwyu 俗谚
@@ -175786,6 +175812,7 @@ ydws 识大体
 ydwu 毫不介意
 ydww 毫不做作
 ydwy 诚信
+ydwy 记不住
 ydwy 文成公主
 ydx 庞
 ydxf 高压线
@@ -179012,6 +179039,7 @@ ynbn 忘了
 ynbn 望了
 ynbn 废了
 ynbn 亡了
+ynbn 记了
 ynbn 雇了
 ynbp 为民除害
 ynbp 房院
@@ -179636,7 +179664,6 @@ yntw 刻符
 ynty 废
 ynty 高收入
 ynty 记入
-ynu 戽
 ynu 忞
 ynua 文情并茂
 ynub 望朔
@@ -179747,6 +179774,7 @@ ynws 记叙
 ynws 遍体
 ynws 赢余
 ynws 词余
+ynwt 记作
 ynwt 妄作
 ynwt 忘八
 ynwt 望八
@@ -183150,8 +183178,8 @@ ywyo 座谈
 ywyo 讹变
 ywyq 褒义
 ywyr 盲人读物
-ywyt 夜话
 ywyt 讹诈
+ywyt 夜话
 ywyt 认许
 ywyu 谁说
 ywyu 论说
