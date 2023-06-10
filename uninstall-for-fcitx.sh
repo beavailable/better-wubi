@@ -9,9 +9,9 @@ uninstall_for_fcitx5() {
 
     fcitx5-remote -e && fcitx5-remote -c
 }
-if which fcitx &>/dev/null; then
+if command -v fcitx &>/dev/null; then
     uninstall_for_fcitx
-elif which fcitx5 &>/dev/null; then
+elif command -v fcitx5 &>/dev/null; then
     uninstall_for_fcitx5
 else
     echo 'fcitx or fcitx5 not installed'

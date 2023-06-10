@@ -1,7 +1,7 @@
 #!/bin/bash
 install_for_fcitx() {
     local conf_wbx conf dict icon
-    if ! which txt2mb &>/dev/null; then
+    if ! command -v txt2mb &>/dev/null; then
         echo 'txt2mb not found'
         exit 1
     fi
@@ -19,7 +19,7 @@ install_for_fcitx() {
 }
 install_for_fcitx5() {
     local conf_wbx conf dict icon
-    if ! which libime_tabledict &>/dev/null; then
+    if ! command -v libime_tabledict &>/dev/null; then
         echo 'libime_tabledict not found'
         exit 1
     fi
@@ -35,9 +35,9 @@ install_for_fcitx5() {
 
     fcitx5-remote -e && fcitx5-remote -c
 }
-if which fcitx &>/dev/null; then
+if command -v fcitx &>/dev/null; then
     install_for_fcitx
-elif which fcitx5 &>/dev/null; then
+elif command -v fcitx5 &>/dev/null; then
     install_for_fcitx5
 else
     echo 'fcitx or fcitx5 not installed'
