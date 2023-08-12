@@ -1004,7 +1004,6 @@ adfu 藏幸
 adfw 莽夫
 adfw 若夫
 adfw 莽大夫
-adfy 基础教育
 adfy 苦不堪言
 adg 葳
 adga 巧夺天工
@@ -1141,6 +1140,7 @@ admf 草原雕
 admh 藉由
 admh 綦巾
 admh 项巾
+admq 卧龙凤雏
 admt 蔡达峰
 admu 欺罔
 admw 期内
@@ -1953,6 +1953,7 @@ afkw 贰零
 aflb 茫无边际
 afld 斯坦因
 aflf 攻城略地
+aflg 某国
 aflg 劳动车
 aflh 某甲
 aflh 七十四
@@ -6697,7 +6698,6 @@ atfb 翳地
 atfd 攻城
 atff 工程款
 atff 医坛
-atff 划船运动
 atfg 医士
 atfg 苏黎士
 atfg 攻博
@@ -7602,7 +7602,6 @@ awfd 薛城
 awfd 蕉城
 awff 茌
 awff 花坛
-awff 工人运动
 awff 花墙
 awfg 苏伊士
 awfg 恭士
@@ -8503,7 +8502,6 @@ ayfn 艺文志
 ayfq 荒远
 ayft 荒诞无稽
 ayfu 蔗境
-ayfy 工读教育
 aygd 节育环
 aygd 蓖麻蚕
 aygd 荒天
@@ -10050,7 +10048,6 @@ bidy 函丈
 biei 随波逐流
 biei 随波逐浪
 biep 孙膑
-biet 阳光服务
 bifb 隙地
 biff 防渗墙
 bifi 出没无常
@@ -11057,7 +11054,6 @@ boff 防堵
 boff 防封
 bofh 耿直
 bofx 防老
-bofy 职业教育
 bogh 耿正
 bogq 耿烈
 bogx 防毒
@@ -11536,7 +11532,6 @@ brfo 附势趋炎
 brfp 陆拾壹
 brfw 孤堆
 brfx 孤老
-brfy 函授教育
 brfy 孤坟
 brg 隍
 brgg 隍
@@ -12098,7 +12093,6 @@ bufg 陪考
 bufj 陪都
 bufr 孤立无援
 bufx 陪老
-bufy 职前教育
 bugd 联环
 bugf 陪玩
 bugk 联带
@@ -12726,7 +12720,6 @@ bydu 出言成章
 bydu 出言有章
 bydy 出言有序
 byeb 孩乳
-byet 承诺服务
 byey 陈言肤词
 byfd 陈言老套
 byfn 聊斋志异
@@ -13951,7 +13944,6 @@ cffh 对直
 cffp 对过
 cffu 圣境
 cffw 观者云集
-cffy 通才教育
 cfga 对开
 cfgd 巴戟天
 cfgd 对天
@@ -15940,7 +15932,6 @@ cyfn 骗卖
 cyfp 骗过
 cyfw 圣诞老人
 cyfw 驴夫
-cyfy 通识教育
 cyg 驻
 cyga 叉开
 cygb 驻屯
@@ -16786,7 +16777,6 @@ dcpe 码农
 dcpg 雄富
 dcpl 友军
 dcpr 大通之年
-dcpx 三叉神经
 dcpy 雄视
 dcqc 不能勾
 dcqf 码钱
@@ -21558,7 +21548,6 @@ dipm 大兴安岭
 dipt 不法之徒
 dipt 不肖之徒
 dipu 不治之症
-dipx 感觉神经
 dipy 不淘神
 dipy 耗神
 diqe 耘锄
@@ -22075,7 +22064,6 @@ dkfp 套索
 dkfp 套壳
 dkfq 不露声色
 dkfq 不露圭角
-dkfy 聋哑教育
 dkga 大中型
 dkga 套型
 dkga 套弄
@@ -26418,9 +26406,7 @@ dwft 存储过程
 dwfv 太公鼓刀
 dwfw 大坌坑文化
 dwfx 不伏老
-dwfy 成人教育
 dwfy 有价无市
-dwfy 感化教育
 dwfy 万人坑
 dwg 奏
 dwgc 不值一驳
@@ -27009,7 +26995,6 @@ dxfp 袭过
 dxfr 大张声势
 dxfs 龙圩
 dxfw 故纸堆
-dxfy 在线教育
 dxge 成绩表
 dxgg 龙王
 dxgi 三纲五常
@@ -27279,7 +27264,6 @@ dyfb 三摩地
 dyfc 百度云
 dyfd 太坏
 dyfd 不夜城
-dyff 布朗运动
 dyfg 大主考
 dyfh 矿盐
 dyfh 太真
@@ -36049,7 +36033,6 @@ fhpw 趁空
 fhpw 老虎窗
 fhpw 直突
 fhpw 起窠
-fhpx 动眼神经
 fhpy 直视
 fhpy 走神
 fhpy 越礼
@@ -36632,7 +36615,6 @@ fifn 救场
 fifo 远水救不了近火
 fifp 求索
 fift 求才
-fify 超常教育
 figa 未开
 figa 示形
 figc 未到
@@ -39060,7 +39042,6 @@ fofo 赫赫
 fofq 赤坎
 fofx 赤老
 fofy 赤壤
-fofy 专业教育
 fog 墣
 fogk 赤豆
 fogk 赤带
@@ -40336,7 +40317,6 @@ frfp 赤手起家
 frfq 老白干儿
 frfs 越扶越醉
 frft 十年动乱
-frfy 刊授教育
 frg 垢
 frgg 无所事事
 frgg 十抽一
@@ -40779,7 +40759,6 @@ ftfq 未知元
 ftfq 干船坞
 ftft 土生土长
 ftfu 圪垃
-ftfy 远程教育
 ftg 埵
 ftgc 才到
 ftgf 埵
@@ -41537,7 +41516,6 @@ fwec 堆肥
 fweg 赍助
 fweh 起作用
 fwem 老八股
-fwet 超值服务
 fwf 替
 fwfc 彭佩云
 fwfd 夫人城
@@ -44698,7 +44676,6 @@ gffu 天南地北
 gffv 下坂走丸
 gffw 一块堆
 gffx 列土封疆
-gffy 天才教育
 gfga 玩弄
 gfga 球形
 gfga 一朝天子一朝臣
@@ -48386,6 +48363,7 @@ gmnn 遭忌
 gmnn 现快
 gmnt 两性
 gmnt 再发
+gmnt 再改
 gmnu 再买
 gmnu 再飞
 gmny 再以
@@ -48739,8 +48717,6 @@ gnfj 开发者
 gnfj 殖民者
 gnfn 瓦块
 gnfu 来情去意
-gnfy 平民教育
-gnfy 殖民教育
 gng 珝
 gngc 王尼玛
 gngd 与
@@ -50120,7 +50096,6 @@ grfn 一迭声
 grfp 玖拾壹
 grft 束手无策
 grfu 两手干部
-grfy 素质教育
 grfy 天造地设
 grg 珀
 grga 开拓型
@@ -50481,7 +50456,6 @@ gsph 末官
 gspi 五权宪法
 gspj 曹柯之盟
 gspp 灭顶之灾
-gspx 末梢神经
 gspy 一本初衷
 gsqj 末旬
 gsqt 一醉解千愁
@@ -50973,7 +50947,6 @@ gudw 平仄
 gudw 五音不全
 gudw 斑头雁
 gudw 正六面体
-gudx 副交感神经
 gue 璲
 guea 平毁
 gueb 平服
@@ -52294,7 +52267,6 @@ gyfq 王文元
 gyfw 班规
 gyfw 一高二低
 gyfx 天衣无缝
-gyfy 死亡教育
 gyg 斑
 gyga 玉璜
 gyga 琅琊
@@ -58900,7 +58872,6 @@ ihfb 小教
 ihfc 波动
 ihfc 小劫
 ihfd 小城
-ihff 水上运动
 ihff 小款
 ihfg 小二
 ihfg 小考
@@ -59736,7 +59707,6 @@ iiff 水土
 iiff 沙土
 iiff 法源寺
 iiff 沟沟坎坎
-iiff 滑水运动
 iiff 波波劫劫
 iiff 淅淅索索
 iifg 沙士
@@ -60391,7 +60361,6 @@ iisf 江湖术士
 iisf 水瓢
 iisf 水票
 iisf 水村
-iisf 滑水板运动
 iisg 水槽
 iisi 沧海横流
 iisj 油光可鉴
@@ -61378,7 +61347,6 @@ ilpn 小国寡民
 ilpn 治国安民
 ilpp 涸辙之鲋
 ilpv 小国之君
-ilpx 滑车神经
 ilpy 涟
 ilpy 沉默寡言
 ilqd 溷肴
@@ -65220,8 +65188,6 @@ itff 少款
 itff 流行款
 itff 洋务运动
 itff 深稽博考
-itff 学生运动
-itff 举重运动
 itfg 渊博
 itfg 省垣
 itfh 泛起
@@ -66006,7 +65972,6 @@ iufd 涪城
 iuff 混凝土
 iuff 法门寺
 iuff 汗颜无地
-iuff 滑翔运动
 iuff 滚土
 iufg 沈兼士
 iufh 泮
@@ -66021,7 +65986,6 @@ iufq 洋元
 iufw 清道夫
 iufw 治病救人
 iufx 江北老
-iufy 学前教育
 iufy 清净无为
 iug 泣
 iuga 滚开
@@ -69483,7 +69447,6 @@ jgai 师范
 jgaj 旦暮
 jgaw 题花
 jgaw 旺苍
-jgay 非正式教育
 jgbb 量子
 jgbb 虾子
 jgbb 匙子
@@ -75298,7 +75261,6 @@ khfc 忠魂
 khfc 中云
 khfc 遗却
 khff 中土
-khff 雪上运动
 khff 忠款
 khfg 中考
 khfg 贵干
@@ -78238,11 +78200,9 @@ ksee 霜月
 ksem 中概股
 kses 呵腰
 ksf 嘌
-ksff 雪橇运动
 ksfi 嘌
 ksfi 吁求
 ksfn 噤声
-ksfy 品格教育
 ksg 哂
 ksgc 呆到
 ksgd 霜天
@@ -78311,7 +78271,6 @@ kspg 呆定
 kspo 霜灾
 kspt 叮客
 kspw 呆窒
-kspx 中枢神经
 ksqg 呆钝
 ksqk 霜钟
 ksqn 叮饭
@@ -78475,7 +78434,6 @@ ktfs 中等专业学校
 ktfu 吹毛求疵
 ktfu 吹毛索疵
 ktfx 吃老
-ktfy 中等教育
 ktfy 顺我者昌，逆我者亡
 ktg 唾
 ktga 吃得开
@@ -82497,7 +82455,6 @@ lief 罗汉脚
 liep 踏逐
 lifb 踏地
 liff 蹚土
-liff 蹼泳运动
 lifi 黯淡无光
 lifj 踏进
 lifo 蹈汤赴火
@@ -82663,7 +82620,6 @@ ljfh 踢走
 ljfl 路易十四
 ljfp 罪过
 ljfu 路易十六
-ljfy 回归教育
 ljg 踶
 ljga 踢弄
 ljga 罪刑
@@ -83609,7 +83565,6 @@ lme 蹦
 lmee 蹦
 lmef 跺脚
 lmev 踹腿
-lmff 圆周运动
 lmfg 回骸起死
 lmfh 蹦走
 lmfn 男同志
@@ -83742,7 +83697,6 @@ lnfn 轧场
 lnfp 思索
 lnfp 思过
 lnfw 力夫
-lnfy 国民教育
 lng 翈
 lngc 思致
 lnge 鸭蛋青
@@ -84140,7 +84094,6 @@ lppu 连裆裤
 lppu 连衫裙
 lppu 连补
 lppu 连裆
-lppw 国家安全
 lpq 畹
 lpqb 畹
 lpqe 边角
@@ -84913,8 +84866,8 @@ lrwy 暂停
 lrwy 暂住
 lrwy 跌停
 lrwy 力排众议
-lrxe 四年级
 lrxe 暂缓
+lrxe 四年级
 lrxf 连接线
 lrxq 斩绝
 lrya 跨年度
@@ -84951,11 +84904,9 @@ lsgb 困顿
 lsgk 困束
 lsgl 软木画
 lsgn 置于死地而后快
-lsgo 加权平均数
 lsgq 困死
 lsgs 连根带梢
 lsgt 连本带利
-lsgy 思想政治教育
 lsh 町
 lsi 困
 lsik 加枝添叶
@@ -85105,7 +85056,6 @@ ltfc 跃动
 ltfc 路劫
 ltfc 略去
 ltff 围魏救赵
-ltff 田径运动
 ltfg 路考
 ltfg 回生起死
 ltfh 跃起
@@ -88284,7 +88234,6 @@ mlnj 风力发电
 mlnn 肉跳心惊
 mlnu 崽
 mlpn 肉跳神惊
-mlpx 周围神经
 mlqd 崭然
 mlqe 岬角
 mlqi 贝加尔湖
@@ -89930,7 +89879,6 @@ muoj 风前烛
 mupe 雕塑家
 mupu 赔补
 mupv 赔案
-mupw 财产安全
 mupy 赔礼
 mupy 赠礼
 muq 峧
@@ -90431,7 +90379,6 @@ mxfh 幽真
 mxfh 幽越
 mxfj 幽都
 mxfq 幽远
-mxfy 网络教育
 mxgd 幽天
 mxge 幽静
 mxgf 曲线球
@@ -93215,6 +93162,7 @@ njrm 导师制
 njro 飞蛾扑火
 njro 飞蛾投火
 njrv 慢热
+njsa 慢棋
 njsa 悍横
 njsg 慢于
 njsg 悍梗
@@ -94359,25 +94307,18 @@ nnyw 以己度人
 nnyx 尸饔
 nnyy 巽言
 no 屡
-noad 民族英雄
 noae 屡获
 noah 买断工龄
-noai 民族区域自治
-noay 民族共同语
-nocr 民族矛盾
 nodc 发烧友
 node 屡有
 noeb 屡犯
 noee 心膂股肱
 noep 屡受
-noeu 民族服装
-noff 民族运动
 nofo 以火救火
 nofo 已精求精
 nofp 导火索
 nofp 导爆索
 nog 憕
-noga 民族形式
 nogm 屡遭
 nogu 憕
 noi 屎
@@ -94385,21 +94326,15 @@ noip 民族学
 noit 避火浴血
 nojm 改旗易帜
 nomm 屎山
-nomw 民族同化
 nong 惟精惟一
 nonh 屎蛋
 noni 屎尿
 nono 屡屡
-nons 民族性格
 nont 民族性
 noo 惔
-noop 民族精神
 noot 快炒族
 nooy 惔
 nopj 屡审
-noqb 民族乐队
-noqf 民族解放运动
-noqk 民族乐器
 noqn 蛋炒饭
 nora 心膂爪牙
 nori 心粗气浮
@@ -94408,26 +94343,20 @@ norl 心烦气躁
 norm 买断制
 nosa 屎棋
 nosd 屎橛
-noti 民族自治
-notu 民族自决
 notv 收放自如
 nouq 屡次
-nous 民族资本
 nout 心烦意乱
 nouw 收旗卷伞
-noux 民族资产阶级
 nov 屡
 novd 屡
 nowb 屡创
 nowf 屡传
-nowy 民族体育
 noxc 屡经
 noxf 导火线
 noxt 民族乡
 noxu 发烟弹
 noya 屡试
 noyf 买方市场
-noyw 民族文化
 noyy 民族主义
 np 忱
 npae 悔之莫及
@@ -97610,7 +97539,6 @@ ofpb 方块字
 ofpf 迷魂寨
 ofpf 方寸之地
 ofpw 灶突
-ofpx 迷走神经
 ofpy 灶神
 ofql 火赤链
 ofqn 烤饼
@@ -98439,7 +98367,6 @@ omds 火山灰危机
 omdt 粉骨碎身
 omeb 登山服
 omfb 火山孝子
-omff 登山运动
 omfk 火山地震
 omft 灼见真知
 omg 烔
@@ -100259,7 +100186,6 @@ owfg 粉垣
 owfh 粉真
 owfi 精禽填海
 owfo 粉坊
-owfy 业余教育
 owg 爚
 owga 爚
 owga 迷你型
@@ -100771,7 +100697,6 @@ paeb 割靴腰子
 paeg 社区助理
 paeg 宽狭
 paep 宽爱
-paet 社区服务
 paeu 密斯脱
 paeu 褐藻胶
 pafb 宅基地
@@ -102305,7 +102230,6 @@ pgeg 鲭
 pgeg 富县
 pgel 字正腔圆
 pgep 宝爱
-pget 家政服务
 pgev 宣腿
 pgfa 宝塔
 pgfb 宝地
@@ -103665,7 +103589,6 @@ pnfb 密教
 pnfc 密云
 pnff 鳚
 pnff 密封
-pnff 农民运动
 pnff 安心塌地
 pnfr 襟怀坦白
 pnfr 安慰动物
@@ -104729,7 +104652,6 @@ pten 鱼肠
 pteo 安生服业
 pteq 鱼狗
 pter 鱼鹞
-ptes 福利彩票
 pteu 鱼胶
 ptfa 穿街过巷
 ptfb 之乎者也
@@ -104744,8 +104666,6 @@ ptfk 鱼鼓
 ptfn 客场
 ptfn 鱼场
 ptfy 鱼塘
-ptfy 初等教育
-ptfy 定向培育
 ptgk 家务事
 ptgl 写生画
 ptgm 鱼刺
@@ -107193,12 +107113,10 @@ pyfk 禄蠹
 pyfm 穿衣戴帽
 pyfn 神志
 pyfn 视场
-pyfp 安康教室
 pyfq 安启元
 pyfr 客座教授
 pyft 祾
 pyfw 禛
-pyfy 家庭教育
 pyfy 祖坟
 pyg 福
 pyga 神武
@@ -109639,7 +109557,6 @@ qhee 外貌
 qheg 外县
 qheh 外用
 qhel 外舅
-qhet 钟点服务
 qhey 外脑
 qhfa 外域
 qhfa 钻塔
@@ -111591,7 +111508,6 @@ qnpu 外层空间
 qnpw 包容
 qnpw 包空
 qnpw 饭窠
-qnpx 外展神经
 qnpy 金履祥
 qnpy 馌礼
 qnq 饮
@@ -114689,7 +114605,6 @@ rafc 拱动
 rafe 搭圾
 raff 拆东墙补西墙
 raff 拆东墙，补西墙
-raff 技巧运动
 raff 挖东墙补西墙
 rafg 挑茶斡刺
 rafh 搭起
@@ -115161,7 +115076,6 @@ rbfa 报载
 rbfc 摄魂
 rbff 摄坛
 rbff 报坛
-rbff 造陆运动
 rbfg 报考
 rbfh 拙直
 rbfi 拯救
@@ -118133,7 +118047,6 @@ rhfc 特支
 rhfd 犊
 rhfd 扑城
 rhff 特
-rhff 垫上运动
 rhfg 牡
 rhfg 特考
 rhfg 爪士
@@ -123542,7 +123455,6 @@ rrfu 白墡
 rrfw 哲夫
 rrfw 抓夫
 rrfy 招摇过市
-rrfy 挫折教育
 rrg 拍
 rrga 掀开
 rrga 拆开
@@ -128547,6 +128459,7 @@ sagg 棋王
 sagh 横下
 sagj 横亘
 sagj 横理
+sagj 棋理
 sagk 横事
 sagm 横遭
 sago 桂薪玉粒
@@ -128864,7 +128777,6 @@ sbea 横隔膜
 sbee 李鹏
 sbep 梆子腔
 sbf 李
-sbff 极限运动
 sbfk 配子囊
 sbfw 李逵
 sbgf 椭球
@@ -128989,7 +128901,6 @@ scex 树脂
 scf 树
 scfa 树栽
 scfc 梭动
-scff 相对运动
 scfg 柽
 scfg 树干
 scfg 相对真理
@@ -133283,7 +133194,6 @@ srnt 可看性
 srnt 可批性
 srnw 株戮
 srnx 哥白尼
-srnx 植物性神经
 srny 板心
 sro 檄
 srob 棉籽
@@ -139055,7 +138965,6 @@ tgfc 重云
 tgfd 片瓦无存
 tgfd 生坯
 tgff 生土
-tgff 等速运动
 tgff 熏土
 tgfg 重考
 tgfg 策士
@@ -139373,7 +139282,6 @@ tgpw 垂帘
 tgpw 垂察
 tgpw 利玛窦
 tgpw 循理安分
-tgpx 舌下神经
 tgpy 重视
 tgpy 重礼
 tgpy 生祠
@@ -140521,17 +140429,11 @@ tif 衍
 tifb 策源地
 tiff 微波墙
 tifh 衍
-tifh 利润增长点
 tifj 自流井
 tifj 透河井
 tifn 愆
-tift 科学教育影片
 tifu 舌尖元音
 tifw 重水堆
-tify 自学考试
-tify 生活教育
-tify 自治都市
-tify 科举考试
 tig 簿
 tiga 秒开
 tigd 香消玉碎
@@ -141560,7 +141462,6 @@ tkpu 和袖
 tkpv 积案
 tkpw 复员军人
 tkpw 禹穴
-tkpx 舌咽神经
 tkpy 德川家康
 tkpy 积福
 tkqa 和氏
@@ -142041,7 +141942,6 @@ tmad 躲藏
 tmad 自由基
 tmad 役期
 tmae 徽菜
-tmaf 自由落体运动
 tmah 躺卧
 tmah 微臣
 tmai 向东
@@ -143227,7 +143127,6 @@ tpf 筦
 tpfb 管教
 tpfb 乏地
 tpfd 管城
-tpff 航空运动
 tpfh 乏趣
 tpfj 待富者
 tpfj 管井
@@ -146449,7 +146348,6 @@ tyff 入土
 tyff 微论坛
 tyff 入款
 tyff 篱墙
-tyff 简谐运动
 tyfg 篱垣
 tyfh 入超
 tyfj 入朝
@@ -146594,8 +146492,6 @@ typn 入寐
 typt 入宅
 typu 往初
 typv 稿案
-typw 和谐社会
-typx 自主神经
 typy 甜言蜜语
 typy 入神
 typy 入社
@@ -147068,7 +146964,6 @@ ubfn 闻声
 ubfp 塑壳
 ubfu 逆境
 ubfu 逆增
-ubfy 亲职教育
 ubgc 闻到
 ubgd 逆天
 ubgh 朔政
@@ -147247,16 +147142,13 @@ ucfe 斗鸡走狗
 ucfi 旁观者清
 ucfj 闯进
 ucfj 旁观者
-ucfm 交通规则
 ucfm 痛击
 ucfo 冶坊
 ucfp 闯过
 ucfr 闻鸡起舞
 ucfu 闯丧
-ucfy 普通教育
 ucfy 交通壕
 ucg 冯
-ucgd 交通事故
 ucgg 闯王
 ucgh 闯下
 ucgk 竣事
@@ -147312,7 +147204,6 @@ ucos 交通灯
 ucot 门巴族
 ucpg 痛定
 ucpt 闯客
-ucpw 交通安全
 ucpw 冶容
 ucpw 闯窃
 ucpy 闯祸
@@ -148028,7 +147919,6 @@ udpv 翔安
 udpw 关窗
 udpw 判空
 udpw 辨察
-udpx 交感神经
 udpx 间不容缓
 udpy 送礼
 udpy 送神
@@ -150001,7 +149891,6 @@ uhee 站貌
 uheq 癞皮狗
 uheq 背紫腰金
 uhew 瘦皮猴
-uhff 冰上运动
 uhfh 站起
 uhfh 站址
 uhfh 站直
@@ -150186,7 +150075,6 @@ uifb 瘠地
 uifc 冰魂
 uiff 冰封
 uiff 瘠土
-uiff 冲浪运动
 uifk 冰囊
 uifl 冰协
 uifm 冰坝
@@ -152296,7 +152184,6 @@ upef 将军肚
 upey 旁及
 upfa 普鲁士蓝
 upfc 旁支
-upff 新农夫运动
 upfg 普鲁士
 upfi 旁求
 upfj 帝都
@@ -153092,7 +152979,6 @@ ureu 单打独斗
 urfd 前所未有
 urfe 旁搜博采
 urfe 亲操井臼
-urff 竞技运动
 urfg 斗牛士
 urfg 辩护士
 urfm 前所未见
@@ -153889,7 +153775,6 @@ utfc 半自动
 utfc 卷积云
 utff 首款
 utff 首航封
-utff 瘦身运动
 utfg 道士
 utfg 道考
 utfh 疾走
@@ -153905,15 +153790,12 @@ utfk 道喜
 utfn 首场
 utfn 道场
 utfn 恣行无忌
-utfr 冷血动物
 utfu 卷舌元音
 utfu 北魏孝文帝
 utfw 半自动化
 utfw 道规
 utfx 旁征博引
 utfx 阁老
-utfy 道德教育
-utfy 道德真言
 utga 首开
 utgb 逆入平出
 utgc 关系到
@@ -155886,8 +155768,6 @@ uyiy 闲言淡语
 uyji 北京师范大学
 uyjj 六日
 uyjt 闹监
-uyju 北京时间
-uyjx 前庭蜗神经
 uyjy 凉影
 uyka 闹哄
 uykf 六味
@@ -156143,7 +156023,6 @@ uywd 闹仗
 uywf 瘁
 uywf 辩论会
 uywf 旁敲侧击
-uywf 新文化运动
 uywg 六合
 uywg 首席代表
 uywh 六个
@@ -159330,7 +159209,6 @@ vvfb 妇教
 vvfc 妇运
 vvfd 姊妹城
 vvff 女墙
-vvff 妇女运动
 vvff 女款
 vvfg 女士
 vvfg 女垣
@@ -159515,7 +159393,6 @@ vwdp 九命奇冤
 vwds 忍俊不禁
 vwdw 忍俊不住
 vwep 嫌贫爱富
-vwff 群众运动
 vwfg 女修士
 vwfw 婢作夫人
 vwg 姶
@@ -159971,7 +159848,6 @@ wapn 仙草蜜
 wapp 代之
 wapt 供客
 wapv 供案
-wapw 公共安全
 wapw 借宿
 wapy 供神
 wapy 供祀
@@ -160318,7 +160194,6 @@ wbpn 仔密
 wbpt 仔鱼
 wbpt 创客
 wbpw 仓容
-wbpx 传出神经
 wbq 鸧
 wbqg 鸧
 wbqp 保险金额
@@ -160497,7 +160372,6 @@ wcey 仅及
 wcfb 公地
 wcfd 瓮城
 wcff 公款
-wcff 全能运动
 wcfg 公干
 wcfg 公士
 wcfg 公寸
@@ -161634,6 +161508,7 @@ wfdg 忿恚不平
 wfdh 会在
 wfdh 会否
 wfdh 会不
+wfdi 欲求不满
 wfdi 佳耦
 wfdj 仁厚
 wfdj 什百
@@ -164202,7 +164077,6 @@ wkec 保胎
 wkec 保肥
 wkeh 保用
 wkes 保膘
-wket 售中服务
 wket 贪口腹
 wkew 做嘴脸
 wkfa 仲裁
@@ -164218,11 +164092,9 @@ wkfi 伪需求
 wkfi 欲哭无泪
 wkfj 儒者
 wkfp 余味无穷
-wkft 人口过剩
 wkft 何患无辞
 wkfu 保墒
 wkfu 合口元音
-wkfw 人口老化
 wkg 俣
 wkgd 俣
 wkgh 保正
@@ -164230,7 +164102,6 @@ wkgi 信口开河
 wkgj 保理
 wkgq 仲虺
 wkgt 众口一辞
-wkgt 人口政策
 wkgt 贫嘴恶舌
 wkgw 信口开合
 wkgy 众口一词
@@ -164246,11 +164117,9 @@ wkip 儒学
 wkip 人口学
 wkip 命中注定
 wkir 侃派
-wkir 食品添加物
 wkit 保活
 wkit 贫嘴滑舌
 wkiw 保举
-wkiy 食品添加剂
 wkjd 伴唱影碟
 wkje 保暖
 wkjg 保量
@@ -164294,7 +164163,6 @@ wknn 侃快
 wknw 贪吃懒做
 wknx 仲尼
 wkod 食味方丈
-wkoo 人口爆炸
 wkos 信号灯
 wkot 信号旗
 wkpd 人中之龙
@@ -164307,7 +164175,6 @@ wkpf 儒冠
 wkpf 堡寨
 wkpg 保定
 wkpi 华中农业大学
-wkpj 人口容量
 wkpn 保密
 wkpt 偏口鱼
 wkpt 保额
@@ -164315,9 +164182,6 @@ wkpu 保鲜
 wkpu 瓮中之鳖
 wkpv 保安
 wkpv 保案
-wkpw 食品安全
-wkpx 位听神经
-wkpy 人口密度
 wkpy 保禳
 wkqk 会员名
 wkqk 人口钟
@@ -164328,12 +164192,10 @@ wkqy 保留
 wkrf 保持
 wkrf 保质
 wkrg 保皇
-wkrj 人口质量
 wkrk 保靠
 wkrm 会员制
 wkrn 倒噎气
 wkrq 保抱
-wkrt 供需失衡
 wkru 瓮中捉鳖
 wkry 保护
 wks 保
@@ -164361,6 +164223,7 @@ wktg 保生
 wktg 众口熏天
 wkth 保息
 wkti 华中科技大学
+wktk 保种
 wktm 保身
 wktm 人品币
 wkto 保释
@@ -164369,7 +164232,6 @@ wktp 保管
 wktu 保税
 wktu 仲冬
 wktu 人口税
-wkty 人口自然增加率
 wkud 保养
 wkud 保送
 wkud 保状
@@ -164380,7 +164242,6 @@ wkum 儒商
 wkun 个别差异
 wkuq 儒将
 wkur 众口交赞
-wkus 人口普查
 wkuw 保准
 wkva 保媒
 wkve 儒艮
@@ -164738,7 +164599,6 @@ wmph 仙官
 wmpt 仙客
 wmpu 贫贱之交
 wmpw 仙鹤
-wmpx 坐骨神经
 wmpy 侧视
 wmq 伣
 wmqd 倜然
@@ -164962,7 +164822,6 @@ wnft 人忙无智
 wnfu 领导干部
 wnfw 舍己救人
 wnfy 僻壤
-wnfy 公民教育
 wng 伺
 wnga 佶屈聱牙
 wngb 领导班子
@@ -165607,7 +165466,6 @@ wpeg 贫富悬殊
 wpen 含冤受屈
 wpey 侬
 wpf 倧
-wpff 舍宾运动
 wpfi 倧
 wpfp 人穷志不穷
 wpft 人穷志短
@@ -165839,7 +165697,6 @@ wqfa 仰戴
 wqfb 低地
 wqfb 爹地
 wqfc 低云
-wqff 保钓运动
 wqfg 合金元素
 wqfh 仰起
 wqfh 低走
@@ -166225,7 +166082,6 @@ wreg 偏执狂
 wrel 伯舅
 wrem 优先股
 wret 售后服务
-wret 优质服务
 wrew 做鬼脸
 wrfa 倒持干戈
 wrfd 凭白无故
@@ -167033,7 +166889,6 @@ wtem 八股
 wtep 作爱
 wteq 侨胞
 wteq 傻狗
-wtet 信息服务
 wtew 作脸
 wtew 伤脸
 wtew 仰鼻猴
@@ -167331,9 +167186,7 @@ wtpt 作客
 wtpu 作裙
 wtpv 作案
 wtpw 凭空
-wtpw 人身安全
 wtpw 八宿
-wtpx 传入神经
 wtpy 伤神
 wtpy 八神
 wtpy 凭祥
@@ -167748,7 +167601,6 @@ wufb 休闲地
 wufc 佯动
 wufc 傍支
 wufe 人间地狱
-wuff 健美运动
 wuff 僧寺
 wufh 伴
 wufh 位址
@@ -167760,7 +167612,6 @@ wufr 低头丧气
 wuft 八斗才
 wuft 倚门卖笑
 wufu 倍增
-wufy 人道教育
 wug 位
 wuga 伞形
 wugc 倦致
@@ -170051,9 +169902,6 @@ wyep 令爱
 wyep 信受
 wyep 贪爱
 wyer 令狐
-wyes 体育彩票
-wyet 健康服务
-wyet 会议服务
 wyeu 食膳
 wyeu 追亡逐北
 wyev 停妥
@@ -170075,7 +169923,6 @@ wyfd 健康城
 wyfd 化度寺碑
 wyff 领土
 wyff 信封
-wyff 体育运动
 wyff 领款
 wyff 八文十二
 wyff 食土
@@ -170111,9 +169958,6 @@ wyft 偏才
 wyfu 邻境
 wyfu 领墒
 wyfw 代庖越俎
-wyfy 健康教育
-wyfy 会议专业户
-wyfy 人文教育
 wyg 信
 wygb 停顿
 wygc 领到
@@ -174035,7 +173879,6 @@ xtfp 𬘩
 xtfw 纤夫
 xtfw 绵延起伏
 xtfx 终老
-xtfy 终身教育
 xtfy 乡壤
 xtg 𫄸
 xtga 张开
@@ -174386,7 +174229,6 @@ xuev 弹腿
 xuew 红新月会
 xuew 绞脸
 xuf 绊
-xuff 维新运动
 xufh 绊
 xufj 弱者
 xufj 弱翰
@@ -174938,10 +174780,8 @@ xxfj 终结者
 xxfm 张纪南
 xxfp 比索
 xxft 比才
-xxfy 继续教育
 xxg 丝
 xxga 比武
-xxga 组织形式
 xxgc 比至
 xxgc 毕至
 xxgf 丝
@@ -175198,7 +175038,6 @@ xydu 比肩而立
 xyee 弦月
 xyef 缠脚
 xyes 编采
-xyff 绷床运动
 xyfg 统考
 xyfj 编者
 xyfn 编磬
@@ -175475,7 +175314,6 @@ yafa 诬栽
 yafb 席地
 yafb 熟荒地
 yafc 度支
-yaff 启蒙运动
 yafg 谋士
 yafg 义薄云天
 yafh 度越
@@ -177415,7 +177253,6 @@ ygfc 主动
 ygfc 请去
 ygfc 刘青云
 ygfc 语支
-ygff 变速运动
 ygfg 主干
 ygfg 主考
 ygfi 请求
@@ -178658,7 +178495,6 @@ ykfn 误场
 ykfu 吝啬
 ykfw 衰替
 ykfx 衰老
-ykfy 盲哑教育
 ykg 误
 ykgc 识到
 ykgd 误
@@ -182416,8 +182252,6 @@ ytfp 谢过
 ytfp 诈索
 ytfq 刘知远
 ytfw 刻舟求剑
-ytfy 高等教育
-ytfy 义务教育
 ytga 磨得开
 ytga 文德武功
 ytga 话弄
@@ -183472,7 +183306,6 @@ ywfw 腐
 ywfw 夜夫
 ywfw 高低起伏
 ywfw 郭公真人
-ywfy 文化教育
 ywg 诠
 ywga 豪华型
 ywga 腐刑
@@ -184279,9 +184112,8 @@ yyfq 广元
 yyfq 广远
 yyfr 翩翩起舞
 yyft 文才
-yyfy 广州起义
-yyfy 应试教育
 yyfy 谆谆教诲
+yyfy 广州起义
 yyg 广
 yyga 文武
 yyga 广武
