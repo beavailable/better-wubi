@@ -147,6 +147,16 @@ cd better-wubi
 ```
 然后在`fcitx`设置面板添加`better-wubi`输入法即可。
 
+## Android
+
+### [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
+[点击这里](https://fcitx5-android.github.io/faq/#_2)查看教程。
+
+注意：不可使用`better-wubi.dict`作为导入的码表，而应该使用如下命令生成码表文件：
+```shell
+./convert.py fcitx >better-wubi.txt
+```
+
 # 脚本
 `convert.py`可以将码表转换为你需要的格式。
 
