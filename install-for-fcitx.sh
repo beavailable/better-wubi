@@ -33,7 +33,7 @@ install_for_fcitx5() {
     cp ./icon.png $icon
     sed -E -e "s/^(Name.*=).+\$/\1better-wubi/" -e "s!^File=.+\$!File=$dict!" -e "s!^Icon=.+\$!Icon=$icon!" $conf_wbx >$conf
 
-    fcitx5-remote -e && fcitx5-remote -c
+    dbus-send --type=method_call --dest=org.fcitx.Fcitx5 /controller org.fcitx.Fcitx.Controller1.Restart
 }
 if command -v fcitx &>/dev/null; then
     install_for_fcitx

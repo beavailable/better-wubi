@@ -7,7 +7,7 @@ uninstall_for_fcitx() {
 uninstall_for_fcitx5() {
     rm -f ~/.local/share/fcitx5/inputmethod/better-wubi.{conf,main.dict,png}
 
-    fcitx5-remote -e && fcitx5-remote -c
+    dbus-send --type=method_call --dest=org.fcitx.Fcitx5 /controller org.fcitx.Fcitx.Controller1.Restart
 }
 if command -v fcitx &>/dev/null; then
     uninstall_for_fcitx
