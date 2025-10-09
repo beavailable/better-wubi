@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 uninstall_for_fcitx() {
     rm -f ~/.config/fcitx/table/better-wubi.{conf,mb,png}
 

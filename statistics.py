@@ -1,4 +1,5 @@
-#!/bin/python3
+#!/usr/bin/python3
+
 
 def print_freq(freq):
     left_total, right_total, total = 0, 0, 0
@@ -9,13 +10,22 @@ def print_freq(freq):
     total = left_total + right_total
     for c in 'abcdefghijklmnopqrstuvwxy':
         freq[c] = f'{freq[c]/total:.1%}'
-    print('-------------------------------------------------------------------------------------------')
-    print(f"| Q-{freq['q']} | W-{freq['w']} | E-{freq['e']} | R-{freq['r']} | T-{freq['t']} | Y-{freq['y']} | U-{freq['u']} | I-{freq['i']} | O-{freq['o']} | P-{freq['p']} |")
-    print('-------------------------------------------------------------------------------------------')
-    print(f" | A-{freq['a']} | S-{freq['s']} | D-{freq['d']} | F-{freq['f']} | G-{freq['g']} | H-{freq['h']} | J-{freq['j']} | K-{freq['k']} | L-{freq['l']} |")
+    print(
+        '-------------------------------------------------------------------------------------------'
+    )
+    print(
+        f"| Q-{freq['q']} | W-{freq['w']} | E-{freq['e']} | R-{freq['r']} | T-{freq['t']} | Y-{freq['y']} | U-{freq['u']} | I-{freq['i']} | O-{freq['o']} | P-{freq['p']} |"
+    )
+    print(
+        '-------------------------------------------------------------------------------------------'
+    )
+    print(
+        f" | A-{freq['a']} | S-{freq['s']} | D-{freq['d']} | F-{freq['f']} | G-{freq['g']} | H-{freq['h']} | J-{freq['j']} | K-{freq['k']} | L-{freq['l']} |"
+    )
     print(' ----------------------------------------------------------------------------------')
     print(
-        f"   | Z      | X-{freq['x']} | C-{freq['c']} | V-{freq['v']} | B-{freq['b']} | N-{freq['n']} | M-{freq['m']} |")
+        f"   | Z      | X-{freq['x']} | C-{freq['c']} | V-{freq['v']} | B-{freq['b']} | N-{freq['n']} | M-{freq['m']} |"
+    )
     print('   ----------------------------------------------------------------')
     print(f'总计 {total}，左右比例为 {left_total/total:.1%}:{right_total/total:.1%}')
 
@@ -70,7 +80,7 @@ def main():
     with open('better-wubi.dict') as f:
         for line in f:
             idx = line.index(' ')
-            code, value = line[:idx], line[idx + 1:-1]
+            code, value = line[:idx], line[idx + 1 : -1]
             if len(value) == 1:
                 chars.append((code, value))
             else:

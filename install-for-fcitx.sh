@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 install_for_fcitx() {
     local conf_wbx conf dict icon
     if ! command -v txt2mb &>/dev/null; then

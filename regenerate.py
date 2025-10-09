@@ -1,11 +1,11 @@
-#!/bin/python3
+#!/usr/bin/python3
 result, words = [], []
 cc = {}
 
 with open('better-wubi.dict') as f:
     for line in f:
         idx = line.index(' ')
-        code, value = line[:idx], line[idx + 1:-1]
+        code, value = line[:idx], line[idx + 1 : -1]
         if len(value) == 1:
             result.append((code, value))
             if len(code) >= 2:

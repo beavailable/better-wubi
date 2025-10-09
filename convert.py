@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/python3
 import sys
 import os
 
@@ -19,7 +19,7 @@ with open(f'{name}/format') as f:
 with open('better-wubi.dict') as f:
     for line in f:
         idx = line.index(' ')
-        code, value = line[:idx], line[idx + 1:-1]
+        code, value = line[:idx], line[idx + 1 : -1]
         print(fmt.format(code=code, value=value))
 
 tail = f'{name}/tail'
