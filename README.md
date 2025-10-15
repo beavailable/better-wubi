@@ -40,7 +40,7 @@ yctd 诶
 
 不过平心而论，新世纪版也有一些优点，比如字根设计及拆字方案总体上确实更加合理了，对于新手来说也更易学易用了，本项目对 86 版五笔的一些改进也参考了新世纪版的设计。
 
-# 来源
+## 来源
 原始码表来源于[CNMan/rime-data](https://github.com/CNMan/rime-data)，以下是码表介绍：
 - 仅含《通用规范汉字表》8105字范围内的字和词语。
 - 修正、统一了王码大一统新世纪版五笔字型错误编码
@@ -55,7 +55,7 @@ yctd 诶
 - 词语总数拟控制在15万左右，其中“五词典”以外词语总数约1.5万
 - 旨在打造整体偏“学术”的字词码表，欢迎大家提出意见和建议，谢谢！
 
-# 更改
+## 更改
 在原始码表的基础上，我做了如下更改：
 - 字根更改：
     - [x] 将`W`键上的`癸`字头移至`O`键
@@ -126,17 +126,17 @@ yctd 诶
 
 本项目会持续改进，如果还有明显不合理或错误的地方，欢迎提出改进建议。
 
-# 使用
+## 使用
 本项目只是一个码表，理论上可用于任何支持自定义码表的输入法。
 
-## Win10 & Win11
+### Win10 & Win11
 首先[下载码表](https://raw.githubusercontent.com/beavailable/better-wubi/main/better-wubi.dict)，然后使用[WubiLex](https://github.com/aardio/wubi-lex)将码表安装到系统里。
 
 注意：由于`WubiLex`只接受特定扩展名的码表文件，你可能需要将码表重命名为`better-wubi.txt`才能添加。
 
-## Debian & Ubuntu
+### Debian & Ubuntu
 
-### fcitx
+#### fcitx
 ```shell
 # requires
 # fcitx: sudo apt install fcitx fcitx-table-wubi fcitx-tools
@@ -147,9 +147,9 @@ cd better-wubi
 ```
 然后在`fcitx`设置面板添加`better-wubi`输入法即可。
 
-## Android
+### Android
 
-### [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
+#### [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
 [点击这里](https://fcitx5-android.github.io/faq/#_2)查看教程。
 
 注意：不可使用`better-wubi.dict`作为导入的码表，而应该使用如下命令生成码表文件：
@@ -157,17 +157,17 @@ cd better-wubi
 ./convert.py fcitx >better-wubi.txt
 ```
 
-# 脚本
+## 脚本
 `convert.py`可以将码表转换为你需要的格式。
 
 `regenerate.py`可以重新生成（根据单字编码）并排序码表。
 
 `statistics.py`可以查看相关的统计信息。
 
-# 鸣谢
+## 鸣谢
 - 王码五笔发明者王永民先生
 - [CNMan](https://github.com/CNMan) 提供原始码表
 - [字甲达宾](https://bbs.deepin.org/user/53398) 制作图标
 
-# 版权
+## 版权
 版权归王码公司所有，禁止商用。
